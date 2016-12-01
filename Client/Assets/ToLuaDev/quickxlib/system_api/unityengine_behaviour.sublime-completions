@@ -1,0 +1,20 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local Behaviour = UnityEngine.Behaviour",
+		"Behaviour = UnityEngine.Behaviour",
+		"UnityEngine.Behaviour.__eq()",
+		"UnityEngine.Behaviour.__tostring()",
+		"UnityEngine.Behaviour.enabled",
+		"behaviour.enabled",
+		"UnityEngine.Behaviour.isActiveAndEnabled",
+		"behaviour.isActiveAndEnabled",
+		{ "trigger": "UnityEngine.Behaviour.New()","contents": "UnityEngine.Behaviour.New()"},
+		{ "trigger": "Behaviour.New()","contents": "Behaviour.New()"},
+		"UnityEngine.Behaviour.op_Equality",
+		{ "trigger": "UnityEngine.Behaviour.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "UnityEngine.Behaviour.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+		{ "trigger": "Behaviour.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "Behaviour.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+	]
+}
+

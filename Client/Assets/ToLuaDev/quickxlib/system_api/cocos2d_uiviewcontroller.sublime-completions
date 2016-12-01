@@ -1,0 +1,12 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local UIViewController = Cocos2d.UIViewController",
+		"UIViewController = Cocos2d.UIViewController",
+		"Cocos2d.UIViewController.__tostring()",
+		"Cocos2d.UIViewController.view",
+		"uIViewController.view",
+	]
+}
+

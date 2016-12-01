@@ -1,0 +1,24 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local CCDirectorMac = Cocos2d.CCDirectorMac",
+		"CCDirectorMac = Cocos2d.CCDirectorMac",
+		"Cocos2d.CCDirectorMac.__tostring()",
+		"Cocos2d.CCDirectorMac.sharedDirector",
+		"cCDirectorMac.sharedDirector",
+		"Cocos2d.CCDirectorMac.eventDispatcher",
+		"cCDirectorMac.eventDispatcher",
+		"Cocos2d.CCDirectorMac.view",
+		"cCDirectorMac.view",
+		"Cocos2d.CCDirectorMac.isFullScreen",
+		"cCDirectorMac.isFullScreen",
+		{ "trigger": "Cocos2d.CCDirectorMac.New()","contents": "Cocos2d.CCDirectorMac.New()"},
+		{ "trigger": "CCDirectorMac.New()","contents": "CCDirectorMac.New()"},
+		"Cocos2d.CCDirectorMac.convertEventToGL",
+		{ "trigger": "Cocos2d.CCDirectorMac.convertEventToGL(NSEvent:evt)","contents": "Cocos2d.CCDirectorMac.convertEventToGL(${1:NSEvent:evt})"},
+		{ "trigger": ":convertEventToGL(NSEvent:evt)","contents": "convertEventToGL(${1:NSEvent:evt})"},
+		{ "trigger": "cCDirectorMac:convertEventToGL(NSEvent:evt)","contents": "cCDirectorMac:convertEventToGL(${1:NSEvent:evt})"},
+	]
+}
+

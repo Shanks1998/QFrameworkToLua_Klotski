@@ -1,0 +1,34 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local QApp = QFramework.QApp",
+		"QApp = QFramework.QApp",
+		"QFramework.QApp.__eq()",
+		"QFramework.QApp.__tostring()",
+		"QFramework.QApp.mode",
+		"qApp.mode",
+		"QFramework.QApp.onUpdate",
+		"qApp.onUpdate",
+		"QFramework.QApp.onFixedUpdate",
+		"qApp.onFixedUpdate",
+		"QFramework.QApp.onLatedUpdate",
+		"qApp.onLatedUpdate",
+		"QFramework.QApp.onGUI",
+		"qApp.onGUI",
+		"QFramework.QApp.onDestroy",
+		"qApp.onDestroy",
+		"QFramework.QApp.onApplicationQuit",
+		"qApp.onApplicationQuit",
+		"QFramework.QApp.Instance",
+		"qApp.Instance",
+		"QFramework.QApp.QFramework_QApp_LifeCircleCallback",
+		"QApp.QFramework_QApp_LifeCircleCallback",
+		"QFramework.QApp.op_Equality",
+		{ "trigger": "QFramework.QApp.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "QFramework.QApp.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+		{ "trigger": "QApp.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "QApp.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+		"QFramework.QApp.LifeCircleCallback",
+		"QApp.LifeCircleCallback",
+	]
+}
+

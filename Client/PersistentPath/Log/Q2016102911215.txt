@@ -1,0 +1,78 @@
+10/29/2016 01:12:15	Instance Name: QMsgCenter
+10/29/2016 01:12:15	DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+10/29/2016 01:12:15	Add New Singleton QMsgCenter in Game!
+10/29/2016 01:12:15	QMsgCenter Init
+10/29/2016 01:12:15	Multiple EventSystems in scene... this is not supported
+10/29/2016 01:12:15	Already exist: QUGUIMgr(Clone)
+10/29/2016 01:12:16	1:12:16.305-3: Register lua type cost time: 0.2280891
+10/29/2016 01:12:16	1:12:16.315-3: LuaState start
+10/29/2016 01:12:16	从这里开始游戏吗?
+10/29/2016 01:12:16	LuaFramework太好用了
+10/29/2016 01:12:16	1:12:16.346-3: [Common/functions.lua:396]:true    class() - create class "HomeLayer" with invalid super class type "table"
+10/29/2016 01:12:16	1:12:16.348-3: [Common/functions.lua:396]:true    class() - create class "CCSprite" with invalid super class type "table"
+10/29/2016 01:12:16	1:12:16.349-3: [Common/functions.lua:396]:true    class() - create class "CCToggle" with invalid super class type "table"
+10/29/2016 01:12:16	1:12:16.351-3: [Common/functions.lua:396]:true    class() - create class "CCButton" with invalid super class type "table"
+10/29/2016 01:12:16	1:12:16.353-3: [Common/functions.lua:396]:true    class() - create class "SuperHero" with invalid super class type "table"
+10/29/2016 01:12:16	1:12:16.354-3: [Common/functions.lua:396]:true    class() - create class "BlueHero" with invalid super class type "table"
+10/29/2016 01:12:16	1:12:16.356-3: [Common/functions.lua:396]:true    class() - create class "RedHero" with invalid super class type "table"
+10/29/2016 01:12:16	1:12:16.358-3: [Common/functions.lua:396]:true    class() - create class "GreenHero" with invalid super class type "table"
+10/29/2016 01:12:16	1:12:16.359-3: [Common/functions.lua:396]:true    class() - create class "YellowHero" with invalid super class type "table"
+10/29/2016 01:12:16	1:12:16.361-3: [Common/functions.lua:396]:true    class() - create class "MapLayer" with invalid super class type "table"
+10/29/2016 01:12:16	1:12:16.363-3: [Common/functions.lua:396]:true    class() - create class "MapPage" with invalid super class type "table"
+10/29/2016 01:12:16	1:12:16.364-3: [Common/functions.lua:396]:true    class() - create class "MapButton" with invalid super class type "table"
+10/29/2016 01:12:16	1:12:16.366-3: [Common/functions.lua:396]:true    class() - create class "GameLayer" with invalid super class type "table"
+10/29/2016 01:12:16	1:12:16.368-3: [Common/functions.lua:396]:true    class() - create class "EdgeSprite" with invalid super class type "table"
+10/29/2016 01:12:16	1:12:16.370-3: [Common/functions.lua:396]:true    class() - create class "GameLayer" with invalid super class type "table"
+10/29/2016 01:12:16	初始化GrayRunCtrl
+10/29/2016 01:12:16	***********hasResUpdated:False
+10/29/2016 01:12:16	DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+10/29/2016 01:12:16	进入游戏
+10/29/2016 01:12:16	[QABManager] Loading grayrun/prefab bundle
+10/29/2016 01:12:16	GameLayer init
+10/29/2016 01:12:16	GameLayer Enter
+10/29/2016 01:12:16	640:1136
+10/29/2016 01:12:16	EdgeInfo name:books2 x:596 y:226
+10/29/2016 01:12:16	EdgeInfo name:books2 x:44 y:380
+10/29/2016 01:12:16	EdgeInfo name:books2 x:608 y:586
+10/29/2016 01:12:16	EdgeInfo name:books2 x:46 y:762
+10/29/2016 01:12:16	EdgeInfo name:books1 x:594 y:852
+10/29/2016 01:12:16	EdgeInfo name:jm4 x:472 y:81
+10/29/2016 01:12:16	EdgeInfo name:jm4 x:174 y:235
+10/29/2016 01:12:16	EdgeInfo name:jm4 x:526 y:442
+10/29/2016 01:12:16	EdgeInfo name:jm4 x:172 y:617
+10/29/2016 01:12:16	EdgeInfo name:jm4 x:524 y:771
+10/29/2016 01:12:16	EdgeInfo name:cupRed x:156 y:0
+10/29/2016 01:12:16	1:12:16.478-3: Type System.Collections.Generic.List<EdgeInfo> not wrap to lua, push as System.Collections.Generic.List<T>, the warning is only raised once
+10/29/2016 01:12:16	1:12:16.481-3: [GrayRUn/Game/EdgeSprite.lua:18]:books2
+10/29/2016 01:12:16	1:12:16.483-3: [GrayRUn/Game/EdgeSprite.lua:19]:GrayRun/Sprite/game/edge/books2.png
+---------------------------------------------------------------------------------------------------------------------
+10/29/2016 01:12:16	LuaException: [string "System/coroutine"]:27: [string "cc/CCSprite"]:39: attempt to index field 'texture2D' (a nil value)
+stack traceback:
+	[string "cc/CCSprite"]:39: in function 'addTo'
+	[string "GrayRUn/Game/EdgeSprite"]:20: in function 'Init'
+	[string "GrayRun/Game/GameLayer"]:107: in function 'SetupEdge'
+	[string "GrayRun/Game/GameLayer"]:23: in function 'Enter'
+	[string "GrayRun/GrayRunCtrl"]:37: in function <[string "GrayRun/GrayRunCtrl"]:23>
+
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/ToLua/Core/LuaState.cs:672)
+LuaInterface.LuaFunction:PCall() (at Assets/ToLua/Core/LuaFunction.cs:91)
+LuaInterface.LuaFunction:Call() (at Assets/ToLua/Core/LuaFunction.cs:115)
+QFramework.QLuaMgr:StartMain() (at Assets/QFramework/Script/Manager/QLuaMgr.cs:225)
+QFramework.QLuaMgr:InitStart() (at Assets/QFramework/Script/Manager/QLuaMgr.cs:203)
+QFramework.GameManager:OnInitialize() (at Assets/_Script/GameManager.cs:184)
+QFramework.GameManager:OnResourceInited() (at Assets/_Script/GameManager.cs:179)
+QFramework.GameManager:CheckExtractResource() (at Assets/_Script/GameManager.cs:61)
+QFramework.<Init>c__Iterator1F:MoveNext() (at Assets/_Script/GameManager.cs:44)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+QFramework.GameManager:Awake() (at Assets/_Script/GameManager.cs:35)
+UnityEngine.GameObject:AddComponent()
+QFramework.Instance:AddMgr() (at Assets/QFramework/QFramework.cs:76)
+QFramework.<Init>c__Iterator3:MoveNext() (at Assets/QFramework/QFramework.cs:41)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+QFramework.GameManager:Awake() (at Assets/_Script/GameManager.cs:35)
+UnityEngine.GameObject:AddComponent()
+QFramework.Instance:AddMgr() (at Assets/QFramework/QFramework.cs:76)
+QFramework.<Init>c__Iterator3:MoveNext() (at Assets/QFramework/QFramework.cs:41)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+---------------------------------------------------------------------------------------------------------------------

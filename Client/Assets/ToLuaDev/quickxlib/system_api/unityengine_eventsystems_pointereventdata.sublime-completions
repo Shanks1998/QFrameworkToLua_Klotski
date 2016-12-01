@@ -1,0 +1,36 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"UnityEngine.EventSystems.PointerEventData.__tostring()",
+		"UnityEngine.EventSystems.PointerEventData.hovered",
+		"UnityEngine.EventSystems.PointerEventData.pointerEnter",
+		"UnityEngine.EventSystems.PointerEventData.lastPress",
+		"UnityEngine.EventSystems.PointerEventData.rawPointerPress",
+		"UnityEngine.EventSystems.PointerEventData.pointerDrag",
+		"UnityEngine.EventSystems.PointerEventData.pointerCurrentRaycast",
+		"UnityEngine.EventSystems.PointerEventData.pointerPressRaycast",
+		"UnityEngine.EventSystems.PointerEventData.eligibleForClick",
+		"UnityEngine.EventSystems.PointerEventData.pointerId",
+		"UnityEngine.EventSystems.PointerEventData.position",
+		"UnityEngine.EventSystems.PointerEventData.delta",
+		"UnityEngine.EventSystems.PointerEventData.pressPosition",
+		"UnityEngine.EventSystems.PointerEventData.clickTime",
+		"UnityEngine.EventSystems.PointerEventData.clickCount",
+		"UnityEngine.EventSystems.PointerEventData.scrollDelta",
+		"UnityEngine.EventSystems.PointerEventData.useDragThreshold",
+		"UnityEngine.EventSystems.PointerEventData.dragging",
+		"UnityEngine.EventSystems.PointerEventData.button",
+		"UnityEngine.EventSystems.PointerEventData.enterEventCamera",
+		"UnityEngine.EventSystems.PointerEventData.pressEventCamera",
+		"UnityEngine.EventSystems.PointerEventData.pointerPress",
+		{ "trigger": "UnityEngine.EventSystems.PointerEventData.New()","contents": "UnityEngine.EventSystems.PointerEventData.New()"},
+		"UnityEngine.EventSystems.PointerEventData.IsPointerMoving",
+		{ "trigger": "UnityEngine.EventSystems.PointerEventData.IsPointerMoving()","contents": "UnityEngine.EventSystems.PointerEventData.IsPointerMoving()"},
+		"UnityEngine.EventSystems.PointerEventData.IsScrolling",
+		{ "trigger": "UnityEngine.EventSystems.PointerEventData.IsScrolling()","contents": "UnityEngine.EventSystems.PointerEventData.IsScrolling()"},
+		"UnityEngine.EventSystems.PointerEventData.ToString",
+		{ "trigger": "UnityEngine.EventSystems.PointerEventData.ToString()","contents": "UnityEngine.EventSystems.PointerEventData.ToString()"},
+	]
+}
+

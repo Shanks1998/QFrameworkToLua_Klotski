@@ -1,0 +1,14 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local CameraClearFlags = UnityEngine.CameraClearFlags",
+		"CameraClearFlags = UnityEngine.CameraClearFlags",
+		"UnityEngine.CameraClearFlags.Skybox",
+		"UnityEngine.CameraClearFlags.Color",
+		"UnityEngine.CameraClearFlags.SolidColor",
+		"UnityEngine.CameraClearFlags.Depth",
+		"UnityEngine.CameraClearFlags.Nothing",
+	]
+}
+

@@ -1,0 +1,14 @@
+16-10-20 上01时43分07秒	Instance Name: QMsgCenter
+16-10-20 上01时43分07秒	DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+16-10-20 上01时43分07秒	Add New Singleton QMsgCenter in Game!
+16-10-20 上01时43分07秒	QMsgCenter Init
+16-10-20 上01时43分07秒	Multiple EventSystems in scene... this is not supported
+16-10-20 上01时43分07秒	Already exist: QUGUIMgr(Clone)
+16-10-20 上01时43分07秒	1:43:7.875-3: Register lua type cost time: 0.2297469
+16-10-20 上01时43分07秒	1:43:7.883-3: LuaState start
+16-10-20 上01时43分07秒	从这里开始游戏吗?
+16-10-20 上01时43分07秒	LuaFramework太好用了
+16-10-20 上01时43分07秒	进入游戏:华容道
+16-10-20 上01时43分07秒	初始化
+16-10-20 上01时43分07秒	进入Home界面
+16-10-20 上01时43分08秒	Already exist: QApp

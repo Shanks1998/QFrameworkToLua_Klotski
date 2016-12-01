@@ -1,0 +1,30 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"GrayRunAppDelegate.__eq()",
+		"GrayRunAppDelegate.__tostring()",
+		"GrayRunAppDelegate.onApplicationDidFinishLaunching",
+		"grayRunAppDelegate.onApplicationDidFinishLaunching",
+		"GrayRunAppDelegate.onApplicationQuit",
+		"grayRunAppDelegate.onApplicationQuit",
+		"GrayRunAppDelegate.onApplicationPause",
+		"grayRunAppDelegate.onApplicationPause",
+		"GrayRunAppDelegate.Window",
+		"grayRunAppDelegate.Window",
+		"GrayRunAppDelegate.View",
+		"grayRunAppDelegate.View",
+		"GrayRunAppDelegate.applicationRunOnceOnBuilding",
+		{ "trigger": "GrayRunAppDelegate.applicationRunOnceOnBuilding()","contents": "GrayRunAppDelegate.applicationRunOnceOnBuilding()"},
+		{ "trigger": ":applicationRunOnceOnBuilding()","contents": "applicationRunOnceOnBuilding()"},
+		{ "trigger": "grayRunAppDelegate:applicationRunOnceOnBuilding()","contents": "grayRunAppDelegate:applicationRunOnceOnBuilding()"},
+		"GrayRunAppDelegate.applicationDidFinishLaunching",
+		{ "trigger": "GrayRunAppDelegate.applicationDidFinishLaunching()","contents": "GrayRunAppDelegate.applicationDidFinishLaunching()"},
+		{ "trigger": ":applicationDidFinishLaunching()","contents": "applicationDidFinishLaunching()"},
+		{ "trigger": "grayRunAppDelegate:applicationDidFinishLaunching()","contents": "grayRunAppDelegate:applicationDidFinishLaunching()"},
+		"GrayRunAppDelegate.op_Equality",
+		{ "trigger": "GrayRunAppDelegate.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "GrayRunAppDelegate.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+		{ "trigger": "GrayRunAppDelegate.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "GrayRunAppDelegate.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+	]
+}
+

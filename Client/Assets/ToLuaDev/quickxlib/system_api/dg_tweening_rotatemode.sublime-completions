@@ -1,0 +1,11 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"DG.Tweening.RotateMode.Fast",
+		"DG.Tweening.RotateMode.FastBeyond360",
+		"DG.Tweening.RotateMode.WorldAxisAdd",
+		"DG.Tweening.RotateMode.LocalAxisAdd",
+	]
+}
+

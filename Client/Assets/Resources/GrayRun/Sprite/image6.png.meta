@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: 2b716c5d110724128bdf9e25c4ef6ddb
+timeCreated: 1473952376
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 0_0011_11.png
+    21300002: ellipse2.png
+    21300004: folder1.png
+    21300006: folder2.png
+    21300008: folder3.png
+    21300010: folder4.png
+    21300012: folder5.png
+    21300014: game_TS_1.png
+    21300016: game_TS_2.png
+    21300018: game_TS_3.png
+    21300020: game_TS_4.png
+    21300022: game_TS_5.png
+    21300024: game_Tr_1.png
+    21300026: game_Tr_2.png
+    21300028: game_Tr_3.png
+    21300030: game_Tr_4.png
+    21300032: game_Tr_5.png
+    21300034: game_Tu_1.png
+    21300036: game_Tu_2.png
+    21300038: game_Tu_3.png
+    21300040: game_Tu_4.png
+    21300042: game_Tu_5.png
+    21300044: game_levelupbg.png
+    21300046: game_over_bt_home.png
+    21300048: game_over_bt_replay.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 0_0011_11.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 640
+        height: 960
+      alignment: 0
+      pivot: {x: 322, y: 542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ellipse2.png
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 173
+        width: 92
+        height: 179
+      alignment: 0
+      pivot: {x: 726, y: 262.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: folder1.png
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 209
+        width: 120
+        height: 177
+      alignment: 0
+      pivot: {x: 834, y: 297.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: folder2.png
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 388
+        width: 120
+        height: 177
+      alignment: 0
+      pivot: {x: 870, y: 476.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: folder3.png
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 567
+        width: 120
+        height: 177
+      alignment: 0
+      pivot: {x: 902, y: 655.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: folder4.png
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 209
+        width: 60
+        height: 177
+      alignment: 0
+      pivot: {x: 926, y: 297.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: folder5.png
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 746
+        width: 121
+        height: 178
+      alignment: 0
+      pivot: {x: 902.5, y: 835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: game_TS_1.png
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 252
+        width: 52
+        height: 146
+      alignment: 0
+      pivot: {x: 984, y: 325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: game_TS_2.png
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 548
+        width: 52
+        height: 196
+      alignment: 0
+      pivot: {x: 990, y: 646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: game_TS_3.png
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 354
+        width: 52
+        height: 246
+      alignment: 0
+      pivot: {x: 706, y: 477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: game_TS_4.png
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 604
+        width: 52
+        height: 320
+      alignment: 0
+      pivot: {x: 778, y: 764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: game_TS_5.png
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 602
+        width: 52
+        height: 420
+      alignment: 0
+      pivot: {x: 670, y: 812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: game_Tr_1.png
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 66
+        width: 34
+        height: 128
+      alignment: 0
+      pivot: {x: 661, y: 130}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: game_Tr_2.png
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 746
+        width: 34
+        height: 178
+      alignment: 0
+      pivot: {x: 982, y: 835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: game_Tr_3.png
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 43
+        width: 228
+        height: 34
+      alignment: 0
+      pivot: {x: 794, y: 60}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: game_Tr_4.png
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 612
+        width: 34
+        height: 312
+      alignment: 0
+      pivot: {x: 823, y: 768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: game_Tr_5.png
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 196
+        width: 34
+        height: 404
+      alignment: 0
+      pivot: {x: 661, y: 398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: game_Tu_1.png
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 400
+        width: 52
+        height: 146
+      alignment: 0
+      pivot: {x: 958, y: 473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: game_Tu_2.png
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 155
+        width: 196
+        height: 52
+      alignment: 0
+      pivot: {x: 872, y: 181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: game_Tu_3.png
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 8
+        width: 246
+        height: 52
+      alignment: 0
+      pivot: {x: 547, y: 34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: game_Tu_4.png
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 604
+        width: 52
+        height: 320
+      alignment: 0
+      pivot: {x: 724, y: 764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: game_Tu_5.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8
+        width: 420
+        height: 52
+      alignment: 0
+      pivot: {x: 212, y: 34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: game_levelupbg.png
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 926
+        width: 284
+        height: 96
+      alignment: 0
+      pivot: {x: 840, y: 974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: game_over_bt_home.png
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 79
+        width: 200
+        height: 74
+      alignment: 0
+      pivot: {x: 780, y: 116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: game_over_bt_replay.png
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 402
+        width: 74
+        height: 200
+      alignment: 0
+      pivot: {x: 771, y: 502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

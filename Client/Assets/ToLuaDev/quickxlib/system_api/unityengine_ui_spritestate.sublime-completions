@@ -1,0 +1,14 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"UnityEngine.UI.SpriteState.__tostring()",
+		"UnityEngine.UI.SpriteState.highlightedSprite",
+		"UnityEngine.UI.SpriteState.pressedSprite",
+		"UnityEngine.UI.SpriteState.disabledSprite",
+		{ "trigger": "UnityEngine.UI.SpriteState.New()","contents": "UnityEngine.UI.SpriteState.New()"},
+		"UnityEngine.UI.SpriteState.Equals",
+		{ "trigger": "UnityEngine.UI.SpriteState.Equals(UnityEngine.UI.SpriteState:other)","contents": "UnityEngine.UI.SpriteState.Equals(${1:UnityEngine.UI.SpriteState:other})"},
+	]
+}
+

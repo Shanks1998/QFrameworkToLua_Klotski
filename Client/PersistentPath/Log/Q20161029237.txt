@@ -1,0 +1,161 @@
+10/29/2016 02:03:07	QMsgCenter Init
+10/29/2016 02:03:07	Multiple EventSystems in scene... this is not supported
+10/29/2016 02:03:07	Already exist: QUGUIMgr(Clone)
+10/29/2016 02:03:07	Multiple EventSystems in scene... this is not supported
+10/29/2016 02:03:07	Already exist: GrayRun
+10/29/2016 02:03:07	2:3:7.577-3: Register lua type cost time: 0.22905
+10/29/2016 02:03:07	DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+10/29/2016 02:03:07	2:3:7.586-3: LuaState start
+10/29/2016 02:03:07	2:3:7.613-3: [GrayRun/GrayRun.lua:6]:这是GrayRun的Main
+10/29/2016 02:03:07	2:3:7.628-3: Register lua type cost time: 0.009172916
+10/29/2016 02:03:07	2:3:7.630-3: LuaState start
+10/29/2016 02:03:07	2:3:7.632-3: [GrayRun/GrayRun.lua:6]:这是GrayRun的Main
+---------------------------------------------------------------------------------------------------------------------
+10/29/2016 02:03:07	NullReferenceException: Object reference not set to an instance of an object
+
+QFramework.QApp+<Start>c__Iterator18.MoveNext () (at Assets/QFramework/Script/QApp.cs:53)
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) (at /Users/builduser/buildslave/unity/build/Runtime/Export/Coroutines.cs:17)
+
+---------------------------------------------------------------------------------------------------------------------
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:07	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:08	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.
+10/29/2016 02:03:09	There are 2 audio listeners in the scene. Please ensure there is always exactly one audio listener in the scene.

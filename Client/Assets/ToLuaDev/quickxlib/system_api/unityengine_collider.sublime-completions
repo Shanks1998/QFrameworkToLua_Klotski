@@ -1,0 +1,38 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local Collider = UnityEngine.Collider",
+		"Collider = UnityEngine.Collider",
+		"UnityEngine.Collider.__eq()",
+		"UnityEngine.Collider.__tostring()",
+		"UnityEngine.Collider.enabled",
+		"collider.enabled",
+		"UnityEngine.Collider.attachedRigidbody",
+		"collider.attachedRigidbody",
+		"UnityEngine.Collider.isTrigger",
+		"collider.isTrigger",
+		"UnityEngine.Collider.contactOffset",
+		"collider.contactOffset",
+		"UnityEngine.Collider.material",
+		"collider.material",
+		"UnityEngine.Collider.sharedMaterial",
+		"collider.sharedMaterial",
+		"UnityEngine.Collider.bounds",
+		"collider.bounds",
+		{ "trigger": "UnityEngine.Collider.New()","contents": "UnityEngine.Collider.New()"},
+		{ "trigger": "Collider.New()","contents": "Collider.New()"},
+		"UnityEngine.Collider.ClosestPointOnBounds",
+		{ "trigger": "UnityEngine.Collider.ClosestPointOnBounds(UnityEngine.Vector3:position)","contents": "UnityEngine.Collider.ClosestPointOnBounds(${1:UnityEngine.Vector3:position})"},
+		{ "trigger": ":ClosestPointOnBounds(UnityEngine.Vector3:position)","contents": "ClosestPointOnBounds(${1:UnityEngine.Vector3:position})"},
+		{ "trigger": "collider:ClosestPointOnBounds(UnityEngine.Vector3:position)","contents": "collider:ClosestPointOnBounds(${1:UnityEngine.Vector3:position})"},
+		"UnityEngine.Collider.Raycast",
+		{ "trigger": "UnityEngine.Collider.Raycast(UnityEngine.Ray:ray,UnityEngine.RaycastHit&:hitInfo,System.Single:maxDistance)","contents": "UnityEngine.Collider.Raycast(${1:UnityEngine.Ray:ray},${2:UnityEngine.RaycastHit&:hitInfo},${3:System.Single:maxDistance})"},
+		{ "trigger": ":Raycast(UnityEngine.Ray:ray,UnityEngine.RaycastHit&:hitInfo,System.Single:maxDistance)","contents": "Raycast(${1:UnityEngine.Ray:ray},${2:UnityEngine.RaycastHit&:hitInfo},${3:System.Single:maxDistance})"},
+		{ "trigger": "collider:Raycast(UnityEngine.Ray:ray,UnityEngine.RaycastHit&:hitInfo,System.Single:maxDistance)","contents": "collider:Raycast(${1:UnityEngine.Ray:ray},${2:UnityEngine.RaycastHit&:hitInfo},${3:System.Single:maxDistance})"},
+		"UnityEngine.Collider.op_Equality",
+		{ "trigger": "UnityEngine.Collider.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "UnityEngine.Collider.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+		{ "trigger": "Collider.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "Collider.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+	]
+}
+

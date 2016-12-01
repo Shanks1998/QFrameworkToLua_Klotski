@@ -1,0 +1,36 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local ParticleRenderer = UnityEngine.ParticleRenderer",
+		"ParticleRenderer = UnityEngine.ParticleRenderer",
+		"UnityEngine.ParticleRenderer.__eq()",
+		"UnityEngine.ParticleRenderer.__tostring()",
+		"UnityEngine.ParticleRenderer.particleRenderMode",
+		"particleRenderer.particleRenderMode",
+		"UnityEngine.ParticleRenderer.lengthScale",
+		"particleRenderer.lengthScale",
+		"UnityEngine.ParticleRenderer.velocityScale",
+		"particleRenderer.velocityScale",
+		"UnityEngine.ParticleRenderer.cameraVelocityScale",
+		"particleRenderer.cameraVelocityScale",
+		"UnityEngine.ParticleRenderer.maxParticleSize",
+		"particleRenderer.maxParticleSize",
+		"UnityEngine.ParticleRenderer.uvAnimationXTile",
+		"particleRenderer.uvAnimationXTile",
+		"UnityEngine.ParticleRenderer.uvAnimationYTile",
+		"particleRenderer.uvAnimationYTile",
+		"UnityEngine.ParticleRenderer.uvAnimationCycles",
+		"particleRenderer.uvAnimationCycles",
+		"UnityEngine.ParticleRenderer.maxPartileSize",
+		"particleRenderer.maxPartileSize",
+		"UnityEngine.ParticleRenderer.uvTiles",
+		"particleRenderer.uvTiles",
+		{ "trigger": "UnityEngine.ParticleRenderer.New()","contents": "UnityEngine.ParticleRenderer.New()"},
+		{ "trigger": "ParticleRenderer.New()","contents": "ParticleRenderer.New()"},
+		"UnityEngine.ParticleRenderer.op_Equality",
+		{ "trigger": "UnityEngine.ParticleRenderer.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "UnityEngine.ParticleRenderer.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+		{ "trigger": "ParticleRenderer.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "ParticleRenderer.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+	]
+}
+

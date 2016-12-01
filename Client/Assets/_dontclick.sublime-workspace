@@ -1,0 +1,646 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"end",
+				"endif"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Lua/Main.lua",
+			"settings":
+			{
+				"buffer_size": 514,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"last_filter": ":w",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Channel"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/李青云/AmusePark/Client/Assets/QArt/QAB/Lua"
+	],
+	"file_history":
+	[
+		"/C/Users/李青云/AmusePark/Klotski/Klotski_Data/StreamingAssets/lua/Common/LuaBehaviour.lua",
+		"/C/Users/李青云/AmusePark/Klotski/Klotski_Data/StreamingAssets/lua/event.lua",
+		"/Users/liangxie/Desktop/unity/AmusePark/Client/Assets/QLuaFramework/SublimeProject",
+		"/Users/liangxie/Desktop/putao_work/the_ocean_master/the_ocean/Client/Assets/Script/UIPanel/FishTracking.cs",
+		"/Users/liangxie/Desktop/putao_work/Hello_code/trunk/unity_client/Assets/StreamingAssets/AssetBundles/iOS/resconfig.xml",
+		"/Users/liangxie/Library/Application Support/Putao/hello编程/AssetBundles/iOS/resconfig.xml",
+		"/Users/liangxie/git/ParkourUnity/Client/Assets/StreamingAssets/QAssetBundle/QAssetBundle.manifest",
+		"/Users/liangxie/Desktop/learn/unity-source-4/Runtime/GfxDevice/opengles20/TexturesGLES20.cpp",
+		"/Users/liangxie/Desktop/learn/unity-source-4/Runtime/GfxDevice/opengles20/GfxDeviceGLES20.cpp",
+		"/Users/liangxie/Desktop/learn/unity-source-4/Runtime/Graphics/Texture2D.cpp",
+		"/Users/liangxie/Desktop/learn/unity-source-4/Runtime/GfxDevice/GfxDevice.cpp",
+		"/Users/liangxie/Desktop/learn/unity-source-4/Runtime/GfxDevice/GfxDevice.h",
+		"/Users/liangxie/Desktop/learn/unity-source-4/Runtime/GfxDevice/TextureIdMap.h",
+		"/Users/liangxie/Desktop/learn/unity-source-4/Runtime/Graphics/Texture.cpp",
+		"/Users/liangxie/Desktop/learn/unity-source-4/Runtime/Graphics/Texture2D.h",
+		"/Users/liangxie/Desktop/MyUnityBook/万能游戏框架搭建学习资料/TeachEqual.cs",
+		"/Users/liangxie/Desktop/MyUnityBook/万能游戏框架搭建学习资料/FSM.cs",
+		"/Users/liangxie/Desktop/MyUnityBook/万能游戏框架搭建学习资料/SpriteFactory.cs",
+		"/Users/liangxie/Library/Application Support/RTXC/accounts/李青云/sessionPhoto/ptfaq_config(4).xml",
+		"/Users/liangxie/Desktop/MyUnityBook/first/SpriteFactory.cs",
+		"/Users/liangxie/Desktop/putao_work/Hello_code/trunk/unity_client/Assets/PTGameData/Resources/PTFAQ/ptfaq_config.xml",
+		"/Users/liangxie/Desktop/HotUpdate更新的/Example.cs",
+		"/Users/liangxie/Desktop/WebPlayerTemplates/PTGame/Scripts/PTUniInterface.cs",
+		"/Users/liangxie/Desktop/WebPlayerTemplates/PTGame/Scripts/PTUGame.cs",
+		"/Users/liangxie/Desktop/WebPlayerTemplates/PTGame/Scripts/PTAndroidInterface.cs",
+		"/Users/liangxie/Desktop/WebPlayerTemplates/PTGame/Scripts/PTUtils.cs",
+		"/Users/liangxie/Desktop/putao_work/Hello_code/trunk/unity_client/Assets/PTUGame/PTHotUpdate/ServerResponsData.cs",
+		"/Users/liangxie/Desktop/putao_work/Hello_code/trunk/unity_client/Assets/StreamingAssets/ptconfig.pt",
+		"/Users/liangxie/git/ghost-blog/config.js",
+		"/Users/liangxie/git/ghost-blog/content/themes/vno/partials/side-panel.hbs",
+		"/Users/liangxie/git/ghost-blog/tools/restart_nginx.sh",
+		"/Users/liangxie/Desktop/putao_work/The_ocean/Client/Assets/PTUGame/PTUDC/Script/PTUDCListener.cs",
+		"/Users/liangxie/Desktop/putao_work/The_ocean/Client/Assets/PTUGame/PTUDC/Script/PTUDC.cs",
+		"/Users/liangxie/Desktop/putao_work/Hello_code/trunk/unity_client/Assets/StreamingAssets/AssetBundles/OSX/resconfig.xml",
+		"/Users/liangxie/Desktop/putao_work/Hello_code/trunk/unity_client/Assets/PTUGame/PTABManager/Editor/BuildScript.cs",
+		"/Users/liangxie/cocos2d-x-2.2.6/projects/ThreeCountroy/Classes/CalCode.command",
+		"/Users/liangxie/cocos2d-x-2.2.6/projects/ThreeCountroy/Classes/WorldLayer.cpp.bak",
+		"/Users/liangxie/cocos2d-x-2.2.6/projects/ThreeCountroy/Classes/WorldLayer.cpp",
+		"/Users/liangxie/Library/Application Support/Putao/hello编程/AssetBundles/iOS/audio.manifest",
+		"/Users/liangxie/Desktop/putao_work/Hello_code/trunk/unity_client/Assets/StreamingAssets/AssetBundles/iOS/audio.manifest",
+		"/Users/liangxie/Desktop/version_100/resconfig.xml",
+		"/Users/liangxie/Desktop/putao_work/Hello_code/trunk/unity_client/Assets/StreamingAssets/AssetBundles/iOS/iOS.manifest",
+		"/Users/liangxie/Library/Application Support/Putao/hello编程/AssetBundles/iOS/uiprefab.manifest",
+		"/Users/liangxie/Library/Application Support/Putao/hello编程/AssetBundles/iOS/effector.manifest",
+		"/Users/liangxie/Desktop/version_110/iOS.manifest",
+		"/Users/liangxie/Desktop/version_110/configfile.manifest",
+		"/Users/liangxie/Desktop/version_110/audio.manifest",
+		"/Users/liangxie/Desktop/learn/unity-source-4/Runtime/BaseClasses/NamedObject.h",
+		"/Users/liangxie/Desktop/learn/unity-source-4/Runtime/BaseClasses/NamedObject.cpp",
+		"/Users/liangxie/Desktop/learn/unity-source-4/Tests/Unity.IntegrationTests/AssetBundles/AssetBundles.cs",
+		"/Users/liangxie/Desktop/learn/unity-source-4/Tools/UnityTxtParser/UnityExampleConverter/cssrc/MonoBehaviour.cs",
+		"/Users/liangxie/Desktop/learn/unity-source-4/Runtime/Misc/AssetBundle.h",
+		"/Users/liangxie/Desktop/putao_work/Hello_code/trunk/unity_client/Assets/StreamingAssets/AssetBundles/iOS/configfile.manifest",
+		"/Users/liangxie/Desktop/putao_work/Hello_code/trunk/unity_client/Assets/Script/UI/GamebeginUI.cs",
+		"/Users/liangxie/Desktop/putao_work/ARAPI/Assets/PTARCamera.cs",
+		"/Users/liangxie/Library/Application Support/RTXC/accounts/李青云/sessionPhoto/ptfaq_config(3).xml",
+		"/Users/liangxie/Library/Application Support/RTXC/accounts/李青云/sessionPhoto/VuforiaARHandler.cs",
+		"/Users/liangxie/Desktop/ptsdk_data.json",
+		"/Users/liangxie/Desktop/ptsdk_data.tmp.json",
+		"/private/var/folders/_g/5phcjnws17d3xdyx6pj3r6pr0000gn/T/Tongbu/Download/ptsdk_data.tmp.json",
+		"/private/var/folders/_g/5phcjnws17d3xdyx6pj3r6pr0000gn/T/Tongbu/Download/ptsdk_data.json",
+		"/Users/liangxie/Library/Application Support/DefaultCompany/哈泥海洋/ptugame/1.0.0",
+		"/Users/liangxie/Desktop/putao_work/Hello_code/trunk/unity_client/Assets/PTUGame/PTFAQ/Script/UploadQuestionPage.cs",
+		"/Users/liangxie/Desktop/putao_work/Hello_code/trunk/unity_client/Assets/PTUGame/PTFAQ/Script/UploadPageChoiceQuestion.cs",
+		"/Users/liangxie/Desktop/putao_work/My_planet/Unity/Assets/PTGameData/Resources/PTFAQ/ptfaq_config.xml",
+		"/Users/liangxie/Desktop/putao_work/The_ocean/Client/Assets/PTGameData/Editor/config_ptgame/ptgame_projmods.custom",
+		"/Users/liangxie/Desktop/putao_work/Hello_code/trunk/unity_client/Assets/PTGameData/Editor/config_ptgame/ptgame_projmods.custom",
+		"/Users/liangxie/Library/Application Support/RTXC/accounts/李青云/sessionPhoto/FileWebClient.cs",
+		"/Users/liangxie/Desktop/putao_work/The_ocean/Client/Assets/Script/Data&Network/Service/NetService.cs",
+		"/Users/liangxie/Desktop/ptfaq_config.xml",
+		"/Users/liangxie/Desktop/putao_work/The_ocean/Client/Assets/Resources/PTFAQ/ptfaq_config.xml",
+		"/Users/liangxie/Desktop/putao_work/The_ocean2/Client/Assets/PTGameData/Editor/config_ptgame/ptgame_projmods.projmods",
+		"/Users/liangxie/Desktop/putao_work/The_ocean2/Client/Assets/PTGameData/Editor/config_ptgame/ptgame_projmods.custom",
+		"/Users/liangxie/Desktop/a.json",
+		"/Users/liangxie/Desktop/putao_work/The_ocean/Client/Assets/Script/04_OceanScene/UIPanel/Scan/UIScanPanel.cs",
+		"/Users/liangxie/Desktop/putao_work/The_ocean/Client/Assets/PTUGame/PTLog/PTLog.cs",
+		"/Users/liangxie/Desktop/putao_work/Hello_code/trunk/unity_client/Assets/PTGameData/Editor/config_ptgame/ptconfig_online.xml",
+		"/Users/liangxie/Desktop/ptconfig_dev.xml",
+		"/Users/liangxie/Desktop/WebPlayerTemplates/PTWeiDu/Scripts/PTWeiDu.cs",
+		"/Users/liangxie/Desktop/WebPlayerTemplates 2/PTWeiDu/Scripts/PTAssist.cs",
+		"/Users/liangxie/Desktop/WebPlayerTemplates/PTWeiDu/Scripts/PTAssist.cs",
+		"/Users/liangxie/Library/Application Support/RTXC/accounts/李青云/sessionPhoto/ptconfig_inner(1).xml",
+		"/Users/liangxie/Library/Application Support/RTXC/accounts/李青云/sessionPhoto/ptconfig_inner.xml",
+		"/Users/liangxie/Desktop/AndroidProject/PaibotLibrary/bin/classes/com/putao/theocean/cn/R.class",
+		"/Users/liangxie/Desktop/putao_work/The_ocean/Client/Assets/Plugins/Android/res/values-v14/styles.xml",
+		"/Users/liangxie/Desktop/work/pingpp-android/honey2/paibotlibrary/src/main/java/com/putao/theocean/cn/MainActivity.java",
+		"/Users/liangxie/Desktop/putao_work/The_ocean/Client/Assets/Plugins/Android/res/values/styles.xml",
+		"/Users/liangxie/Desktop/work/pingpp-android/honey2/paibotlibrary/src/main/java/com/putao/paibotlibrary/MainActivity.java",
+		"/Users/liangxie/lua/learn/fuction_test.lua",
+		"/Applications/IntelliJ IDEA.app/Contents/bin/idea.vmoptions",
+		"/Applications/PyCharm.app/Contents/bin/pycharm.vmoptions",
+		"/Applications/IntelliJ IDEA.app/Contents/bin/appletviewer.policy",
+		"/Applications/PyCharm.app/Contents/bin/fsnotifier",
+		"/Users/liangxie/Library/Application Support/Sublime Text 3/Packages/Terminal/iTerm.sh",
+		"/Users/liangxie/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/liangxie/Library/Application Support/Sublime Text 3/Packages/MacTerminal/MacTerminal.sublime-settings",
+		"/Users/liangxie/Desktop/PTGPush_V1.0.6.unitypackage",
+		"/Users/liangxie/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/liangxie/Library/Application Support/Sublime Text 3/Packages/User/Terminal (OSX).sublime-settings",
+		"/Users/liangxie/Desktop/untitled",
+		"/Users/liangxie/Desktop/work/learn/PaibotLibrary/src/com/putaopaibotlibrary/MainActivity.java",
+		"/Users/liangxie/Desktop/learn/unity-source-4/Documentation/MemberDocs/AnimationState._length.mem",
+		"/Users/liangxie/Desktop/learn/unity-source-4/Documentation/MemberDocs/AccelerationEvent._acceleration.mem",
+		"/Users/liangxie/Desktop/putao_work/The_ocean/Client/Assets/UMeng/Plugins/Android/AndroidManifest.xml",
+		"/Users/liangxie/Desktop/work/pingpp-android/honey/app/src/main/AndroidManifest.xml",
+		"/Users/liangxie/Desktop/putao_work/The_ocean/Client/Assets/Plugins/Android/AndroidManifest.xml",
+		"/Users/liangxie/Desktop/work/pingpp-android/honey/paibotlibary/src/main/AndroidManifest.xml",
+		"/Users/liangxie/Desktop/work/pingpp-android/honey/gradlew.bat",
+		"/Users/liangxie/Desktop/unity/给海南的代码一期/YDGame/Assets/YD/YDCode/Animation/YDViewRole.cs",
+		"/Users/liangxie/Desktop/putao_work/The_ocean/Client/Assets/Plugins/Android/jni/external/include/aquarium.h",
+		"/Users/liangxie/Desktop/putao_work/The_ocean/Client/Assets/Plugins/Android/jni/src/AquariumLib.cpp",
+		"/Users/liangxie/Desktop/putao_work/The_ocean/Client/Assets/Plugins/Android/jni/src/AquariumLib.h",
+		"/Users/liangxie/Desktop/putao_work/The_ocean/Client/Assets/Plugins/Android/jni/Android.mk",
+		"/Users/liangxie/Desktop/putao_work/The_ocean/Client/Assets/Plugins/Android/gen.command",
+		"/Users/liangxie/Desktop/常用脚本/ConvertXML.command",
+		"/Users/liangxie/Desktop/weidu 3/PTWDInfoPusher.cs",
+		"/Users/liangxie/Desktop/常用脚本/CalCode副本.command",
+		"/Users/liangxie/Desktop/learn/unity-source-4/Runtime/Mono/MonoBehaviour.h",
+		"/Users/liangxie/Desktop/learn/unity-source-4/Runtime/Mono/MonoBehaviour.cpp",
+		"/Users/liangxie/Desktop/learn/unity-source-4/Runtime/Mono/MonoScript.h",
+		"/Users/liangxie/Desktop/weidu/PTAssist.cs",
+		"/Users/liangxie/Desktop/weidu/PTWDInfoPusher.cs",
+		"/Users/liangxie/Desktop/putao_work/The_ocean/Client/Assets/StreamingAssets/ptconfig.pt",
+		"/Users/liangxie/Desktop/putao_work/The_ocean/Client/Assets/Script/Global/AppConfig.cs",
+		"/Users/liangxie/Desktop/未命名文件夹 2/PTBuild/Editor/EncryptConfig.cs",
+		"/Users/liangxie/Desktop/未命名文件夹 2/PTBuild/Editor/PTBuilderCore.cs",
+		"/Users/liangxie/Desktop/未命名文件夹 2/PTBuild/Editor/PythonBuild.cs",
+		"/Users/liangxie/Desktop/未命名文件夹 2/PTBuild/Editor/PythonCreater.cs"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/liangxie/Desktop/learn/unity-source-4/Runtime",
+			"/Users/liangxie/Desktop/learn/unity-source-4",
+			"/Users/liangxie/Desktop/learn/unity-source-4/Tests",
+			"/Users/liangxie/Desktop/learn/unity-source-4/Tools",
+			"/Users/liangxie/Desktop/learn/unity-source-4/Projects",
+			"/Users/liangxie/Desktop/learn/unity-source-4/Tests",
+			"/Users/liangxie/Desktop/learn/unity-source-4/PlatformDependent/iPhonePlayer",
+			"/Users/liangxie/Desktop/learn/unity-source-4/Editor/Mono",
+			"/Users/liangxie/Desktop/learn/unity-source-4/Editor/Src",
+			"/Users/liangxie/Desktop/learn/unity-source-4/Editor",
+			"/Users/liangxie/Desktop/learn/unity-source-4/Configuration",
+			"/Users/liangxie/Desktop/learn/unity-source-4/PlatformDependent/OSX",
+			"/Users/liangxie/Desktop/learn/unity-source-4/Editor",
+			"/Users/liangxie/Desktop/learn/unity-source-4/Configuration",
+			"/Users/liangxie/Desktop/learn/unity-source-4/Runtime",
+			"/Users/liangxie/Desktop/learn/unity-source-4/PlatformDependent/Win",
+			"/Users/liangxie/Desktop/learn/unity-source-4/PlatformDependent/OSX",
+			"/Users/liangxie/Desktop/learn/unity-source-4/Runtime",
+			"/Users/liangxie/Desktop/learn/unity-source-4/PlatformDependent/Win",
+			"/Users/liangxie/Desktop/learn/unity-source-4/PlatformDependent/OSX",
+			"/Users/liangxie/Desktop/learn/unity-source-4/Configuration",
+			"/Users/liangxie/Desktop/learn/unity-source-4/Editor",
+			"/Users/liangxie/Desktop/learn/unity-source-4/Runtime"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pos",
+			"read",
+			"ReadbackImage",
+			"readpixels",
+			"read",
+			"readpi",
+			"QueryNativeTexture",
+			"http://project.onevcat.com/",
+			"项目",
+			"time",
+			"level",
+			"appid",
+			"open",
+			"ShowNeedA",
+			"showneeda",
+			"showone",
+			"show",
+			"user",
+			"honey",
+			"user",
+			"murl",
+			"t1f8b",
+			"defa",
+			"min",
+			"userid",
+			"user",
+			"app",
+			"user",
+			"user_id",
+			"->Start()",
+			"LoginWeidu",
+			"type",
+			"user_id",
+			"user",
+			"user_id",
+			"callmethodif",
+			"callmethodina",
+			"callmethod",
+			"call",
+			"MonoScriptCache",
+			"setupa",
+			"awake",
+			"component",
+			"componet",
+			"compo",
+			"commponent",
+			"AwakeFromLoad",
+			"awakefromload",
+			"component",
+			"awake",
+			"callawake",
+			"Awake",
+			"start",
+			"IMPLEMENT_CLASS_HAS_INIT",
+			"stat",
+			"state",
+			"sta",
+			"sleeptime",
+			"REGISTER_DERIVED_ABSTRACT_CLASS",
+			"setdir",
+			"setdirty",
+			"deactivate",
+			"deactive",
+			"Main(",
+			"main",
+			"BaseBehaviourManager",
+			"CommonUpdate",
+			"update",
+			"object",
+			"update",
+			"Object",
+			"object",
+			"CalculateCachedClassID",
+			"CalculateCachedClassID(Object *obj)",
+			"CalculateCachedClassID(",
+			"CalculateCachedClassID(Object *obj)",
+			"class object",
+			"Object::",
+			"Object",
+			"object",
+			"Object",
+			"component",
+			"EXPORT_COREMODULE",
+			"next() ",
+			"cull",
+			".mine",
+			"<<<<<"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Lua/Main.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SublimeProject.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"texture2d",
+				"Runtime/Graphics/Texture2D.cpp"
+			],
+			[
+				"texture",
+				"Runtime/Graphics/Texture.cpp"
+			],
+			[
+				"monobeha",
+				"Tools/UnityTxtParser/UnityExampleConverter/cssrc/MonoBehaviour.cs"
+			],
+			[
+				"assetbundle",
+				"Tests/Unity.IntegrationTests/AssetBundles/AssetBundles.cs"
+			],
+			[
+				"monobe",
+				"Runtime/Mono/MonoBehaviour.cpp"
+			],
+			[
+				"monoscri",
+				"Runtime/Mono/MonoScript.h"
+			],
+			[
+				"gameob",
+				"Runtime/BaseClasses/GameObject.h"
+			],
+			[
+				"baseobj",
+				"Runtime/BaseClasses/BaseObject.cpp"
+			],
+			[
+				"baseob",
+				"Runtime/BaseClasses/BaseObject.h"
+			],
+			[
+				"editorextension",
+				"Runtime/BaseClasses/EditorExtension.h"
+			],
+			[
+				"gameobj",
+				"Runtime/BaseClasses/GameObject.cpp"
+			],
+			[
+				"behai",
+				"Runtime/GameCode/Behaviour.cpp"
+			],
+			[
+				"monoscr",
+				"Runtime/Mono/MonoScriptCache.cpp"
+			],
+			[
+				"monoscriptca",
+				"Runtime/Mono/MonoScriptCache.h"
+			],
+			[
+				"memoryma",
+				"Runtime/Allocator/MemoryMacros.h"
+			],
+			[
+				"baseallo",
+				"Runtime/Allocator/BaseAllocator.h"
+			],
+			[
+				"behaiv",
+				"Runtime/GameCode/Behaviour.cpp"
+			],
+			[
+				"behavior",
+				"Runtime/GameCode/Behaviour.h"
+			],
+			[
+				"editroex",
+				"Runtime/BaseClasses/EditorExtension.h"
+			],
+			[
+				"nameob",
+				"Runtime/BaseClasses/NamedObject.h"
+			],
+			[
+				"ser",
+				"Runtime/Profiler/SerializationUtility.h"
+			],
+			[
+				"seria",
+				"Runtime/Profiler/SerializationUtility.cpp"
+			],
+			[
+				"editorex",
+				"Runtime/BaseClasses/EditorExtension.h"
+			],
+			[
+				"behaivour",
+				"Runtime/GameCode/Behaviour.cpp"
+			],
+			[
+				"gamema",
+				"Runtime/BaseClasses/GameManager.h"
+			],
+			[
+				"beha",
+				"Runtime/GameCode/Behaviour.cpp"
+			],
+			[
+				"linkedli",
+				"Runtime/Utilities/LinkedList.h"
+			],
+			[
+				"behaviro",
+				"Runtime/GameCode/Behaviour.h"
+			],
+			[
+				"behavir",
+				"Runtime/GameCode/Behaviour.h"
+			],
+			[
+				"objectde",
+				"Runtime/BaseClasses/ObjectDefines.h"
+			],
+			[
+				"editor",
+				"Runtime/BaseClasses/EditorExtension.h"
+			],
+			[
+				"behavi",
+				"Runtime/GameCode/Behaviour.h"
+			],
+			[
+				"renderloope",
+				"Runtime/Camera/RenderLoops/RenderLoopEnums.h"
+			],
+			[
+				"renderloop",
+				"Runtime/Camera/RenderLoops/RenderLoop.h"
+			],
+			[
+				"loop",
+				"Runtime/Camera/RenderLoops/RenderLoop.h"
+			],
+			[
+				"baseobje",
+				"Runtime/BaseClasses/BaseObject.cpp"
+			],
+			[
+				"moni",
+				"Runtime/Mono/MonoIncludes.h"
+			],
+			[
+				"editore",
+				"Runtime/BaseClasses/EditorExtension.h"
+			],
+			[
+				"component",
+				"Editor/Src/ComponentUtility.h"
+			],
+			[
+				"expro",
+				"Runtime/Modules/ExportModules.h"
+			],
+			[
+				"exportmo",
+				"Runtime/Modules/ExportModules.h"
+			],
+			[
+				"export",
+				"Runtime/Modules/ExportModules.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

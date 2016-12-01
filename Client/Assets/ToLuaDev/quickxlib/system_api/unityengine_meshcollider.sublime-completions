@@ -1,0 +1,20 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local MeshCollider = UnityEngine.MeshCollider",
+		"MeshCollider = UnityEngine.MeshCollider",
+		"UnityEngine.MeshCollider.__eq()",
+		"UnityEngine.MeshCollider.__tostring()",
+		"UnityEngine.MeshCollider.sharedMesh",
+		"meshCollider.sharedMesh",
+		"UnityEngine.MeshCollider.convex",
+		"meshCollider.convex",
+		{ "trigger": "UnityEngine.MeshCollider.New()","contents": "UnityEngine.MeshCollider.New()"},
+		{ "trigger": "MeshCollider.New()","contents": "MeshCollider.New()"},
+		"UnityEngine.MeshCollider.op_Equality",
+		{ "trigger": "UnityEngine.MeshCollider.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "UnityEngine.MeshCollider.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+		{ "trigger": "MeshCollider.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "MeshCollider.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+	]
+}
+

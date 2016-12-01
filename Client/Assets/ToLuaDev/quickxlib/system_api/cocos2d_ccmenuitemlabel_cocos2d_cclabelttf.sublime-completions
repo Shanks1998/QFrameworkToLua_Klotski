@@ -1,0 +1,22 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"Cocos2d.CCMenuItemLabel<Cocos2d.CCLabelTTF>.__tostring()",
+		"Cocos2d.CCMenuItemLabel<Cocos2d.CCLabelTTF>.disabledColor",
+		"Cocos2d.CCMenuItemLabel<Cocos2d.CCLabelTTF>.label",
+		"Cocos2d.CCMenuItemLabel<Cocos2d.CCLabelTTF>.isEnabled",
+		{ "trigger": "Cocos2d.CCMenuItemLabel<Cocos2d.CCLabelTTF>.New()","contents": "Cocos2d.CCMenuItemLabel<Cocos2d.CCLabelTTF>.New()"},
+		"Cocos2d.CCMenuItemLabel<Cocos2d.CCLabelTTF>.initWithLabel",
+		{ "trigger": "Cocos2d.CCMenuItemLabel<Cocos2d.CCLabelTTF>.initWithLabel(Cocos2d.CCLabelTTF:label,Cocos2d.CCMenuItemDelegate:block)","contents": "Cocos2d.CCMenuItemLabel<Cocos2d.CCLabelTTF>.initWithLabel(${1:Cocos2d.CCLabelTTF:label},${2:Cocos2d.CCMenuItemDelegate:block})"},
+		"Cocos2d.CCMenuItemLabel<Cocos2d.CCLabelTTF>.setString",
+		{ "trigger": "Cocos2d.CCMenuItemLabel<Cocos2d.CCLabelTTF>.setString(System.String:text)","contents": "Cocos2d.CCMenuItemLabel<Cocos2d.CCLabelTTF>.setString(${1:System.String:text})"},
+		"Cocos2d.CCMenuItemLabel<Cocos2d.CCLabelTTF>.activate",
+		{ "trigger": "Cocos2d.CCMenuItemLabel<Cocos2d.CCLabelTTF>.activate()","contents": "Cocos2d.CCMenuItemLabel<Cocos2d.CCLabelTTF>.activate()"},
+		"Cocos2d.CCMenuItemLabel<Cocos2d.CCLabelTTF>.selected",
+		{ "trigger": "Cocos2d.CCMenuItemLabel<Cocos2d.CCLabelTTF>.selected()","contents": "Cocos2d.CCMenuItemLabel<Cocos2d.CCLabelTTF>.selected()"},
+		"Cocos2d.CCMenuItemLabel<Cocos2d.CCLabelTTF>.unselected",
+		{ "trigger": "Cocos2d.CCMenuItemLabel<Cocos2d.CCLabelTTF>.unselected()","contents": "Cocos2d.CCMenuItemLabel<Cocos2d.CCLabelTTF>.unselected()"},
+	]
+}
+

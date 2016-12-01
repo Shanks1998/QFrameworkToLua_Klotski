@@ -1,0 +1,11 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"DG.Tweening.PathMode.Ignore",
+		"DG.Tweening.PathMode.Full3D",
+		"DG.Tweening.PathMode.TopDown2D",
+		"DG.Tweening.PathMode.Sidescroller2D",
+	]
+}
+

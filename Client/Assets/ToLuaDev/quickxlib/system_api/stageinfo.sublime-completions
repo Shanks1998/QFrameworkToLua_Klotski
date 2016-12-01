@@ -1,0 +1,16 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"StageInfo.__tostring()",
+		"StageInfo.edgeInfos",
+		"stageInfo.edgeInfos",
+		{ "trigger": "StageInfo.New()","contents": "StageInfo.New()"},
+		{ "trigger": "StageInfo.New()","contents": "StageInfo.New()"},
+		"StageInfo.getEdgeInfo",
+		{ "trigger": "StageInfo.getEdgeInfo(System.Int32:index)","contents": "StageInfo.getEdgeInfo(${1:System.Int32:index})"},
+		{ "trigger": ":getEdgeInfo(System.Int32:index)","contents": "getEdgeInfo(${1:System.Int32:index})"},
+		{ "trigger": "stageInfo:getEdgeInfo(System.Int32:index)","contents": "stageInfo:getEdgeInfo(${1:System.Int32:index})"},
+	]
+}
+

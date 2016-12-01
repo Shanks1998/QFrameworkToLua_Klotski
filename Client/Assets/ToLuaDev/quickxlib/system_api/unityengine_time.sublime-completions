@@ -1,0 +1,37 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local Time = UnityEngine.Time",
+		"Time = UnityEngine.Time",
+		"UnityEngine.Time.time",
+		"Time.time",
+		"UnityEngine.Time.timeSinceLevelLoad",
+		"Time.timeSinceLevelLoad",
+		"UnityEngine.Time.deltaTime",
+		"Time.deltaTime",
+		"UnityEngine.Time.fixedTime",
+		"Time.fixedTime",
+		"UnityEngine.Time.unscaledTime",
+		"Time.unscaledTime",
+		"UnityEngine.Time.unscaledDeltaTime",
+		"Time.unscaledDeltaTime",
+		"UnityEngine.Time.fixedDeltaTime",
+		"Time.fixedDeltaTime",
+		"UnityEngine.Time.maximumDeltaTime",
+		"Time.maximumDeltaTime",
+		"UnityEngine.Time.smoothDeltaTime",
+		"Time.smoothDeltaTime",
+		"UnityEngine.Time.timeScale",
+		"Time.timeScale",
+		"UnityEngine.Time.frameCount",
+		"Time.frameCount",
+		"UnityEngine.Time.renderedFrameCount",
+		"Time.renderedFrameCount",
+		"UnityEngine.Time.realtimeSinceStartup",
+		"Time.realtimeSinceStartup",
+		"UnityEngine.Time.captureFramerate",
+		"Time.captureFramerate",
+	]
+}
+

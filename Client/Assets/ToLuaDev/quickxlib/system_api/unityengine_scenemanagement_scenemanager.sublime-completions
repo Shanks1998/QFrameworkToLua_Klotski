@@ -1,0 +1,73 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"UnityEngine.SceneManagement.SceneManager.__tostring()",
+		"UnityEngine.SceneManagement.SceneManager.sceneCount",
+		"UnityEngine.SceneManagement.SceneManager.sceneCountInBuildSettings",
+		"UnityEngine.SceneManagement.SceneManager.sceneLoaded",
+		"UnityEngine.SceneManagement.SceneManager.sceneUnloaded",
+		"UnityEngine.SceneManagement.SceneManager.activeSceneChanged",
+		{ "trigger": "UnityEngine.SceneManagement.SceneManager.New()","contents": "UnityEngine.SceneManagement.SceneManager.New()"},
+		"UnityEngine.SceneManagement.SceneManager.GetActiveScene",
+		{ "trigger": "UnityEngine.SceneManagement.SceneManager.GetActiveScene()","contents": "UnityEngine.SceneManagement.SceneManager.GetActiveScene()"},
+		"UnityEngine.SceneManagement.SceneManager.SetActiveScene",
+		{ "trigger": "UnityEngine.SceneManagement.SceneManager.SetActiveScene(UnityEngine.SceneManagement.Scene:scene)","contents": "UnityEngine.SceneManagement.SceneManager.SetActiveScene(${1:UnityEngine.SceneManagement.Scene:scene})"},
+		"UnityEngine.SceneManagement.SceneManager.GetSceneByPath",
+		{ "trigger": "UnityEngine.SceneManagement.SceneManager.GetSceneByPath(System.String:scenePath)","contents": "UnityEngine.SceneManagement.SceneManager.GetSceneByPath(${1:System.String:scenePath})"},
+		"UnityEngine.SceneManagement.SceneManager.GetSceneByName",
+		{ "trigger": "UnityEngine.SceneManagement.SceneManager.GetSceneByName(System.String:name)","contents": "UnityEngine.SceneManagement.SceneManager.GetSceneByName(${1:System.String:name})"},
+		"UnityEngine.SceneManagement.SceneManager.GetSceneAt",
+		{ "trigger": "UnityEngine.SceneManagement.SceneManager.GetSceneAt(System.Int32:index)","contents": "UnityEngine.SceneManagement.SceneManager.GetSceneAt(${1:System.Int32:index})"},
+		"UnityEngine.SceneManagement.SceneManager.LoadScene",
+		{ "trigger": "UnityEngine.SceneManagement.SceneManager.LoadScene(System.String:sceneName)","contents": "UnityEngine.SceneManagement.SceneManager.LoadScene(${1:System.String:sceneName})"},
+		"UnityEngine.SceneManagement.SceneManager.LoadScene",
+		{ "trigger": "UnityEngine.SceneManagement.SceneManager.LoadScene(System.String:sceneName,UnityEngine.SceneManagement.LoadSceneMode:mode)","contents": "UnityEngine.SceneManagement.SceneManager.LoadScene(${1:System.String:sceneName},${2:UnityEngine.SceneManagement.LoadSceneMode:mode})"},
+		"UnityEngine.SceneManagement.SceneManager.LoadScene",
+		{ "trigger": "UnityEngine.SceneManagement.SceneManager.LoadScene(System.Int32:sceneBuildIndex)","contents": "UnityEngine.SceneManagement.SceneManager.LoadScene(${1:System.Int32:sceneBuildIndex})"},
+		"UnityEngine.SceneManagement.SceneManager.LoadScene",
+		{ "trigger": "UnityEngine.SceneManagement.SceneManager.LoadScene(System.Int32:sceneBuildIndex,UnityEngine.SceneManagement.LoadSceneMode:mode)","contents": "UnityEngine.SceneManagement.SceneManager.LoadScene(${1:System.Int32:sceneBuildIndex},${2:UnityEngine.SceneManagement.LoadSceneMode:mode})"},
+		"UnityEngine.SceneManagement.SceneManager.LoadSceneAsync",
+		{ "trigger": "UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(System.String:sceneName)","contents": "UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(${1:System.String:sceneName})"},
+		"UnityEngine.SceneManagement.SceneManager.LoadSceneAsync",
+		{ "trigger": "UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(System.String:sceneName,UnityEngine.SceneManagement.LoadSceneMode:mode)","contents": "UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(${1:System.String:sceneName},${2:UnityEngine.SceneManagement.LoadSceneMode:mode})"},
+		"UnityEngine.SceneManagement.SceneManager.LoadSceneAsync",
+		{ "trigger": "UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(System.Int32:sceneBuildIndex)","contents": "UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(${1:System.Int32:sceneBuildIndex})"},
+		"UnityEngine.SceneManagement.SceneManager.LoadSceneAsync",
+		{ "trigger": "UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(System.Int32:sceneBuildIndex,UnityEngine.SceneManagement.LoadSceneMode:mode)","contents": "UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(${1:System.Int32:sceneBuildIndex},${2:UnityEngine.SceneManagement.LoadSceneMode:mode})"},
+		"UnityEngine.SceneManagement.SceneManager.CreateScene",
+		{ "trigger": "UnityEngine.SceneManagement.SceneManager.CreateScene(System.String:sceneName)","contents": "UnityEngine.SceneManagement.SceneManager.CreateScene(${1:System.String:sceneName})"},
+		"UnityEngine.SceneManagement.SceneManager.UnloadScene",
+		{ "trigger": "UnityEngine.SceneManagement.SceneManager.UnloadScene(System.Int32:sceneBuildIndex)","contents": "UnityEngine.SceneManagement.SceneManager.UnloadScene(${1:System.Int32:sceneBuildIndex})"},
+		"UnityEngine.SceneManagement.SceneManager.UnloadScene",
+		{ "trigger": "UnityEngine.SceneManagement.SceneManager.UnloadScene(System.String:sceneName)","contents": "UnityEngine.SceneManagement.SceneManager.UnloadScene(${1:System.String:sceneName})"},
+		"UnityEngine.SceneManagement.SceneManager.UnloadScene",
+		{ "trigger": "UnityEngine.SceneManagement.SceneManager.UnloadScene(UnityEngine.SceneManagement.Scene:scene)","contents": "UnityEngine.SceneManagement.SceneManager.UnloadScene(${1:UnityEngine.SceneManagement.Scene:scene})"},
+		"UnityEngine.SceneManagement.SceneManager.MergeScenes",
+		{ "trigger": "UnityEngine.SceneManagement.SceneManager.MergeScenes(UnityEngine.SceneManagement.Scene:sourceScene,UnityEngine.SceneManagement.Scene:destinationScene)","contents": "UnityEngine.SceneManagement.SceneManager.MergeScenes(${1:UnityEngine.SceneManagement.Scene:sourceScene},${2:UnityEngine.SceneManagement.Scene:destinationScene})"},
+		"UnityEngine.SceneManagement.SceneManager.MoveGameObjectToScene",
+		{ "trigger": "UnityEngine.SceneManagement.SceneManager.MoveGameObjectToScene(UnityEngine.GameObject:go,UnityEngine.SceneManagement.Scene:scene)","contents": "UnityEngine.SceneManagement.SceneManager.MoveGameObjectToScene(${1:UnityEngine.GameObject:go},${2:UnityEngine.SceneManagement.Scene:scene})"},
+
+	[MonoPInvokeCallbackAttribute(typeof(LuaCSFunction))]
+	static int get_sceneLoaded(IntPtr L)
+	{
+		ToLua.Push(L, new EventObject("UnityEngine.SceneManagement.SceneManager.sceneLoaded"));
+		return 1;
+	}
+
+	[MonoPInvokeCallbackAttribute(typeof(LuaCSFunction))]
+	static int get_sceneUnloaded(IntPtr L)
+	{
+		ToLua.Push(L, new EventObject("UnityEngine.SceneManagement.SceneManager.sceneUnloaded"));
+		return 1;
+	}
+
+	[MonoPInvokeCallbackAttribute(typeof(LuaCSFunction))]
+	static int get_activeSceneChanged(IntPtr L)
+	{
+		ToLua.Push(L, new EventObject("UnityEngine.SceneManagement.SceneManager.activeSceneChanged"));
+		return 1;
+	}
+	]
+}
+

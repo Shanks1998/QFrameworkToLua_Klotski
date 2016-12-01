@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1096676387
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38f645bea92e2901f1595ef4c387a751
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/temp/Lua/MapPage/MapCtrl.lua.bytes
+Dependencies: []

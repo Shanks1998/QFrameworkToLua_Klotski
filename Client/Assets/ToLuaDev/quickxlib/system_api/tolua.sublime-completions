@@ -1,0 +1,50 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[	"tolua",
+		{ "trigger": "tolua.typeof(type)","contents": "tolua.typeof(${1:type})"},
+		"GameObject",
+		{ "trigger": "GameObject.Find(name)","contents": "GameObject.Find(${1:name})"},
+		{ "trigger": "GameObject.Destroy(obj)","contents": "GameObject.Destroy(${1:obj})"},
+		{ "trigger": "GetComponent(componentName)","contents": "GetComponent(${1:componentName})"},
+		"gameObject",
+		{ "trigger": ".gameObject","contents":"gameObject"},
+		{ "trigger": ":SetActive(active)","contents":"SetActive(${1:active})"},
+		{ "trigger": "gameObject:SetActive(active)","contents":"gameObject:SetActive(${1:active})"},
+		"transform",
+		{ "trigger": "transform.localPosition","contents":"transform.localPosition"},
+		{ "trigger": "transform.localPosition","contents":"transform.localPosition"},
+		{ "trigger": "transform.localRotation","contents":"transform.localRotation"},
+		{ "trigger": "transform.localScale","contents":"transform.localScale"},
+		{ "trigger": "transform.position","contents":"transform.position"},
+		{ "trigger": "transform.rotation","contents":"transform.rotation"},
+		{ "trigger": "transform.scale","contents":"transform.scale"},
+		{ "trigger": ".transform","contents":"transform"},
+		
+		{ "trigger": "transform:Find(name)","contents":"transform:Find(${1:name})"},
+		{ "trigger": "Find(name)","contents":"Find(${1:name})"},
+		{ "trigger": ":Find(name)","contents":"Find(${1:name})"},
+
+		{ "trigger": "coroutine.start(func)","contents":"coroutine.start(${1:func})"},
+		{ "trigger": "coroutine.wait(seconds)","contents":"coroutine.wait(${1:seconds})"},
+		{ "trigger": "coroutine.step()","contents":"coroutine.step()"},
+		{ "trigger": "coroutine.stop()","contents":"coroutine.stop()"},
+		{ "trigger": "UnityEngine.WWW(url_or_path)","contents":"UnityEngine.WWW(${1:url_or_path})"},
+		{ "trigger": "tolua.tolstring(obj)","contents":"tolua.tolstring(${1:obj})"},
+		{ "trigger": "coroutine.www(www)","contents":"coroutine.www(${1:www})"},
+		"Quaternion"
+		{ "trigger": "Quaternion.New(x,y,z,w)","contents":"Quaternion.New(${1:x},${2:y},${3:z},${4:w})"},
+		"Vector3",
+		{ "trigger": "Vector3.New(x,y,z)","contents":"Vector3.New(${1:x},${2:y},${3:z})"},
+		"Vector3.zero",
+		"Vector3.one",
+		"Vector2",
+		"Vector2.zero",
+		"Vector2.one",
+		{ "trigger": "Vector2.New(x,y)","contents":"Vector2.New(${1:x},${2:y})"},
+		"Color",
+		"Color.white",
+
+	]
+}

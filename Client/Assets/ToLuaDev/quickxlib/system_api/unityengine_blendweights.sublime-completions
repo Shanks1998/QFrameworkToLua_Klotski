@@ -1,0 +1,12 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local BlendWeights = UnityEngine.BlendWeights",
+		"BlendWeights = UnityEngine.BlendWeights",
+		"UnityEngine.BlendWeights.OneBone",
+		"UnityEngine.BlendWeights.TwoBones",
+		"UnityEngine.BlendWeights.FourBones",
+	]
+}
+

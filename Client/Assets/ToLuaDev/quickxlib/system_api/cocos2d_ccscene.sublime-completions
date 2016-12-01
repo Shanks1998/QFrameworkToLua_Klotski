@@ -1,0 +1,12 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local CCScene = Cocos2d.CCScene",
+		"CCScene = Cocos2d.CCScene",
+		"Cocos2d.CCScene.__tostring()",
+		{ "trigger": "Cocos2d.CCScene.New()","contents": "Cocos2d.CCScene.New()"},
+		{ "trigger": "CCScene.New()","contents": "CCScene.New()"},
+	]
+}
+

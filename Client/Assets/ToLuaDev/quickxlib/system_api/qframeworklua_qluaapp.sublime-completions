@@ -1,0 +1,34 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local QLuaApp = QFrameworkLua.QLuaApp",
+		"QLuaApp = QFrameworkLua.QLuaApp",
+		"QFrameworkLua.QLuaApp.__eq()",
+		"QFrameworkLua.QLuaApp.__tostring()",
+		"QFrameworkLua.QLuaApp.luaFileName",
+		"qLuaApp.luaFileName",
+		"QFrameworkLua.QLuaApp.onUpdate",
+		"qLuaApp.onUpdate",
+		"QFrameworkLua.QLuaApp.onFixedUpdate",
+		"qLuaApp.onFixedUpdate",
+		"QFrameworkLua.QLuaApp.onLatedUpdate",
+		"qLuaApp.onLatedUpdate",
+		"QFrameworkLua.QLuaApp.onGUI",
+		"qLuaApp.onGUI",
+		"QFrameworkLua.QLuaApp.onDestroy",
+		"qLuaApp.onDestroy",
+		"QFrameworkLua.QLuaApp.onApplicationQuit",
+		"qLuaApp.onApplicationQuit",
+		"QFrameworkLua.QLuaApp.Instance",
+		"qLuaApp.Instance",
+		"QFrameworkLua.QLuaApp.QFrameworkLua_QLuaApp_LifeCircleCallback",
+		"QLuaApp.QFrameworkLua_QLuaApp_LifeCircleCallback",
+		"QFrameworkLua.QLuaApp.op_Equality",
+		{ "trigger": "QFrameworkLua.QLuaApp.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "QFrameworkLua.QLuaApp.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+		{ "trigger": "QLuaApp.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "QLuaApp.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+		"QFrameworkLua.QLuaApp.LifeCircleCallback",
+		"QLuaApp.LifeCircleCallback",
+	]
+}
+

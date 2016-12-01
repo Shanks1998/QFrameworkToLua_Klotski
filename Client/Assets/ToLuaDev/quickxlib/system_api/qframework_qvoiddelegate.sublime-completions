@@ -1,0 +1,12 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local QVoidDelegate = QFramework.QVoidDelegate",
+		"QVoidDelegate = QFramework.QVoidDelegate",
+		"QFramework.QVoidDelegate.__tostring()",
+		{ "trigger": "QFramework.QVoidDelegate.New()","contents": "QFramework.QVoidDelegate.New()"},
+		{ "trigger": "QVoidDelegate.New()","contents": "QVoidDelegate.New()"},
+	]
+}
+

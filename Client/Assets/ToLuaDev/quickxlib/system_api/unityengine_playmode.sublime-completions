@@ -1,0 +1,11 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local PlayMode = UnityEngine.PlayMode",
+		"PlayMode = UnityEngine.PlayMode",
+		"UnityEngine.PlayMode.StopSameLayer",
+		"UnityEngine.PlayMode.StopAll",
+	]
+}
+

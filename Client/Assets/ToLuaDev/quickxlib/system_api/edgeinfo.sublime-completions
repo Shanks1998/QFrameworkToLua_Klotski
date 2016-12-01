@@ -1,0 +1,20 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"EdgeInfo.__tostring()",
+		"EdgeInfo.name",
+		"edgeInfo.name",
+		"EdgeInfo.x",
+		"edgeInfo.x",
+		"EdgeInfo.y",
+		"edgeInfo.y",
+		{ "trigger": "EdgeInfo.New()","contents": "EdgeInfo.New()"},
+		{ "trigger": "EdgeInfo.New()","contents": "EdgeInfo.New()"},
+		"EdgeInfo.Description",
+		{ "trigger": "EdgeInfo.Description()","contents": "EdgeInfo.Description()"},
+		{ "trigger": ":Description()","contents": "Description()"},
+		{ "trigger": "edgeInfo:Description()","contents": "edgeInfo:Description()"},
+	]
+}
+

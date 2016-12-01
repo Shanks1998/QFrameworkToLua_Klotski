@@ -1,0 +1,9 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"UnityEngine.UI.Toggle.ToggleEvent.__tostring()",
+		{ "trigger": "UnityEngine.UI.Toggle.ToggleEvent.New()","contents": "UnityEngine.UI.Toggle.ToggleEvent.New()"},
+	]
+}
+

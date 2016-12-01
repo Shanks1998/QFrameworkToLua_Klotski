@@ -1,0 +1,28 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local CCMenuItemFont = Cocos2d.CCMenuItemFont",
+		"CCMenuItemFont = Cocos2d.CCMenuItemFont",
+		"Cocos2d.CCMenuItemFont.__tostring()",
+		"Cocos2d.CCMenuItemFont._globalFontSize",
+		"CCMenuItemFont._globalFontSize",
+		"Cocos2d.CCMenuItemFont._globalFontName",
+		"CCMenuItemFont._globalFontName",
+		"Cocos2d.CCMenuItemFont.FontSize",
+		"cCMenuItemFont.FontSize",
+		"Cocos2d.CCMenuItemFont.FontName",
+		"cCMenuItemFont.FontName",
+		"Cocos2d.CCMenuItemFont.fontSize",
+		"cCMenuItemFont.fontSize",
+		"Cocos2d.CCMenuItemFont.fontName",
+		"cCMenuItemFont.fontName",
+		{ "trigger": "Cocos2d.CCMenuItemFont.New()","contents": "Cocos2d.CCMenuItemFont.New()"},
+		{ "trigger": "CCMenuItemFont.New()","contents": "CCMenuItemFont.New()"},
+		"Cocos2d.CCMenuItemFont.recreateLabel",
+		{ "trigger": "Cocos2d.CCMenuItemFont.recreateLabel()","contents": "Cocos2d.CCMenuItemFont.recreateLabel()"},
+		{ "trigger": ":recreateLabel()","contents": "recreateLabel()"},
+		{ "trigger": "cCMenuItemFont:recreateLabel()","contents": "cCMenuItemFont:recreateLabel()"},
+	]
+}
+

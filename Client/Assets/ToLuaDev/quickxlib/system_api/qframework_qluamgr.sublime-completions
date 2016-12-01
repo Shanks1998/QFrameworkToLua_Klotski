@@ -1,0 +1,34 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local QLuaMgr = QFramework.QLuaMgr",
+		"QLuaMgr = QFramework.QLuaMgr",
+		"QFramework.QLuaMgr.__eq()",
+		"QFramework.QLuaMgr.__tostring()",
+		"QFramework.QLuaMgr.InitStart",
+		{ "trigger": "QFramework.QLuaMgr.InitStart()","contents": "QFramework.QLuaMgr.InitStart()"},
+		{ "trigger": ":InitStart()","contents": "InitStart()"},
+		{ "trigger": "qLuaMgr:InitStart()","contents": "qLuaMgr:InitStart()"},
+		"QFramework.QLuaMgr.DoFile",
+		{ "trigger": "QFramework.QLuaMgr.DoFile(System.String:filename)","contents": "QFramework.QLuaMgr.DoFile(${1:System.String:filename})"},
+		{ "trigger": ":DoFile(System.String:filename)","contents": "DoFile(${1:System.String:filename})"},
+		{ "trigger": "qLuaMgr:DoFile(System.String:filename)","contents": "qLuaMgr:DoFile(${1:System.String:filename})"},
+		"QFramework.QLuaMgr.CallFunction",
+		{ "trigger": "QFramework.QLuaMgr.CallFunction(System.String:funcName,System.Object[]:args)","contents": "QFramework.QLuaMgr.CallFunction(${1:System.String:funcName},${2:System.Object[]:args})"},
+		{ "trigger": ":CallFunction(System.String:funcName,System.Object[]:args)","contents": "CallFunction(${1:System.String:funcName},${2:System.Object[]:args})"},
+		{ "trigger": "qLuaMgr:CallFunction(System.String:funcName,System.Object[]:args)","contents": "qLuaMgr:CallFunction(${1:System.String:funcName},${2:System.Object[]:args})"},
+		"QFramework.QLuaMgr.LuaGC",
+		{ "trigger": "QFramework.QLuaMgr.LuaGC()","contents": "QFramework.QLuaMgr.LuaGC()"},
+		{ "trigger": ":LuaGC()","contents": "LuaGC()"},
+		{ "trigger": "qLuaMgr:LuaGC()","contents": "qLuaMgr:LuaGC()"},
+		"QFramework.QLuaMgr.Close",
+		{ "trigger": "QFramework.QLuaMgr.Close()","contents": "QFramework.QLuaMgr.Close()"},
+		{ "trigger": ":Close()","contents": "Close()"},
+		{ "trigger": "qLuaMgr:Close()","contents": "qLuaMgr:Close()"},
+		"QFramework.QLuaMgr.op_Equality",
+		{ "trigger": "QFramework.QLuaMgr.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "QFramework.QLuaMgr.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+		{ "trigger": "QLuaMgr.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "QLuaMgr.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+	]
+}
+

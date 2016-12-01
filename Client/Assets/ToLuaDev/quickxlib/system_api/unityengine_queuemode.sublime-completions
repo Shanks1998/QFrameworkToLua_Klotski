@@ -1,0 +1,11 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local QueueMode = UnityEngine.QueueMode",
+		"QueueMode = UnityEngine.QueueMode",
+		"UnityEngine.QueueMode.CompleteOthers",
+		"UnityEngine.QueueMode.PlayNow",
+	]
+}
+

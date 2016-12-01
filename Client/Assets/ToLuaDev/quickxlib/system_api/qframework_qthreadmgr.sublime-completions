@@ -1,0 +1,23 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local QThreadMgr = QFramework.QThreadMgr",
+		"QThreadMgr = QFramework.QThreadMgr",
+		"QFramework.QThreadMgr.__eq()",
+		"QFramework.QThreadMgr.__tostring()",
+		"QFramework.QThreadMgr.Instance",
+		"qThreadMgr.Instance",
+		"QFramework.QThreadMgr.Dispose",
+		{ "trigger": "QFramework.QThreadMgr.Dispose()","contents": "QFramework.QThreadMgr.Dispose()"},
+		{ "trigger": "QThreadMgr.Dispose()","contents": "QThreadMgr.Dispose()"},
+		"QFramework.QThreadMgr.AddEvent",
+		{ "trigger": "QFramework.QThreadMgr.AddEvent(ThreadEvent:ev,System.Action`1[NotiData]:func)","contents": "QFramework.QThreadMgr.AddEvent(${1:ThreadEvent:ev},${2:System.Action`1[NotiData]:func})"},
+		{ "trigger": ":AddEvent(ThreadEvent:ev,System.Action`1[NotiData]:func)","contents": "AddEvent(${1:ThreadEvent:ev},${2:System.Action`1[NotiData]:func})"},
+		{ "trigger": "qThreadMgr:AddEvent(ThreadEvent:ev,System.Action`1[NotiData]:func)","contents": "qThreadMgr:AddEvent(${1:ThreadEvent:ev},${2:System.Action`1[NotiData]:func})"},
+		"QFramework.QThreadMgr.op_Equality",
+		{ "trigger": "QFramework.QThreadMgr.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "QFramework.QThreadMgr.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+		{ "trigger": "QThreadMgr.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "QThreadMgr.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+	]
+}
+

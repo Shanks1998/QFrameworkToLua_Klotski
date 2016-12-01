@@ -1,0 +1,38 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local UIWindow = Cocos2d.UIWindow",
+		"UIWindow = Cocos2d.UIWindow",
+		"Cocos2d.UIWindow.__eq()",
+		"Cocos2d.UIWindow.__tostring()",
+		"Cocos2d.UIWindow.PIXEL_PER_UNIT",
+		"UIWindow.PIXEL_PER_UNIT",
+		"Cocos2d.UIWindow.Instance",
+		"uIWindow.Instance",
+		"Cocos2d.UIWindow.bounds",
+		"uIWindow.bounds",
+		"Cocos2d.UIWindow.rootViewController",
+		"uIWindow.rootViewController",
+		"Cocos2d.UIWindow.Awake",
+		{ "trigger": "Cocos2d.UIWindow.Awake()","contents": "Cocos2d.UIWindow.Awake()"},
+		{ "trigger": ":Awake()","contents": "Awake()"},
+		{ "trigger": "uIWindow:Awake()","contents": "uIWindow:Awake()"},
+		"Cocos2d.UIWindow.setResolutionHeight",
+		{ "trigger": "Cocos2d.UIWindow.setResolutionHeight(System.Single:hInPixels)","contents": "Cocos2d.UIWindow.setResolutionHeight(${1:System.Single:hInPixels})"},
+		{ "trigger": ":setResolutionHeight(System.Single:hInPixels)","contents": "setResolutionHeight(${1:System.Single:hInPixels})"},
+		{ "trigger": "uIWindow:setResolutionHeight(System.Single:hInPixels)","contents": "uIWindow:setResolutionHeight(${1:System.Single:hInPixels})"},
+		"Cocos2d.UIWindow.OnUpdate",
+		{ "trigger": "Cocos2d.UIWindow.OnUpdate(Cocos2d.CADisplayLink:sender)","contents": "Cocos2d.UIWindow.OnUpdate(${1:Cocos2d.CADisplayLink:sender})"},
+		{ "trigger": ":OnUpdate(Cocos2d.CADisplayLink:sender)","contents": "OnUpdate(${1:Cocos2d.CADisplayLink:sender})"},
+		{ "trigger": "uIWindow:OnUpdate(Cocos2d.CADisplayLink:sender)","contents": "uIWindow:OnUpdate(${1:Cocos2d.CADisplayLink:sender})"},
+		"Cocos2d.UIWindow.OnGUIUpdate",
+		{ "trigger": "Cocos2d.UIWindow.OnGUIUpdate(Cocos2d.CADisplayLink:sender)","contents": "Cocos2d.UIWindow.OnGUIUpdate(${1:Cocos2d.CADisplayLink:sender})"},
+		{ "trigger": ":OnGUIUpdate(Cocos2d.CADisplayLink:sender)","contents": "OnGUIUpdate(${1:Cocos2d.CADisplayLink:sender})"},
+		{ "trigger": "uIWindow:OnGUIUpdate(Cocos2d.CADisplayLink:sender)","contents": "uIWindow:OnGUIUpdate(${1:Cocos2d.CADisplayLink:sender})"},
+		"Cocos2d.UIWindow.op_Equality",
+		{ "trigger": "Cocos2d.UIWindow.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "Cocos2d.UIWindow.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+		{ "trigger": "UIWindow.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "UIWindow.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+	]
+}
+

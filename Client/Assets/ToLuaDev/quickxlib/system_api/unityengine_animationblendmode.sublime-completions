@@ -1,0 +1,11 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local AnimationBlendMode = UnityEngine.AnimationBlendMode",
+		"AnimationBlendMode = UnityEngine.AnimationBlendMode",
+		"UnityEngine.AnimationBlendMode.Blend",
+		"UnityEngine.AnimationBlendMode.Additive",
+	]
+}
+

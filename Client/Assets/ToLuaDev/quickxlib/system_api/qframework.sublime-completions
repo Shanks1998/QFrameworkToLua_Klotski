@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		"arg","and","break","do","else","elseif","end","false","for","function","if","in","local","nil","not","or","repeat","return","then","true","until","while","_G","_VERSION", 
+		{ "trigger": "Log(...)", "contents": "QFramework.QUtil.Log(${1:...})" }, 
+		{ "trigger": "QFramework.QUtil.Log(...)", "contents": "QFramework.QUtil.Log(${1:...})" }, 
+	]
+}

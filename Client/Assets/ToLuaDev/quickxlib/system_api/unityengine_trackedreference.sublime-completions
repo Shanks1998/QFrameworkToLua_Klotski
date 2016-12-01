@@ -1,0 +1,22 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local TrackedReference = UnityEngine.TrackedReference",
+		"TrackedReference = UnityEngine.TrackedReference",
+		"UnityEngine.TrackedReference.__eq()",
+		"UnityEngine.TrackedReference.__tostring()",
+		"UnityEngine.TrackedReference.Equals",
+		{ "trigger": "UnityEngine.TrackedReference.Equals(System.Object:o)","contents": "UnityEngine.TrackedReference.Equals(${1:System.Object:o})"},
+		{ "trigger": ":Equals(System.Object:o)","contents": "Equals(${1:System.Object:o})"},
+		{ "trigger": "trackedReference:Equals(System.Object:o)","contents": "trackedReference:Equals(${1:System.Object:o})"},
+		"UnityEngine.TrackedReference.GetHashCode",
+		{ "trigger": "UnityEngine.TrackedReference.GetHashCode()","contents": "UnityEngine.TrackedReference.GetHashCode()"},
+		{ "trigger": ":GetHashCode()","contents": "GetHashCode()"},
+		{ "trigger": "trackedReference:GetHashCode()","contents": "trackedReference:GetHashCode()"},
+		"UnityEngine.TrackedReference.op_Equality",
+		{ "trigger": "UnityEngine.TrackedReference.op_Equality(UnityEngine.TrackedReference:x,UnityEngine.TrackedReference:y)","contents": "UnityEngine.TrackedReference.op_Equality(${1:UnityEngine.TrackedReference:x},${2:UnityEngine.TrackedReference:y})"},
+		{ "trigger": "TrackedReference.op_Equality(UnityEngine.TrackedReference:x,UnityEngine.TrackedReference:y)","contents": "TrackedReference.op_Equality(${1:UnityEngine.TrackedReference:x},${2:UnityEngine.TrackedReference:y})"},
+	]
+}
+

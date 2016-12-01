@@ -1,0 +1,22 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"UnityEngine.Events.UnityEventBase.__tostring()",
+		"UnityEngine.Events.UnityEventBase.GetPersistentEventCount",
+		{ "trigger": "UnityEngine.Events.UnityEventBase.GetPersistentEventCount()","contents": "UnityEngine.Events.UnityEventBase.GetPersistentEventCount()"},
+		"UnityEngine.Events.UnityEventBase.GetPersistentTarget",
+		{ "trigger": "UnityEngine.Events.UnityEventBase.GetPersistentTarget(System.Int32:index)","contents": "UnityEngine.Events.UnityEventBase.GetPersistentTarget(${1:System.Int32:index})"},
+		"UnityEngine.Events.UnityEventBase.GetPersistentMethodName",
+		{ "trigger": "UnityEngine.Events.UnityEventBase.GetPersistentMethodName(System.Int32:index)","contents": "UnityEngine.Events.UnityEventBase.GetPersistentMethodName(${1:System.Int32:index})"},
+		"UnityEngine.Events.UnityEventBase.SetPersistentListenerState",
+		{ "trigger": "UnityEngine.Events.UnityEventBase.SetPersistentListenerState(System.Int32:index,UnityEngine.Events.UnityEventCallState:state)","contents": "UnityEngine.Events.UnityEventBase.SetPersistentListenerState(${1:System.Int32:index},${2:UnityEngine.Events.UnityEventCallState:state})"},
+		"UnityEngine.Events.UnityEventBase.RemoveAllListeners",
+		{ "trigger": "UnityEngine.Events.UnityEventBase.RemoveAllListeners()","contents": "UnityEngine.Events.UnityEventBase.RemoveAllListeners()"},
+		"UnityEngine.Events.UnityEventBase.ToString",
+		{ "trigger": "UnityEngine.Events.UnityEventBase.ToString()","contents": "UnityEngine.Events.UnityEventBase.ToString()"},
+		"UnityEngine.Events.UnityEventBase.GetValidMethodInfo",
+		{ "trigger": "UnityEngine.Events.UnityEventBase.GetValidMethodInfo(System.Object:obj,System.String:functionName,System.Type[]:argumentTypes)","contents": "UnityEngine.Events.UnityEventBase.GetValidMethodInfo(${1:System.Object:obj},${2:System.String:functionName},${3:System.Type[]:argumentTypes})"},
+	]
+}
+

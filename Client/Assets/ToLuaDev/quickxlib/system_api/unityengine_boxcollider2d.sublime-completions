@@ -1,0 +1,18 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local BoxCollider2D = UnityEngine.BoxCollider2D",
+		"BoxCollider2D = UnityEngine.BoxCollider2D",
+		"UnityEngine.BoxCollider2D.__eq()",
+		"UnityEngine.BoxCollider2D.__tostring()",
+		"UnityEngine.BoxCollider2D.size",
+		"boxCollider2D.size",
+		{ "trigger": "UnityEngine.BoxCollider2D.New()","contents": "UnityEngine.BoxCollider2D.New()"},
+		{ "trigger": "BoxCollider2D.New()","contents": "BoxCollider2D.New()"},
+		"UnityEngine.BoxCollider2D.op_Equality",
+		{ "trigger": "UnityEngine.BoxCollider2D.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "UnityEngine.BoxCollider2D.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+		{ "trigger": "BoxCollider2D.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "BoxCollider2D.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+	]
+}
+

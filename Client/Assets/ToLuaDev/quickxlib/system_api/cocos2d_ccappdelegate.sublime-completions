@@ -1,0 +1,18 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local CCAppDelegate = Cocos2d.CCAppDelegate",
+		"CCAppDelegate = Cocos2d.CCAppDelegate",
+		"Cocos2d.CCAppDelegate.__eq()",
+		"Cocos2d.CCAppDelegate.__tostring()",
+		"Cocos2d.CCAppDelegate.applicationRunOnceOnBuilding",
+		{ "trigger": "Cocos2d.CCAppDelegate.applicationRunOnceOnBuilding()","contents": "Cocos2d.CCAppDelegate.applicationRunOnceOnBuilding()"},
+		{ "trigger": ":applicationRunOnceOnBuilding()","contents": "applicationRunOnceOnBuilding()"},
+		{ "trigger": "cCAppDelegate:applicationRunOnceOnBuilding()","contents": "cCAppDelegate:applicationRunOnceOnBuilding()"},
+		"Cocos2d.CCAppDelegate.op_Equality",
+		{ "trigger": "Cocos2d.CCAppDelegate.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "Cocos2d.CCAppDelegate.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+		{ "trigger": "CCAppDelegate.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "CCAppDelegate.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+	]
+}
+

@@ -1,0 +1,997 @@
+fileFormatVersion: 2
+guid: 733b5997c75464916ba7fc932da3ce23
+timeCreated: 1473952379
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: level_bt_blue.png
+    21300002: level_bt_blue_1.png
+    21300004: level_bt_blue_2.png
+    21300006: level_bt_green.png
+    21300008: level_bt_green_1.png
+    21300010: level_bt_green_2.png
+    21300012: level_bt_red.png
+    21300014: level_bt_red_1.png
+    21300016: level_bt_red_2.png
+    21300018: level_bt_yel.png
+    21300020: level_bt_yel_1.png
+    21300022: level_bt_yel_2.png
+    21300024: level_flag.png
+    21300026: level_level_bt_del.png
+    21300028: level_level_bt_play.png
+    21300030: level_map.png
+    21300032: level_nb0.png
+    21300034: level_nb1.png
+    21300036: level_nb2.png
+    21300038: level_nb3.png
+    21300040: level_nb4.png
+    21300042: level_nb5.png
+    21300044: level_nb6.png
+    21300046: level_nb7.png
+    21300048: level_nb8.png
+    21300050: level_nb9.png
+    21300052: level_star_add.png
+    21300054: level_star_bg.png
+    21300056: level_star_star.png
+    21300058: middlebottle1.png
+    21300060: middlebottle2.png
+    21300062: middlebottle3.png
+    21300064: nb_level_0.png
+    21300066: nb_level_1.png
+    21300068: nb_level_2.png
+    21300070: nb_level_3.png
+    21300072: nb_level_4.png
+    21300074: nb_level_5.png
+    21300076: nb_level_6.png
+    21300078: nb_level_7.png
+    21300080: nb_level_8.png
+    21300082: nb_level_9.png
+    21300084: nb_level_x.png
+    21300086: nb_life_0.png
+    21300088: nb_life_1.png
+    21300090: nb_life_2.png
+    21300092: nb_life_3.png
+    21300094: nb_life_4.png
+    21300096: nb_life_5.png
+    21300098: nb_life_6.png
+    21300100: nb_life_7.png
+    21300102: nb_life_8.png
+    21300104: nb_life_9.png
+    21300106: nb_life_b_0.png
+    21300108: nb_life_b_1.png
+    21300110: nb_life_b_2.png
+    21300112: nb_life_b_3.png
+    21300114: nb_life_b_4.png
+    21300116: nb_life_b_5.png
+    21300118: nb_life_b_6.png
+    21300120: nb_life_b_7.png
+    21300122: nb_life_b_8.png
+    21300124: nb_life_b_9.png
+    21300126: nb_star_m.png
+    21300128: over.png
+    21300130: passNext.png
+    21300132: phone.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: level_bt_blue.png
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 10
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 919, y: 66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_bt_blue_1.png
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 124
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 829, y: 180}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_bt_blue_2.png
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 166
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 699, y: 222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_bt_green.png
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 10
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 805, y: 66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_bt_green_1.png
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 238
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 829, y: 294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_bt_green_2.png
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 224
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 951, y: 288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_bt_red.png
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 354
+        width: 114
+        height: 112
+      alignment: 0
+      pivot: {x: 952, y: 410}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_bt_red_1.png
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 280
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 699, y: 336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_bt_red_2.png
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 638
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 888, y: 702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_bt_yel.png
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 10
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 691, y: 66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_bt_yel_1.png
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 352
+        width: 128
+        height: 114
+      alignment: 0
+      pivot: {x: 829, y: 409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_bt_yel_2.png
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 394
+        width: 128
+        height: 114
+      alignment: 0
+      pivot: {x: 699, y: 451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_flag.png
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 19
+        width: 127
+        height: 43
+      alignment: 0
+      pivot: {x: 481.5, y: 40.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_level_bt_del.png
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 144
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 934, y: 183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_level_bt_play.png
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 789
+        width: 74
+        height: 233
+      alignment: 0
+      pivot: {x: 984, y: 905.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_map.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 64
+        width: 581
+        height: 958
+      alignment: 0
+      pivot: {x: 292.5, y: 543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_nb0.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 421
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 615, y: 437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_nb1.png
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 665
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 1010, y: 681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_nb2.png
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 665
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 959, y: 681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_nb3.png
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 639
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 996, y: 651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_nb4.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 505
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 616, y: 521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_nb5.png
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 665
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 986, y: 681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_nb6.png
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 639
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 962, y: 651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_nb7.png
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 3
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 617, y: 15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_nb8.png
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 3
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 583, y: 15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_nb9.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 539
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 616, y: 555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_star_add.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 477
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 616, y: 490}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_star_bg.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 366
+        height: 58
+      alignment: 0
+      pivot: {x: 185, y: 33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level_star_star.png
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 16
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 393, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: middlebottle1.png
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 594
+        width: 195
+        height: 85
+      alignment: 0
+      pivot: {x: 732.5, y: 636.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: middlebottle2.png
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 681
+        width: 195
+        height: 85
+      alignment: 0
+      pivot: {x: 732.5, y: 723.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: middlebottle3.png
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 510
+        width: 194
+        height: 82
+      alignment: 0
+      pivot: {x: 732, y: 551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_level_0.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 573
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 616, y: 589.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_level_1.png
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 440.5, y: 9.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_level_2.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 608
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 616, y: 624.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_level_3.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 643
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 616, y: 659.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_level_4.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 678
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 616, y: 694.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_level_5.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 713
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 616, y: 729.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_level_6.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 748
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 616, y: 764.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_level_7.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 783
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 616, y: 799.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_level_8.png
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 29
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 588, y: 45.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_level_9.png
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 29
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 560, y: 45.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_level_x.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 995
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 617, y: 1008.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_life_0.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 860
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 616.5, y: 870}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_life_1.png
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 995
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 593, y: 1008.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_life_2.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 818
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 616.5, y: 827.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_life_3.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 839
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 616.5, y: 848.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_life_4.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 926
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 616.5, y: 936.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_life_5.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 882
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 616.5, y: 892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_life_6.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 972
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 617, y: 982.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_life_7.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 455
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 616, y: 465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_life_8.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 949
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 616.5, y: 959.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_life_9.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 904
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 616.5, y: 914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_life_b_0.png
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 521, y: 9.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_life_b_1.png
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 532.5, y: 9.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_life_b_2.png
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 5
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 546, y: 11}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_life_b_3.png
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 507, y: 9.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_life_b_4.png
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 414, y: 8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_life_b_5.png
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 493, y: 9.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_life_b_6.png
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 2
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 479, y: 9.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_life_b_7.png
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 465, y: 9.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_life_b_8.png
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 396, y: 8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_life_b_9.png
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 378, y: 8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_star_m.png
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 19
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 556, y: 23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: over.png
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 768
+        width: 310
+        height: 254
+      alignment: 0
+      pivot: {x: 790, y: 895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: passNext.png
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 699
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 980.5, y: 743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: phone.png
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 468
+        width: 181
+        height: 168
+      alignment: 0
+      pivot: {x: 922.5, y: 552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

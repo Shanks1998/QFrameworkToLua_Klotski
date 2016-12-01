@@ -1,0 +1,10 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"DG.Tweening.LoopType.Restart",
+		"DG.Tweening.LoopType.Yoyo",
+		"DG.Tweening.LoopType.Incremental",
+	]
+}
+

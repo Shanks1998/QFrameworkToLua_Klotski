@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="utf-8"?>
+<props>
+	<stage name="1">
+        <prop name="candy" x = "398.0" y = "494"/>
+	</stage>
+	<stage name="2">
+        <prop name="candy" x = "335" y = "335"/>
+	</stage>
+	<stage name="3">
+        <prop name="candy" x = "142" y = "180"/>
+	</stage>
+	<stage name="4">
+		<prop name="game_TS_2" x = "252.5" y = "762" x1 = "484.5" y1="762.0"/>
+        <prop name="candy" x = "113" y = "665"/>
+	</stage>
+	<stage name="5">
+        <prop name="candy" x = "447.0" y = "600.0"/>
+		<prop name="game_TS_2" x = "232.8" y = "546" x1 = "523.5" y1 = "546"/>
+		<prop name="game_TS_2" x = "371.0" y = "208.0" x1 = "88.9" y1 = "207.0"/>
+	</stage>
+	<stage name="6">
+        <prop name="candy" x = "492.0" y = "282.0"/>
+		<prop name="game_Tu_3" x = "142.0" y = " 745.0" x1 = "142.0" y1 = "546.0"/>
+	</stage>
+	<stage name="7">
+        <prop name="candy" x = "481.0" y = "450.0"/>
+		<prop name="game_TS_2" x = "502.0" y = "215.0" x1 = "210.0" y1 = "215.0"/>
+	</stage>
+	<stage name="8">
+        <prop name="candy" x = "123.0" y = "145.0"/>
+		<prop name="game_Tu_3" x = "135.0" y = "521.0" x1 = "135.0" y1 = "762.0"/>
+		<prop name="game_TS_2" x = "226.0" y = "95.0" x1 = "34.0" y1 = "95.0"/>
+	</stage>
+	<stage name="9">
+        <prop name="candy" x = "503.0" y = "623.0"/>
+		<prop name="l1_a_Elastic1" x = "414.0" y = "382.4"/>
+	</stage>
+	<stage name="10">
+        <prop name = "candy" x = "531.0" y = "510.0"/>
+		<prop name = "game_Tu_2" x = "222" y = "762" x1 = "222" y1 = "645"/>
+		<prop name = "l1_a_Elastic1" x = "177.6" y = "507.6"/>
+	</stage>
+	<stage name="11">
+        <prop name = "candy" x = "479.0" y ="738aa"/>
+		<prop name = "game_TS_2" x = "406.0" y = "688.0" x1 = "586.0" y1 = "688.0"/>
+		<prop name = "game_Tr_3" x = "252.0" y = "457.0"/>
+		<prop name = "l1_a_Elastic1" x = "211" y = "227"/>
+	</stage>
+	<stage name = "12">
+        <prop name = "candy" x = "533" y = "128"/>
+		<prop name = "game_TS_2" x = "502" y = "795" x1 = "167" y1 = "795"/>
+		<prop name = "game_TS_2" x = "138.0" y = "655.0" x1 = "455" y1 = "655"/>
+		<prop name = "l1_a_Elastic1" x = "252" y = "341.5"/>
+		<prop name = "game_Tr_3" x = "560" y = "335" />
+	</stage>
+	<stage name = "13">
+        <prop name = "candy" x = "469.0" y = "133"/>
+		<prop name = "game_Tu_2" x = "339" y = "621" x1 = "339" y1 = "767"/>
+		<prop name = "game_Tr_2" x = "337.0" y = "308"/>
+        <prop name = "l1_a_Elastic2" x = "138.1" y = "162.5"/>
+	</stage>
+	<stage name = "14">
+        <prop name = "candy" x = "215" y = "360"/>
+		<prop name = "game_TS_2" x=  "147.0" y = "517.0" x1 = "501.0" y1 = "517.0"/>
+		<prop name = "game_Tr_2" x = "232.0" y = "178.0" r = "-1"/>
+		<prop name = "game_Tr_2" x = "431.0" y = "178.0"/>
+	</stage>
+	<stage name = "15">
+        <prop name = "candy" x = "247" y = "202"/>
+		<prop name = "game_Tr_3" x = "404" y = "730" r = "-1"/>
+		<prop name = "l1_a_Elastic1" x = "386" y = "462.5"/>
+		<prop name = "game_Tu_4" x = "450" y = "309" x1 = "450" y1 = "55"/>
+	</stage>
+	<stage name = "16">
+        <prop name = "candy" x = "136" y = "514"/>
+		<prop name = "game_TS_3" x = "430" y = "591" x1 = "198" y1 = "591"/>
+		<prop name = "l1_a_Elastic1" x = "166" y = "162.5"/>
+		<prop name = "game_Tr_2" x = "548" y = "174"/>
+	</stage>
+	<stage name = "17">
+		<prop name = "game_TS_3" x = "477.0" y = "762.0" x1 = "120.0" y1 = "762.0"/>
+		<prop name = "l1_a_Elastic1" x = "430" y = "572" />
+		<prop name = "B-S" x = "136" y = "309" x1 = "135" y1 = "559"/>
+		<prop name = "game_TS_3" x = "138" y = "169" x1 = "500" y1 = "169"/>
+	</stage>
+	<stage name = "18">
+        <prop name = "candy" x = "205" y = "154"/>
+		<prop name = "game_Tu_2" x = "277" y = "719" x1 = "277" y1 = "474"/>
+		<prop name = "game_Tr_3" x = "327" y = "290" r = "-1"/>
+		<prop name = "l1_a_Elastic2" x = "511.5" y = "118.0"/>
+	</stage>
+	<stage name = "19">
+        <prop name = "candy" x = "508" y = "527"/>
+		<prop name = "game_Tu_2" x = "371.0" y = "474.0" x1 = "371.0" y1 = "716.0"/>
+		<prop name = "l1_a_Elastic1" x = "407" y = "323.5"/>
+	</stage>
+	<stage name = "20">
+        <prop name = "candy" x = "104" y = "501"/>
+		<prop name = "l1_a_Elastic1" x = "189" y = "735"/>
+		<prop name = "game_Tr_2" x = "421" y = "724.5"/>
+		<prop name = "l1_a_Elastic2" x = "143" y = "462.5"/>
+		<prop name = "l1_a_Elastic2" x = "474.0" y = "462.5"/>
+		<prop name = "game_Tr_3" x = "192.8" y = "293" r = "-1"/>
+		<prop name = "game_Tr_3" x = "437.8" y = "293.7"/>
+	</stage>
+	<stage name = "21">
+        <prop name = "candy" x = "141.0" y = "431.0"/>
+		<prop name = "game_TS_2" x = "245" y = "774" x1 = "503" y1 = "774"/>
+		<prop name = "l1_a_knife3" x = "455.5" y = "521.4"/>
+	</stage>
+	<stage name = "22">
+        <prop name = "candy" x = "126.0" y = "116.0"/>
+		<prop name = "game_TS_1" x = "406.0" y = "681.0" x1 = "557.0" y1 = "681.0"/>
+		<prop name = "game_Tu_2" x = "434.0" y = "407.0" x1 = "434.0" y1 = "609.0"/>
+		<prop name = "l1_a_knife3" x = "211.5" y = "76.4"/>
+	</stage>
+	<stage name = "23">
+        <prop name = "candy" x = "477.5" y = "426.3"/>
+		<prop name = "l1_a_knife3" x = "456.5" y = "730.4"/>
+		<prop name = "l1_a_knife3" x = "456.5" y = "389.4"/>
+		<prop name = "l1_a_knife3" x = "451.5" y = "112.7"/>
+	</stage>
+	<stage name = "24">
+        <prop name = "candy" x = "226" y = "514"/>
+		<prop name = "l1_a_knife3" x = "208.4" y = "783.8"/>
+		<prop name = "game_Tu_1" x = "426" y = "762" x1 = "426.0" y1 = "309"/>
+		<prop name = "l1_a_knife3" x = "208" y = "330.8"/>
+		<prop name = "l1_a_knife3" x = "452.2" y = "115.8"/>
+	</stage>
+	<stage name = "25">
+        <prop name = "candy" x = "141.0" y = "400.0"/>
+
+		<prop name = "game_Tr_2" x = "378.0" y = "630"/>
+
+		<prop name = "game_Tr_2" x = "378.0" y = "360.2"/>
+	</stage>
+	<stage name = "26">
+        <prop name = "candy" x = "162" y = "599"/>
+		<prop name = "game_TS_4" x = "188" y = "783" x1 = "456" y1 = "783"/>
+		<prop name = "l1_a_knife3" x = "270" y = "566.0"/>
+		<prop name = "game_TS_2" x = "282.0" y = "354" x1 = "101.0" y1 = "353.0"/>
+		<prop name = "l1_a_knife3" x = "159.5" y = "249.8"/>
+	</stage>
+	<stage name = "27">
+        <prop name = "candy" x = "387" y = "361"/>
+
+		<prop name = "game_Tr_2" x = "171.0" y = "750" r = "-1"/>
+		<prop name = "l1_a_kf_1" x = "88.8" y = "179"/>
+		<prop name = "l1_a_kf_2" x = "91.1" y = "214.3"/>
+	</stage>
+	<stage name = "28">
+        <prop name = "candy" x = "106" y = "784"/>
+		<prop name = "l1_a_kf_1" x = "194.8" y = "229.5"/>
+		<prop name = "l1_a_kf_2" x = "197.1" y = "265.1"/>
+		<prop name = "l1_a_kf_1" x = "506.0" y = "229.5"/>
+		<prop name = "l1_a_kf_2" x = "507.5" y = "265.1"/>
+	</stage>
+	<stage name = "29">
+        <prop name = "candy" x = "226.0" y = "198.0"/>
+		<prop name = "game_Tr_2" x = "258.7" y = "784.6" r = "-1"/>
+		<prop name = "l1_a_knife3" x = "435.0" y = "663.9"/>
+		<prop name = "l1_a_kf_1" x = "556" y = "498.7"/>
+		<prop name = "l1_a_kf_2" x = "557.4" y = "534.2"/>
+		<prop name = "l1_a_Elastic2" x = "494.2" y = "162.5"/>
+	</stage>
+	<stage name = "30">
+        <prop name = "candy" x = "188" y = "346"/>
+		<prop name = "game_Tu_3" x = "335" y = "747" x1 = "335" y1 = "150.3"/>
+		<prop name = "l1_a_knife3" x = "104" y = "534"/>
+		<prop name = "l1_a_kf_1" x = "549.7" y = "592.1"/>
+		<prop name = "l1_a_kf_2" x = "551.1" y = "628.1"/>
+		<prop name = "l1_a_kf_1" x = "549.7" y = "375.1"/>
+		<prop name = "l1_a_kf_2" x = "551.1" y = "411.1"/>
+		<prop name = "l1_a_knife3" x = "568" y = "170"/>
+	</stage>
+	<stage name = "31">
+        <prop name = "candy" x = "169" y = "814"/>
+		<prop name = "l1_a_knife3" x = "379.5" y = "631.1"/>
+		<prop name = "l1_a_knife3" x = "290.0" y = "786.1"/>
+		<prop name = "l1_a_knife3" x = "290" y = "498.0"/>
+		<prop name = "l1_a_knife3" x = "371.0" y = "352.0"/>
+		<prop name = "game_Tr_2" x = "332.1" y = "180.3" r = "-1"/>
+
+	</stage>
+	<stage name = "32">
+        <prop name = "candy" x = "327.0" y = "400"/>
+		<prop name = "game_TS_1" x = "262.0" y = "460.0" x1 = "86.0" y1 = "460.0" />
+		<prop name = "game_TS_1" x = "395.0" y = "460.0" x1 = "557.0" y1 = "460.0" />
+		<prop name = "l1_a_knife3" x = "329.5" y = "335.0"/>
+		<prop name = "l1_a_Elastic2" x = "131.3" y = "183.2"/>
+		<prop name = "l1_a_Elastic2" x = "493.6" y = "183.2"/>
+	</stage>
+	<stage name = "33">
+        <prop name = "candy" x = "128.0" y = "387.0"/>
+		<prop name = "game_Tr_5" x = "251.4" y = "788" x1 = "388.2" y1 = "788"/>
+		<prop name = "l1_a_knife3" x = "329.5" y = "503" />
+		<prop name = "game_Tu_1" x = "513.6" y = "335" x1 = "513.6" y1 = "59.0"/>
+	</stage>
+	<stage name = "34">
+        <prop name = "candy" x = "111.0" y = "290.0"/>
+		<prop name = "game_Tr_3" x = "249.8" y = "749.0" r = "-1"/>
+		<prop name = "game_TS_1" x = "253.6" y = "524.8" x1 = "462.4" y1 = "524.8"/>
+		<prop name = "game_TS_1" x = "462.4" y = "341.2" x1 = "253.6" y1 = "341.2"/>
+		<prop name = "game_TS_1" x = "257.2" y = "160.8" x1 = "462.4" y1 = "160.8"/>
+		<prop name = "l1_a_knife3" x = "187.2" y = "78.2"/>
+	</stage>
+	<stage name = "35">
+        <prop name = "candy" x = "501.0" y = "141.0"/>
+		<prop name = "l1_a_kf_1" x = "74.4" y = "687.7" />
+		<prop name = "l1_a_kf_2" x = "75.7" y = "723.0"/>
+		<prop name = "game_Tr_5" x = "324.0" y = "365.0" r = "-1"/>
+	</stage>
+	<stage name = "36">
+        <prop name = "candy" x = "462.0" y = "280.0"/>
+		<prop name = "game_TS_3" x = "565.0" y = "580.3" x1 = "178.0" y1 = "580.3"/>
+		<prop name = "l1_a_kf_1" x = "356.3" y = "440.7"/>
+		<prop name = "l1_a_kf_2" x = "358.1" y = "477.3"/>
+		<prop name = "l1_a_kf_1" x = "535.4" y = "440.7"/>
+		<prop name = "l1_a_kf_2" x = "537.3" y = "476.8"/>
+		<prop name = "game_TS_4" x = "413.0" y = "230.0" x1 = "26.0" y1 = "230.0"/>
+		<prop name = "l1_a_kf_1" x = "62.1" y = "92.3"/>
+		<prop name = "l1_a_kf_2" x = "64.0" y = "128.2"/>
+		<prop name = "l1_a_knife3" x = "467.5" y = "75.9"/>
+	</stage>
+	<stage name = "37">
+        <prop name = "candy" x = "333.0" y = "136.0"/>
+		<prop name = "l1_a_Elastic2" x = "141.0" y = "738.0"/>
+		<prop name = "l1_a_Elastic2" x = "346.0" y = "738.0"/>
+		<prop name = "l1_a_Elastic2" x = "290.0" y = "505.0"/>
+		<prop name = "l1_a_Elastic2" x = "456.0" y = "505.0"/>
+		<prop name = "l1_a_Elastic2" x = "141.0" y = "290.4"/>
+		<prop name = "l1_a_Elastic2" x = "335.4" y = "290.4"/>
+		<prop name = "l1_a_Elastic2" x = "121.8" y = "72.3"/>
+		<prop name = "l1_a_Elastic2" x = "517.1" y = "77.1"/>
+	</stage>
+	<stage name = "38">
+        <prop name = "candy" x = "526.0" y = "418.0"/>
+		<prop name = "game_Tu_2" x = "324.0" y = "762.0" x1 = "324.0" y1 = "631.0"/>
+		<prop name = "game_Tu_2" x = "148.0" y = "500.0" x1 = "148.0" y1 = "369.0"/>
+		<prop name = "game_Tu_2" x = "354.0" y = "238.0" x1 = "354.0" y1 = "107.0"/>
+		<prop name = "l1_a_kf_1" x = "547.7" y = "131.5"/>
+		<prop name = "l1_a_kf_2" x = "549.4" y = "167.0"/>
+	</stage>
+	<stage name = "39">
+        <prop name = "candy" x = "127.0" y = "642.0"/>
+		<prop name = "l1_a_Elastic2" x = "346.0" y = "276.0"/>
+		<prop name = "l1_a_kf_1" x = "581.2" y = "134.3"/>
+		<prop name = "l1_a_kf_2" x = "581.2" y = "170.3"/>
+	</stage>
+	<stage name = "40">
+        <prop name = "candy" x = "326.0" y = "635.0"/>
+		<prop name = "game_Tr_3" x = "189.8" y = "735.9"r = "-1"/>
+		<prop name = "game_Tr_3" x = "447.6" y = "735.9"/>
+		<prop name = "l1_a_kf_1" x = "71.6" y = "463.2" />
+		<prop name = "l1_a_kf_2" x = "73.8" y = "499.0"/>
+		<prop name = "l1_a_kf_1" x = "560.0" y = "465.6"/>
+		<prop name = "l1_a_kf_2" x = "559.6" y = "500.2"/>
+		<prop name = "l1_a_knife3" x = "114.6" y = "239.3"/>
+		<prop name = "l1_a_knife3" x = "540.4" y = "244.3"/>
+		<prop name = "l1_a_knife3" x = "102.2" y = "73.2"/>
+		<prop name = "l1_a_knife3" x = "536.9" y = "73.2"/>
+	</stage>
+	<stage name = "41">
+		<prop name = "l1_a_bomb_Range" x = "230.0" y = "334.0"/>
+ 		<prop name = "game_TS_2" x = "443.0" y = "215.0" x1 = "210.0" y1 = "215.0"/>
+	</stage>
+    <stage name = "42">
+        <prop name = "game_Tu_3" x = "134.0" y = "762.0" x1 = "135.0" y1 = "521.0"/>
+        <prop name = "l1_a_bomb_Range" x = "211.0" y = "348.0"/>
+         <prop name = "game_TS_2" x = "226.0" y = "95.0"  x1 = "34.0" y1 = "95.0"/>
+    </stage>
+    <stage name = "43">
+        <prop name = "game_TS_2" x = "252.5" y = "762.0" x1 = "484.5" y1 = "762.0"/>
+        <prop name = "l1_a_bomb_Range" x = "217.0" y = "618.0"/>
+         <prop name = "candy" x = "119.0" y = "255.2"/>
+    </stage>
+    <stage name = "44">
+        <prop name = "l1_a_Elastic1" x = "255.0" y = "455.5"/>
+        <prop name = "l1_a_bomb_Range" x = "369.0" y = "291.0"/>
+     </stage>
+    <stage name = "45">
+        <prop name = "l1_a_bomb_Range" x = "440.0" y = "721.0"/>
+         <prop name = "game_TS_2" x = "278.8" y = "550.2" x1 = "522.5" y1 = "549.0"/>
+        <prop name = "candy" x = "488.0" y = "418.2"/>
+        <prop name = "l1_a_knife3" x = "411.5" y = "378.4"/>
+        <prop name = "game_TS_2" x = "371.0" y = "208.0" x1 = "88.9" y1 = "207.0"/>
+	</stage>
+    <stage name = "46">
+        <prop name = "game_Tu_2" x = "222.0" y = "762.0" x1 = "222.0" y1 = "645.0"/>
+        <prop name = "l1_a_bomb_Range" x = "219.0" y = "497.0"/>
+         <prop name = "l1_a_bomb_Range" x ="390.0" y = "349.0"/>
+    </stage>
+    <stage name = "47">
+        <prop name = "l1_a_bomb_Range" x = "189.0" y = "769.0"/>
+         <prop name = "l1_a_bomb_Range" x = "442.0" y = "768.0"/>
+         <prop name = "candy" x = "129.0" y = "663.0"/>
+        <prop name = "candy" x = "505.0" y = "663.0"/>
+        <prop name = "l1_a_bomb_Range" x = "189.0" y = "479.0"/>
+         <prop name = "l1_a_bomb_Range" x = "442.0" y = "479.0"/>
+         <prop name = "l1_a_Elastic2" x = "480.0" y = "123.0"/>
+    </stage>
+    <stage name = "48">
+        <prop name = "game_TS_2" x = "502.0" y = "795.0" x1 = "167.0" y1 = "795.0"/>
+        <prop name = "game_TS_2" x = "138.0" y = "655.0" x1 = "455.0" y1 = "655.0"/>
+        <prop name = "l1_a_knife3" x = "442.0" y = "537.3"/>
+        <prop name = "l1_a_bomb_Range" x = "396.0" y = "333.0"/>
+         <prop name = "game_Tr_3" x = "560.0" y = "335.0"/>
+    </stage>
+    <stage name = "49">
+        <prop name = "game_TS_2" x = "190.0" y =  "460.0" x1 = "453.0" y1 = "466.0"/>
+        <prop name = "l1_a_Elastic2" x = "141.0" y = "328.0"/>
+        <prop name = "candy" x = "446.0" y = "359.0"/>
+        <prop name = "l1_a_bomb_Range" x = "460.0" y = "317.0"/>
+         <prop name = "game_Tr_2" x = "232.0" y = "178.0"r = "-1"/>
+        <prop name = "game_Tr_2" x = "431.0" y = "178.0"/>
+    </stage>
+    <stage name = "50">
+        
+        <prop name = "game_Tu_2" x = "277.0" y = "719.0" x1 = "277.0" y1 = "474.0"/>
+        <prop name = "l1_a_bomb_Range" x = "450.0" y = "726.0"/>
+        <prop name = "game_Tr_3" x = "327.0" y = "290.0"/>
+	</stage>
+	<stage name = "51">
+        <prop name = "l1_a_bomb_Range" x = "210.0" y = "726.0" />
+         
+		<prop name = "game_Tu_2" x = "412" y = "474" x1 = "412" y1 = "716"/>
+		<prop name = "l1_a_bomb_Range" x = "549.6" y = "480.0"/>
+ 		<prop name = "candy" x = "120.0" y = "519.0"/>
+		<prop name = "l1_a_knife3" x = "454.0" y = "74.0"/>
+        <prop name = "l1_a_Elastic1" x = "407.0" y = "323.5"/>
+	</stage>
+	<stage name = "52">
+		<prop name = "l1_a_bomb_Range" x = "363.0" y = "608.0"/>
+		<prop name = "l1_a_knife3" x = "289.0" y = "452.0"/>
+		<prop name = "l1_a_bomb_Range" x = "363.0" y = "266.0"/>
+		<prop name = "l1_a_knife3" x = "289.0" y = "112.0"/>
+	</stage>
+	<stage name = "53">
+		<prop name = "candy" x = "442.0" y = "498.0"/>
+		<prop name = "l1_a_bomb_Range" x = "440.0" y = "453.0"/>
+ 	</stage>
+	<stage name = "54">
+		<prop name = "game_Tr_3" x = "193.0" y = "730.0"r = "-1"/>
+		<prop name = "l1_a_Elastic1" x = "216.0" y = "516.5"/>
+		<prop name = "l1_a_bomb_Range" x = "254.0" y = "345.0" />
+        <prop name = "game_Tu_4" x = "450.0" y = "336.0" x1 = "450.0" y1 = "55.0"/>
+	</stage>
+	<stage name = "55">
+		<prop name = "game_Tr_2" x = "473.0" y = "753.0"r = "-1"/>
+		<prop name = "candy" x = "165.0" y  ="634.0"/>
+		<prop name = "l1_a_bomb_Range" x = "254.0" y = "592.0"/>
+ 		<prop name = "l1_a_Elastic1" x = "233.0" y = "346.5"/>
+		<prop name = "game_TS_3" x = "500.0" y = "169.0" x1 = "138.0" y1 = "168.0"/>
+        <prop name = "B-S" x = "477.0" y = "329.0" x1 = "477.0" y1 = "586.0"/>
+	</stage>
+	<stage name = "56">
+		<prop name = "l1_a_bomb_Range" x = "517.0" y = "772.0"/>
+ 		<prop name = "l1_a_knife3" x = "466.0" y = "551.0"/>
+		<prop name = "l1_a_knife3" x = "466.0" y = "551.0"/>
+        <prop name = "l1_a_knife3" x = "441.0" y = "411.0"/>
+        <prop name = "l1_a_knife3" x = "406.0" y = "272.0"/>
+		<prop name = "l1_a_knife3" x = "384.0" y = "132.0"/>
+	</stage>
+	<stage name = "57">
+		<prop name = "game_Tr_2" x = "421.8" y = "724.5"/>
+		<prop name = "candy" x = "111.0" y = "498"/>
+		<prop name = "l1_a_bomb_Range" x = "205.0" y = "454.0"/>
+ 		<prop name = "l1_a_bomb_Range" x = "404.0" y = "454.0"/>
+ 		<prop name = "game_Tr_3" x = "192.8" y = "293.7"r = "-1"/>
+		<prop name = "game_Tr_3" x = "437.8" y = "293.7"/>
+		<prop name ="game_TS_1" x = "244.0" y = "106.0" x1 = "84.0" y1 = "106.0"/>
+		<prop name = "game_TS_1" x = "390.0" y = "106.0" x1 = "550.0" y1 = "106.0"/>
+	</stage>
+	<stage name = "58">
+		<prop name = "game_Tr_2" x = "218.0" y = "785.0"r = "-1"/>
+		<prop name = "game_Tr_2" x = "417.0" y = "785.0"/>
+		<prop name = "l1_a_bomb_Range" x = "347.0" y = "475.0"/>
+ 		<prop name = "game_TS_3" x = "493.0" y = "324.0" x1 = "146.0" y1 = "324.0"/>
+		<prop name = "l1_a_kf_1" x = "107.8" y = "179.0"/>
+		<prop name = "l1_a_kf_2" x = "110.1" y = "214.3"/>
+		<prop name = "l1_a_kf_1" x = "527.0" y = "179.0"/>
+		<prop name = "l1_a_kf_2" x = "530.0" y = "214.3"/>
+	</stage>
+	<stage name = "59">
+		<prop name = "l1_a_knife3" x = "449.0" y = "635.0"/>
+		<prop name = "l1_a_knife3" x = "447.0" y = "404.0"/>
+		<prop name = "l1_a_bomb_Range" x = "265.0" y = "222.0"/>
+ 		<prop name = "game_Tr_3" x = "476.0" y = "222.0"/>
+		<prop name = "candy" x = "160.0" y = "104.0"/>
+	</stage>
+	<stage name = "60">
+		<prop name = "game_Tu_3" x = "227.0" y = "747.0" x1 = "227.0" y1 = "905.0"/>
+		<prop name = "l1_a_bomb_Range" x = "320.0" y = "618.0"/>
+ 		<prop name = "l1_a_kf_1" x = "549.7" y = "592.1"/>
+		<prop name = "l1_a_kf_2" x = "551.1" y = "628.1"/>
+		<prop name = "l1_a_kf_1" x = "548.7" y = "375.1"/>
+		<prop name = "l1_a_kf_2" x = "551.1" y = "411.1"/>
+		<prop name = "l1_a_knife3" x = "568.0" y = "170.0"/>
+		<prop name = "game_Tu_3" x = "339.0" y = "296.0" x1 = "339.0" y1 = "149.0"/>
+	</stage>
+    <stage name = "61">
+		<prop name = "l1_a_Electric" x = "217.0" y = "659.2"/>
+		<prop name = "l1_a_Electric1" x = "216.6" y = "563.7" r="90"/>
+        
+        <prop name = "l1_a_Electric" x = "434.3" y = "289.7"/>
+		<prop name = "l1_a_Electric1" x = "434.2" y = "193.8"  r="90" />
+        
+		<prop name = "candy" x = "146.2" y = "188.0"/>
+	</stage>
+	<stage name = "62">
+		<prop name = "l1_a_Electric" x = "362.5" y = "766.2"/>
+		<prop name = "l1_a_Electric1" x = "266.0" y = "765.8" r="180"/>
+        
+        <prop name = "l1_a_Electric" x = "376.7" y = "616.2"/>
+		<prop name = "l1_a_Electric1" x = "472.3" y = "615.9" />
+        
+	</stage>
+    
+	<stage name = "63">
+		<prop name = "game_TS_1" x = "406.0" y = "681.0" x1 = "537.0" y1 = "681.0" />
+		<prop name = "game_Tu_2" x = "434.0" y = "407.0" x1 = "434.0" y1 = "540.0"/>
+        
+        <prop name = "l1_a_knife3" x = "211.5" y = "560.4"/>
+		<prop name = "l1_a_Electric" x = "361.4" y = "256.5"/>
+		<prop name = "l1_a_Electric1" x = "263.9" y = "255.5" r="180"/>
+		<prop name = "l1_a_Electric1" x = "359.8" y = "161.7" r="90" />
+	</stage>
+    
+    
+	<stage name = "64">
+		<prop name = "l1_a_Electric" x = "484.5" y = "630.0"/>
+		<prop name = "l1_a_Electric1" x = "579.6" y = "628.8"  />
+        
+        <prop name = "l1_a_Electric" x = "484.5" y = "483.0"/>
+		<prop name = "l1_a_Electric1" x = "579.6" y = "481.8"  />
+        
+        <prop name = "l1_a_Electric" x = "484.5" y = "339.5"/>
+		<prop name = "l1_a_Electric1" x = "579.6" y = "340.0"  />
+        
+        <prop name = "l1_a_Electric" x = "396.5" y = "190.8"/>
+		<prop name = "l1_a_Electric1" x = "492.1" y = "190.4"  />
+        
+		<prop name = "candy" x = "566.6" y = "200.1"/>
+	</stage>
+	<stage name = "65">
+		<prop name = "game_Tr_2" x = "174.4" y = "768.0"  r = "-1"/>
+		<prop name = "game_Tr_2" x = "458.5" y = "620.9"/>
+        <prop name = "game_Tr_2" x = "457.0" y = "326.9"/>
+        
+        
+        <prop name = "l1_a_Electric" x = "304.0" y = "768.0"/>
+        <prop name = "l1_a_Electric1" x = "303.5" y = "859.6" r="-90.0"/>
+        
+        <prop name = "l1_a_Electric" x = "101.5" y = "468.7"/>
+        <prop name = "l1_a_Electric1" x = "195.5" y = "468.0"  />
+        
+        <prop name = "l1_a_kf_1" x = "85.0" y = "162.0"/>
+        <prop name = "l1_a_kf_2" x = "88.0" y = "197.3"/>
+        
+	</stage>
+	<stage name = "66">
+        
+		<prop name = "l1_a_Electric" x = "184.8" y = "796.0"/>
+        <prop name = "l1_a_Electric1" x = "280.5" y = "794.9"  />
+        
+        
+        <prop name = "l1_a_knife3" x = "323.5" y = "255.0"/>
+        <prop name = "l1_a_Elastic2" x = "144.4" y = "133.2"/>
+        
+        
+        
+        
+	</stage>
+	<stage name = "67">
+		<prop name = "l1_a_kf_1" x = "74.4" y = "802.7"/>
+        <prop name = "l1_a_kf_2" x = "75.7" y = "838.0"/>
+        
+        <prop name = "l1_a_Electric" x = "380.0" y = "731.8"/>
+        <prop name = "l1_a_Electric1" x = "475.0" y = "731.4"  />
+        
+        <prop name = "candy" x = "135.1" y = "286.7"/>
+        
+        <prop name = "game_Tr_5" x = "385.0" y = "492.0"/>
+        <prop name = "l1_a_knife3" x = "447.7" y = "112.5"/>
+        
+	</stage>
+	<stage name = "68">
+		<prop name = "l1_a_Electric" x = "382.5" y = "714.3"/>
+        <prop name = "l1_a_Electric1" x = "382.3" y = "807.6" r="-90"/>
+        <prop name = "l1_a_Electric1" x = "382.3" y = "618.1" r="90"/>
+        
+        
+        <prop name = "l1_a_Electric" x = "382.5" y = "334.3"/>
+        <prop name = "l1_a_Electric1" x = "382.0" y = "428.4" r="-90"/>
+        <prop name = "l1_a_Electric1" x = "382.3" y = "239.4" r="90"/>
+        
+        <prop name = "l1_a_bomb_Range" x = "278.0" y = "524.0"/>
+         
+        <prop name = "l1_a_bomb_Range" x = "278.0" y = "143.0"/>
+         
+        
+        
+	</stage>
+	<stage name = "69">
+		<prop name = "l1_a_bomb_Range" x = "404.0" y = "627.0"/>
+         
+        <prop name = "l1_a_Electric" x = "254.5" y = "271.3"/>
+        <prop name = "l1_a_Electric1" x = "157.4" y = "270.6" r="180"/>
+        
+        <prop name = "l1_a_kf_1" x = "581.2" y = "134.3"/>
+        <prop name = "l1_a_kf_2" x = "582.2" y = "170.3"/>
+        
+	</stage>
+	<stage name = "70">
+		<prop name = "candy" x = "503.0" y = "241.0"/>
+		<prop name = "l1_a_Fog_s2" x = "381.0" y = "668.0" />
+		<prop name = "l1_a_Fog_s2" x = "189.0" y = "439.0"/>
+		<prop name = "l1_a_Fog_s2" x = " 241.0" y = "184.0"/>
+		<prop name = "l1_a_knife3" x = "436.7" y = "199.5"/>
+        
+	</stage>
+    
+    <stage name = "71">
+		<prop name = "l1_a_Fog_s2" x = "263.0" y = "552.0" />
+		<prop name = "l1_a_Fog_s2" x = "224.0" y = "280.0"/>
+        
+        
+		<prop name = "game_Tu_2" x = " 324.0" y = "762.0" x1 = " 324.0" y1 = "631.0"/>
+		<prop name = "game_Tu_2" x = " 148.0" y = "500.0" x1 = " 148.0" y1 = "369.0"/>
+        <prop name = "game_Tu_2" x = " 336.0" y = "227.0" x1 = " 336.0" y1 = "96.0"/>
+        
+        
+	</stage>
+    
+    <stage name = "72">
+        
+		<prop name = "l1_a_Fog_s2" x = "175.0" y = "777.0" />
+		<prop name = "l1_a_Fog_s2" x = "268.0" y = "578.0"/>
+		<prop name = "l1_a_Fog_s2" x = " 463.0" y = "227.0"/>
+        
+		<prop name = "l1_a_knife3" x = "398.7" y = "669.5"/>
+        
+        <prop name = "game_TS_1" x = " 178.0" y = "529.0" x1 = " 377.0" y1 = "529.0"/>
+		<prop name = "game_TS_1" x = " 453.0" y = "427.0" x1 = " 266.0" y1 = "427.0"/>
+        <prop name = "game_TS_1" x = " 360.0" y = "102.0" x1 = " 107.0" y1 = "102.0"/>
+        
+	</stage>
+    
+    <stage name = "73">
+		<prop name = "candy" x = "158.0" y = "346.3"/>
+        
+		<prop name = "l1_a_Fog_s2" x = "299.7" y = "552.2" />
+		<prop name = "l1_a_Fog_s2" x = "319.7" y = "303.0"/>
+		<prop name = "l1_a_Fog_s2" x = " 423.8" y = "182.2"/>
+        
+		<prop name = "l1_a_knife3" x = "455.5" y = "566.4"/>
+        
+        <prop name = "l1_a_Elastic1" x = "198.3" y = "435.5"/>
+		
+        <prop name = "l1_a_Electric" x = "363.9" y = "428.5"/>
+        <prop name = "l1_a_Electric1" x = "458.5" y = "427.8"  />
+        
+	</stage>
+    
+    <stage name = "74">
+        
+		<prop name = "l1_a_Fog_s2" x = "500.7" y = "590.2" />
+		<prop name = "l1_a_Fog_s2" x = "500.7" y = "358.2"/>
+        
+		<prop name = "l1_a_kf_2" x = " 519.2" y = "156.3"/>
+		<prop name = "l1_a_kf_1" x = "518.2" y = "120.3"/>
+        
+        <prop name = "game_Tu_2" x = " 73.0" y = "644.0" x1 = " 73.0" y1 = "533.0"/>
+        
+        
+        
+	</stage>
+    
+    <stage name = "75">
+		<prop name = "l1_a_Fog_s2" x = "323.7" y = "667.2" />
+		<prop name = "l1_a_Fog_s2" x = "208.7" y = "284.2"/>
+        
+		<prop name = "l1_a_Elastic1" x = " 330.3" y = "548.5"/>
+		<prop name = "l1_a_knife3" x = "242.5" y = "425.4"/>
+        <prop name = "game_TS_3" x = " 139.0" y = "157.0" x1 = " 514.0" y1 = "157.0"/>
+        
+        
+	</stage>
+    
+    <stage name = "76">
+		<prop name = "candy" x = "461.0" y = "568.3"/>
+        
+		<prop name = "l1_a_Fog_s2" x = "342.7" y = "659.2" />
+		<prop name = "l1_a_Fog_s2" x = "342.7" y = "398.2"/>
+        
+		<prop name = "l1_a_bomb_Range" x = " 228.0" y = "529.0"/>
+         
+        <prop name = "game_Tr_2" x = " 247.0" y = "261.0" />
+        
+        <prop name = "l1_a_kf_2" x = " 463.9" y = "156.3"/>
+        <prop name = "l1_a_kf_1" x = "461.2" y = "120.3"/>
+	</stage>
+    
+    <stage name = "77">
+        
+		<prop name = "l1_a_Fog_s2" x = "246.7" y = "593.2" />
+		<prop name = "l1_a_Fog_s2" x = "246.7" y = "281.2"/>
+        
+        <prop name = "game_Tr_2" x = " 100.0" y = "551.0" r = "-1"/>
+        <prop name = "game_Tr_2" x = " 560.0" y = "394.0" />
+        <prop name = "game_Tr_2" x = " 100.0" y = "240.0" r = "-1"/>
+        
+        <prop name = "game_TS_2" x = " 502.0" y = "794.0" x1 = " 167.0" y1 = "794.0"/>
+        <prop name = "game_TS_2" x = " 139.0" y = "696.0" x1 = " 456.0" y1 = "696.0"/>
+        
+        
+        <prop name = "l1_a_bomb_Range" x = " 403.0" y = "394.0"/>
+         
+        
+	</stage>
+    
+    <stage name = "78">
+        
+        <prop name = "game_Tu_2" x = " 278.0" y = "763.0" x1 = " 277.0" y1 = "518.0"/>
+        
+        
+		<prop name = "l1_a_Fog_s2" x = "387.7" y = "684.2" />
+		<prop name = "l1_a_Fog_s2" x = "358.7" y = "415.2"/>
+		<prop name = "l1_a_Fog_s2" x = " 215.7" y = "255.2"/>
+        
+        
+		<prop name = "l1_a_knife3" x = "507.1" y = "537.6"/>
+        
+        <prop name = "game_Tr_3" x = "505.0" y = "375.0"/>
+        
+        <prop name = "l1_a_Electric" x = "528.3" y = "103.5"/>
+        <prop name = "l1_a_Electric1" x = "431.9" y = "102.8" r="180"/>
+        
+        
+	</stage>
+    
+    <stage name = "79">
+		<prop name = "candy" x = "219.0" y = "476.1"/>
+		<prop name = "game_Tr_2" x = "147.8" y = "753.0" r = "-1"/>
+        <prop name = "game_Tu_2" x = " 477.0" y = "282.0" x1 = " 477.0" y1 = "586.0"/>
+        
+        
+		<prop name = "l1_a_Fog_s2" x = "334.9" y = "637.4"/>
+		<prop name = "l1_a_Fog_s2" x = " 334.9" y = "337.4"/>
+        
+		<prop name = "l1_a_blow11" x = "109.8" y = "508.9" x1 ="0" />
+        <prop name = "l1_a_blow11" x = "109.8" y = "132.1"/>
+        
+        <prop name = "l1_a_blow22" x = "105.7" y = "508.3"/>
+        <prop name = "l1_a_blow22" x = "105.7" y = "130.3"/>
+        
+        
+	</stage>
+    
+    
+    
+    <stage name = "80">
+        
+        <prop name = "l1_a_Electric" x = "379.3" y = "781.5"/>
+        <prop name = "l1_a_Electric1" x = "474.4" y = "780.8"  />
+        
+        <prop name = "l1_a_Electric" x = "379.3" y = "507.4"/>
+        <prop name = "l1_a_Electric1" x = "474.4" y = "505.8"  />
+        
+        <prop name = "l1_a_Electric" x = "379.3" y = "209.4"/>
+        <prop name = "l1_a_Electric1" x = "474.4" y = "208.3"  />
+        
+        <prop name = "l1_a_blow11" x = "60.6" y = "708.1"x1 ="0"/>
+		<prop name = "l1_a_blow11" x = "60.6" y = "434.5"x1 ="0"/>
+        
+		<prop name = "l1_a_blow22" x = "55.4" y = "707.6" />
+		<prop name = "l1_a_blow22" x = "55.4" y = "433.3"/>
+        
+	</stage>
+    
+    <stage name = "81">
+		<prop name = "candy" x = "519.2" y = "605.3"/>
+        
+		<prop name = "l1_a_Fog_s2" x = "283.3" y = "683.0" />
+		<prop name = "l1_a_Fog_s2" x = "404.5" y = "566.6"/>
+        
+        <prop name = "l1_a_bomb_Range" x = "361.4" y = "416.6" />
+         
+        <prop name = "l1_a_blow11" x = "60.6" y = "487.8"x1 ="0"/>
+		<prop name = "l1_a_blow11" x = "60.6" y = "337.3"x1 ="0"/>
+        
+        <prop name = "l1_a_blow22" x = "55.4" y = "485.6" />
+		<prop name = "l1_a_blow22" x = "55.4" y = "336.8"/>
+        
+        <prop name = "game_TS_2" x = " 316.6" y = "100.8" x1 = " 550.6" y1 = "100.8"/>
+        
+        
+        
+	</stage>
+    
+    <stage name = "82">
+        
+		<prop name = "l1_a_Fog_s2" x = "238.9" y = "671.0" />
+		<prop name = "l1_a_Fog_s2" x = "378.1" y = "548.6"/>
+		<prop name = "l1_a_Fog_s2" x = " 466.9" y = "441.8"/>
+        
+		<prop name = "l1_a_knife3" x = "198.7" y = "454.8"/>
+        
+        <prop name = "game_Tu_2" x = " 190.2" y = "774.5" x1 = " 190.2" y1 = "917.1"/>
+		<prop name = "game_TS_2" x = " 102.0" y = "263.5" x1 = " 493.7" y1 = "263.5"/>
+        
+        <prop name = "l1_a_blow11" x = "563.2" y = "162.1"x1 ="-1"/>
+        
+        <prop name = "l1_a_blow22" x = "569.5" y = "161.6" />
+        
+	</stage>
+    
+    <stage name = "83">
+        
+		<prop name = "l1_a_blow11" x = "581.2" y = "606.1" x1 ="-1"/>
+		<prop name = "l1_a_blow22" x = "587.5" y = "605.6" />
+        
+        <prop name = "l1_a_Fog_s2" x = "350.5" y = "695.0"/>
+		<prop name = "l1_a_Fog_s2" x = " 298.9" y = "330.2"/>
+        <prop name = "game_Tu_2" x = " 230.4" y = "762.0" x1 = " 230.4" y1 = "645.0"/>
+        <prop name = "game_Tu_2" x = " 412.8" y = "527.2" x1 = " 412.8" y1 = "644.2"/>
+        <prop name = "game_Tu_2" x = " 412.8" y = "282.4" x1 = " 412.8" y1 = "399.4"/>
+        <prop name = "game_Tu_2" x = " 230.4" y = "283.2" x1 = " 230.4" y1 = "166.2"/>
+        
+        
+	</stage>
+    
+    <stage name = "84">
+        
+		<prop name = "l1_a_blow11" x = "294.6" y = "575.6" x1 ="0"/>
+		<prop name = "l1_a_blow11" x = "294.6" y = "308.2"x1 ="0"/>
+        <prop name = "l1_a_blow22" x = "294.6" y = "575.6" />
+		<prop name = "l1_a_blow22" x = "288.7" y = "308.0"/>
+        
+        <prop name = "game_Tu_3" x = " 494.3" y = "770.0" x1 = " 494.3" y1 = "99.7"/>
+        
+        <prop name = "l1_a_Fog_s2" x = "350.5" y = "152.6"/>
+        
+        
+	</stage>
+    
+    <stage name = "85">
+        
+		<prop name = "l1_a_Fog_s2" x = "347.5" y = "665.6" />
+		<prop name = "l1_a_Fog_s2" x = "275.5" y = "384.6"/>
+        
+		<prop name = "game_Tr_3" x = " 202.0" y = "778.0" r = "-1"/>
+        
+        <prop name = "l1_a_blow11" x = "208.2" y = "271.0"x1 ="0"/>
+        <prop name = "l1_a_blow22" x = "202.8" y = "270.8" />
+        
+        <prop name = "game_TS_4" x = " 468.8" y = "485.4" x1 = " 164.0" y1 = "485.4"/>
+        <prop name = "game_Tu_4" x = " 451.0" y = "336.0" x1 = " 450.0" y1 = "55.0"/>
+        
+        
+	</stage>
+    
+    <stage name = "86">
+		<prop name = "candy" x = "520.4" y = "210.0"/>
+        
+        <prop name = "l1_a_blow11" x = "477.2" y = "842.1"x1 ="-1"/>
+        <prop name = "l1_a_blow22" x = "482.8" y = "841.8" />
+        
+        <prop name = "l1_a_blow11" x = "477.2" y = "694.1"x1 ="-1"/>
+        <prop name = "l1_a_blow22" x = "482.8" y = "692.8" />
+        
+        <prop name = "l1_a_blow11" x = "477.2" y = "551.1"x1 ="-1"/>
+        <prop name = "l1_a_blow22" x = "482.8" y = "548.8" />
+        
+        <prop name = "l1_a_blow11" x = "178.6" y = "136.0"x1 ="0"/>
+        <prop name = "l1_a_blow22" x = "173.8" y = "134.8" />
+        
+        <prop name = "l1_a_knife3" x = "161.7" y = "686.8" />
+        <prop name = "l1_a_knife3" x = "161.7" y = "588.8" />
+        <prop name = "l1_a_knife3" x = "161.7" y = "495.8" />
+        
+	</stage>
+    
+    <stage name = "87">
+        
+		<prop name = "l1_a_Fog_s2" x = "389.5" y = "543.2" />
+		<prop name = "l1_a_Fog_s2" x = "389.5" y = "281.6"/>
+        
+        <prop name = "l1_a_blow11" x = "110.2" y = "136.0"x1 ="0"/>
+        <prop name = "l1_a_blow22" x = "105.4" y = "134.8" />
+        
+        <prop name = "game_TS_1" x = " 112.0" y = "757.0" x1 = " 243.0" y1 = "757.0"/>
+        <prop name = "game_Tu_2" x = " 501.2" y = "494.6" x1 = " 501.2" y1 = "627.6"/>
+        <prop name = "game_TS_1" x = " 112.0" y = "360.0" x1 = " 243.0" y1 = "360.0"/>
+        <prop name = "game_Tu_2" x = " 501.2" y = "51.8" x1 = " 501.2" y1 = "230.4"/>
+        
+        
+	</stage>
+    
+    <stage name = "88">
+        
+        <prop name = "l1_a_blow11" x = "477.2" y = "461.7"x1 ="-1"/>
+        <prop name = "l1_a_blow22" x = "482.8" y = "461.4" />
+        <prop name = "l1_a_knife3" x = "147.3" y = "406.0"/>
+        <prop name = "game_Tr_2" x = "246.4" y = "174.4" r = "-1"/>
+        <prop name = "game_Tr_2" x = "445.4" y = "174.4"/>
+        
+        <prop name = "game_TS_1" x = " 436.6" y = "768.8" x1 = " 568.6" y1 = "768.8"/>
+        <prop name = "game_TS_1" x = " 277.0" y = "636.8" x1 = " 143.8" y1 = "636.8"/>
+        <prop name = "game_TS_2" x = " 197.4" y = "291.4" x1 = " 493.8" y1 = "291.4"/>
+        
+        
+        
+        
+	</stage>
+    
+    <stage name = "89">
+		<prop name = "game_Tr_3" x = "491.3" y = "190.2" />
+        
+        
+        <prop name = "l1_a_blow11" x = "606.8" y = "687.8"x1 ="-1"/>
+        <prop name = "l1_a_blow22" x = "613.2" y = "687.5" />
+        
+        <prop name = "l1_a_blow11" x = "42.6" y = "552.2"x1 ="0"/>
+        <prop name = "l1_a_blow22" x = "37.7" y = "551.0" />
+        
+        <prop name = "l1_a_blow11" x = "606.8" y = "405.3"x1 ="-1"/>
+        <prop name = "l1_a_blow22" x = "613.2" y = "403.3" />
+        
+        <prop name = "l1_a_blow11" x = "42.6" y = "262.8"x1 ="0"/>
+        <prop name = "l1_a_blow22" x = "37.7" y = "261.5" />
+        
+        
+	</stage>
+    
+    <stage name = "90">
+		<prop name = "candy" x = "120.4" y = "604.8"/>
+        <prop name = "game_TS_1" x = " 202.6" y = "101.6" x1 = " 397.0" y1 = "101.6"/>
+        
+        
+        <prop name = "l1_a_blow11" x = "596.0" y = "635.7"x1 ="-1"/>
+        <prop name = "l1_a_blow22" x = "601.6" y = "635.4" />
+        
+        <prop name = "l1_a_blow11" x = "96.6" y = "864.2"x1 ="0"/>
+        <prop name = "l1_a_blow22" x = "91.7" y = "863.0" />
+        
+        
+        <prop name = "l1_a_Fog_s2" x = "276.7" y = "683.6" />
+        <prop name = "l1_a_Fog_s2" x = "318.7" y = "450.8"/>
+        <prop name = "l1_a_Fog_s2" x = "324.7" y = "221.6" />
+        
+	</stage>
+    
+    <stage name = "91">
+        
+        <prop name = "game_Tu_3" x = " 339.0" y = "296.0" x1 = " 339.0" y1 = "149.0"/>
+        <prop name = "game_Tu_3" x = " 166.5" y = "747.0" x1 = " 166.5" y1 = "905.0"/>
+        
+        
+        <prop name = "l1_a_blow11" x = "572.2" y = "225.3"x1 ="-1"/>
+        <prop name = "l1_a_blow22" x = "577.2" y = "225.7" />
+        
+        <prop name = "l1_a_blow11" x = "63.4" y = "592.0"x1 ="0"/>
+        <prop name = "l1_a_blow22" x = "58.6" y = "590.8" />
+        
+        <prop name = "l1_a_kf_2" x = "594.3" y = "628.1"/>
+		<prop name = "l1_a_kf_1" x = "592.9" y = "592.1"/>
+		<prop name = "l1_a_kf_2" x = "594.3" y = "411.1"/>
+		<prop name = "l1_a_kf_1" x = "592.9" y = "375.1"/>
+        
+        <prop name = "l1_a_Fog_s2" x = "331.4" y = "507.9"/>
+        
+        
+	</stage>
+    
+    <stage name = "92">
+		<prop name = "l1_a_knife3" x = "84.7" y = "708.0" />
+        <prop name = "l1_a_knife3" x = "433.9" y = "596.4" />
+		<prop name = "l1_a_knife3" x = "114.7" y = "366.0" />
+        
+		<prop name = "l1_a_bomb_Range" x = "363.4" y = "468.4" />
+         
+		<prop name = "l1_a_Fog_s2" x = "275.0" y = "691.5" />
+		<prop name = "l1_a_Fog_s2" x = "275.0" y = "464.7" />
+		<prop name = "l1_a_Fog_s2" x = "372.2" y = "236.7" />
+        
+        <prop name = "l1_a_blow11" x = "63.4" y = "131.2"x1 ="0"/>
+        <prop name = "l1_a_blow22" x = "58.6" y = "130.0" />
+        
+        
+        
+	</stage>
+    
+    <stage name = "93">
+		<prop name = "game_Tr_3" x = "481.0" y = "777.0"  r = "-1"/>
+        
+        <prop name = "l1_a_Elastic1" x = "462.3" y = "628.5" />
+		<prop name = "l1_a_knife3" x = "327.7" y = "501.0" />
+        
+        <prop name = "l1_a_blow11" x = "573.2" y = "254.3"x1 ="-1"/>
+        <prop name = "l1_a_blow22" x = "579.2" y = "254.7" />
+        <prop name = "l1_a_Fog_s2" x = "475.4" y = "487.5" />
+        <prop name = "game_Tu_4" x = " 194.0" y = "336.0" x1 = " 194.0" y1 = "55.0"/>
+        
+        <prop name = "l1_a_Electric" x = "153.8" y = "413.6"/>
+        <prop name = "l1_a_Electric1" x = "248.8" y = "413.2"  />
+        
+        
+	</stage>
+    
+    <stage name = "94">
+		<prop name = "game_Tr_2" x = "229.4" y = "768.0" r = "-1"/>
+        <prop name = "game_Tr_2" x = "452.5" y = "620.9" />
+		<prop name = "game_Tr_2" x = "451.0" y = "326.9" />
+        <prop name = "l1_a_Fog_s2" x = "300.4" y = "514.5" />
+        <prop name = "l1_a_Fog_s2" x = "327.4" y = "195.5" />
+        
+        <prop name = "l1_a_Electric" x = "101.5" y = "474.7"/>
+        <prop name = "l1_a_Electric1" x = "195.5" y = "474.0"  />
+        
+        <prop name = "l1_a_blow11" x = "69.4" y = "692.0" x1 ="0"/>
+        <prop name = "l1_a_blow22" x = "64.6" y = "690.8" />
+        
+        <prop name = "l1_a_blow11" x = "69.4" y = "398.0" x1 ="0"/>
+        <prop name = "l1_a_blow22" x = "64.6" y = "396.8" />
+        <prop name = "l1_a_kf_2" x = "88.0" y = "197.3"/>
+		<prop name = "l1_a_kf_1" x = "85.0" y = "162.0" />
+	</stage>
+    
+    <stage name = "95">
+		<prop name = "candy" x = "522.4" y = "387.5"/>
+        
+        <prop name = "l1_a_Electric" x = "184.8" y = "796.0"/>
+        <prop name = "l1_a_Electric1" x = "280.5" y = "794.9"  />
+        
+        <prop name = "l1_a_blow11" x = "140.4" y = "723.0" x1 ="0"/>
+        <prop name = "l1_a_blow22" x = "135.6" y = "721.8" />
+        
+        <prop name = "l1_a_Fog_s2" x = "274.4" y = "552.5" />
+        <prop name = "l1_a_Fog_s2" x = "433.4" y = "348.5" />
+        
+        <prop name = "l1_a_Elastic1" x = "109.0" y = "133.5" />
+        <prop name = "l1_a_knife3" x = "526.5" y = "140.0" />
+        
+        <prop name = "game_TS_1" x = " 262.0" y = "450.0" x1 = " 86.0" y1 = "450.0"/>
+        <prop name = "game_TS_1" x = " 395.0" y = "450.0" x1 = " 557.0" y1 = "450.0"/>
+        <prop name = "game_Tu_1" x = " 612.0" y = "788.0" x1 = " 612.0" y1 = "899.0"/>
+        
+        <prop name = "l1_a_bomb_Range" x = "-75.0" y = "572.0" />
+         
+	</stage>
+    
+    <stage name = "96">
+        
+        <prop name = "l1_a_bomb_Range" x = "484.4" y = "536.4" />
+         <prop name = "l1_a_bomb_Range" x = "254.4" y = "329.4" />
+         
+        <prop name = "l1_a_blow11" x = "52.4" y = "294.0"x1 ="0"/>
+        <prop name = "l1_a_blow22" x = "47.6" y = "292.8" />
+        
+        <prop name = "l1_a_knife3" x = "503.7" y = "669.5" />
+        <prop name = "l1_a_Fog_s2" x = "334.0" y = "659.0" />
+        <prop name = "l1_a_Fog_s2" x = "325.0" y = "483.0" />
+        <prop name = "l1_a_Fog_s2" x = "465.0" y = "224.0" />
+        
+        <prop name = "game_TS_1" x = " 178.0" y = "529.0" x1 = " 377.0" y1 = "529.0"/>
+        <prop name = "game_TS_1" x = " 453.0" y = "427.0" x1 = " 266.0" y1 = "427.0"/>
+        <prop name = "game_TS_1" x = " 360.0" y = "102.0" x1 = " 107.0" y1 = "102.0"/>
+        
+        
+	</stage>
+    
+    <stage name = "97">
+        
+        <prop name = "l1_a_bomb_Range" x = "338.0" y = "427.0" />
+         
+        
+        <prop name = "l1_a_blow11" x = "536.2" y = "567.3"x1 ="-1"/>
+        <prop name = "l1_a_blow22" x = "541.2" y = "567.7" />
+        
+        <prop name = "l1_a_kf_2" x = "93.1" y = "535.1" />
+        <prop name = "l1_a_kf_1" x = "91.7" y = "499.1" />
+        
+        <prop name = "l1_a_knife3" x = "568.0" y = "193.0" />
+        
+        <prop name = "l1_a_Fog_s2" x = "337.0" y = "647.0" />
+        
+        <prop name = "game_Tu_3" x = " 100.0" y = "767.0" x1 = " 100.0" y1 = "913.0"/>
+        <prop name = "game_Tu_3" x = " 339.0" y = "296.0" x1 = " 339.0" y1 = "172.0"/>
+        <prop name = "game_TS_2" x = " 265.0" y = "60.0" x1 = " 85.0" y1 = "60.0"/>
+        
+        
+	</stage>
+    
+    <stage name = "98">
+        
+        <prop name = "l1_a_Fog_s2" x = "211.0" y = "279.8" />
+        <prop name = "l1_a_Fog_s2" x = "431.8" y = "281.5" />
+        <prop name = "l1_a_Fog_s2" x = "321.4" y = "171.8" />
+        
+        <prop name = "game_Tr_2" x = "167.7" y = "789.9" r = "-1"/>
+        <prop name = "game_Tr_2" x = "363.3" y = "789.9" r = "-1"/>
+        <prop name = "game_Tr_2" x = "554.1" y = "789.9" />
+        <prop name = "game_Tr_2" x = "107.7" y = "606.3" />
+        <prop name = "game_Tr_2" x = "297.3" y = "606.3" r = "-1"/>
+        <prop name = "game_Tr_2" x = "486.9" y = "606.3" />
+        <prop name = "game_Tr_2" x = "42.9" y = "428.7" r = "-1"/>
+        <prop name = "game_Tr_2" x = "231.3" y = "428.7" r = "-1"/>
+        <prop name = "game_Tr_2" x = "420.9" y = "428.7" />
+        <prop name = "game_Tr_2" x = "612.9" y = "428.7" />
+        
+        
+        
+	</stage>
+    
+    <stage name = "99">
+		<prop name = "candy" x = "330.4" y = "779.6"/>
+		<prop name = "candy" x = "153.4" y = "494.6"/>
+		<prop name = "candy" x = "254.4" y = "165.6"/>
+        
+	</stage>
+    
+    <stage name = "100">
+        
+        <prop name = "ufo_h_1" x = " 154.0" y = "74.0" x1 = " 511.0" y1 = "74.0"/>
+        
+        
+	</stage>
+</props>
+		
+		
+	

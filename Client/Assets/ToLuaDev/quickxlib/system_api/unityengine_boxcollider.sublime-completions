@@ -1,0 +1,20 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local BoxCollider = UnityEngine.BoxCollider",
+		"BoxCollider = UnityEngine.BoxCollider",
+		"UnityEngine.BoxCollider.__eq()",
+		"UnityEngine.BoxCollider.__tostring()",
+		"UnityEngine.BoxCollider.center",
+		"boxCollider.center",
+		"UnityEngine.BoxCollider.size",
+		"boxCollider.size",
+		{ "trigger": "UnityEngine.BoxCollider.New()","contents": "UnityEngine.BoxCollider.New()"},
+		{ "trigger": "BoxCollider.New()","contents": "BoxCollider.New()"},
+		"UnityEngine.BoxCollider.op_Equality",
+		{ "trigger": "UnityEngine.BoxCollider.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "UnityEngine.BoxCollider.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+		{ "trigger": "BoxCollider.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "BoxCollider.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+	]
+}
+

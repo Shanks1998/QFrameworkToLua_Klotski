@@ -1,0 +1,84 @@
+10/29/2016 01:18:45	Instance Name: QMsgCenter
+10/29/2016 01:18:45	DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+10/29/2016 01:18:45	Add New Singleton QMsgCenter in Game!
+10/29/2016 01:18:45	QMsgCenter Init
+10/29/2016 01:18:45	Multiple EventSystems in scene... this is not supported
+10/29/2016 01:18:45	Already exist: QUGUIMgr(Clone)
+10/29/2016 01:18:46	1:18:46.91-3: Register lua type cost time: 0.249042
+10/29/2016 01:18:46	1:18:46.99-3: LuaState start
+10/29/2016 01:18:46	从这里开始游戏吗?
+10/29/2016 01:18:46	LuaFramework太好用了
+10/29/2016 01:18:46	1:18:46.130-3: [Common/functions.lua:396]:true    class() - create class "HomeLayer" with invalid super class type "table"
+10/29/2016 01:18:46	1:18:46.132-3: [Common/functions.lua:396]:true    class() - create class "CCSprite" with invalid super class type "table"
+10/29/2016 01:18:46	1:18:46.134-3: [Common/functions.lua:396]:true    class() - create class "CCToggle" with invalid super class type "table"
+10/29/2016 01:18:46	1:18:46.136-3: [Common/functions.lua:396]:true    class() - create class "CCButton" with invalid super class type "table"
+10/29/2016 01:18:46	1:18:46.138-3: [Common/functions.lua:396]:true    class() - create class "SuperHero" with invalid super class type "table"
+10/29/2016 01:18:46	1:18:46.139-3: [Common/functions.lua:396]:true    class() - create class "BlueHero" with invalid super class type "table"
+10/29/2016 01:18:46	1:18:46.141-3: [Common/functions.lua:396]:true    class() - create class "RedHero" with invalid super class type "table"
+10/29/2016 01:18:46	1:18:46.142-3: [Common/functions.lua:396]:true    class() - create class "GreenHero" with invalid super class type "table"
+10/29/2016 01:18:46	1:18:46.144-3: [Common/functions.lua:396]:true    class() - create class "YellowHero" with invalid super class type "table"
+10/29/2016 01:18:46	1:18:46.146-3: [Common/functions.lua:396]:true    class() - create class "MapLayer" with invalid super class type "table"
+10/29/2016 01:18:46	1:18:46.148-3: [Common/functions.lua:396]:true    class() - create class "MapPage" with invalid super class type "table"
+10/29/2016 01:18:46	1:18:46.149-3: [Common/functions.lua:396]:true    class() - create class "MapButton" with invalid super class type "table"
+10/29/2016 01:18:46	1:18:46.151-3: [Common/functions.lua:396]:true    class() - create class "GameLayer" with invalid super class type "table"
+10/29/2016 01:18:46	1:18:46.153-3: [Common/functions.lua:396]:true    class() - create class "EdgeSprite" with invalid super class type "table"
+10/29/2016 01:18:46	1:18:46.155-3: [Common/functions.lua:396]:true    class() - create class "GameLayer" with invalid super class type "table"
+10/29/2016 01:18:46	初始化GrayRunCtrl
+10/29/2016 01:18:46	***********hasResUpdated:False
+10/29/2016 01:18:46	DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+10/29/2016 01:18:46	进入游戏
+10/29/2016 01:18:46	[QABManager] Loading grayrun/prefab bundle
+10/29/2016 01:18:46	GameLayer init
+10/29/2016 01:18:46	GameLayer Enter
+10/29/2016 01:18:46	640:1136
+10/29/2016 01:18:46	EdgeInfo name:books2 x:596 y:226
+10/29/2016 01:18:46	EdgeInfo name:books2 x:44 y:380
+10/29/2016 01:18:46	EdgeInfo name:books2 x:608 y:586
+10/29/2016 01:18:46	EdgeInfo name:books2 x:46 y:762
+10/29/2016 01:18:46	EdgeInfo name:books1 x:594 y:852
+10/29/2016 01:18:46	EdgeInfo name:jm4 x:472 y:81
+10/29/2016 01:18:46	EdgeInfo name:jm4 x:174 y:235
+10/29/2016 01:18:46	EdgeInfo name:jm4 x:526 y:442
+10/29/2016 01:18:46	EdgeInfo name:jm4 x:172 y:617
+10/29/2016 01:18:46	EdgeInfo name:jm4 x:524 y:771
+10/29/2016 01:18:46	EdgeInfo name:cupRed x:156 y:0
+10/29/2016 01:18:46	1:18:46.270-3: Type System.Collections.Generic.List<EdgeInfo> not wrap to lua, push as System.Collections.Generic.List<T>, the warning is only raised once
+10/29/2016 01:18:46	1:18:46.273-3: [GrayRUn/Game/EdgeSprite.lua:18]:books2
+10/29/2016 01:18:46	1:18:46.275-3: [GrayRUn/Game/EdgeSprite.lua:19]:GrayRun/Sprite/game/edge/books2.png
+10/29/2016 01:18:46	640:1136
+10/29/2016 01:18:46	edgeSprite1
+---------------------------------------------------------------------------------------------------------------------
+10/29/2016 01:18:46	LuaException: [string "System/coroutine"]:27: The object of type 'Transform' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+stack traceback:
+	[C]: in function 'GetComponent'
+	[string "GrayRUn/Game/EdgeSprite"]:25: in function 'Init'
+	[string "GrayRun/Game/GameLayer"]:107: in function 'SetupEdge'
+	[string "GrayRun/Game/GameLayer"]:23: in function 'Enter'
+	[string "GrayRun/GrayRunCtrl"]:37: in function <[string "GrayRun/GrayRunCtrl"]:23>
+
+UnityEngine_ComponentWrap:GetComponent(IntPtr) (at Assets/ToLua/Source/Generate/UnityEngine_ComponentWrap.cs:77)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/ToLua/Core/LuaStatePtr.cs:306)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/ToLua/Core/LuaState.cs:669)
+LuaInterface.LuaFunction:PCall() (at Assets/ToLua/Core/LuaFunction.cs:91)
+LuaInterface.LuaFunction:Call() (at Assets/ToLua/Core/LuaFunction.cs:115)
+QFramework.QLuaMgr:StartMain() (at Assets/QFramework/Script/Manager/QLuaMgr.cs:225)
+QFramework.QLuaMgr:InitStart() (at Assets/QFramework/Script/Manager/QLuaMgr.cs:203)
+QFramework.GameManager:OnInitialize() (at Assets/_Script/GameManager.cs:184)
+QFramework.GameManager:OnResourceInited() (at Assets/_Script/GameManager.cs:179)
+QFramework.GameManager:CheckExtractResource() (at Assets/_Script/GameManager.cs:61)
+QFramework.<Init>c__Iterator1F:MoveNext() (at Assets/_Script/GameManager.cs:44)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+QFramework.GameManager:Awake() (at Assets/_Script/GameManager.cs:35)
+UnityEngine.GameObject:AddComponent()
+QFramework.Instance:AddMgr() (at Assets/QFramework/QFramework.cs:76)
+QFramework.<Init>c__Iterator3:MoveNext() (at Assets/QFramework/QFramework.cs:41)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+QFramework.GameManager:Awake() (at Assets/_Script/GameManager.cs:35)
+UnityEngine.GameObject:AddComponent()
+QFramework.Instance:AddMgr() (at Assets/QFramework/QFramework.cs:76)
+QFramework.<Init>c__Iterator3:MoveNext() (at Assets/QFramework/QFramework.cs:41)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+---------------------------------------------------------------------------------------------------------------------

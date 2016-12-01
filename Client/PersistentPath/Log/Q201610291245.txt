@@ -1,0 +1,140 @@
+10/29/2016 01:02:45	Instance Name: QMsgCenter
+10/29/2016 01:02:45	DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+10/29/2016 01:02:45	Add New Singleton QMsgCenter in Game!
+10/29/2016 01:02:45	QMsgCenter Init
+10/29/2016 01:02:45	Multiple EventSystems in scene... this is not supported
+10/29/2016 01:02:45	Already exist: QUGUIMgr(Clone)
+10/29/2016 01:02:46	1:2:46.200-3: Register lua type cost time: 0.222157
+10/29/2016 01:02:46	1:2:46.208-3: LuaState start
+10/29/2016 01:02:46	从这里开始游戏吗?
+10/29/2016 01:02:46	LuaFramework太好用了
+10/29/2016 01:02:46	1:2:46.240-3: [Common/functions.lua:396]:true    class() - create class "HomeLayer" with invalid super class type "table"
+10/29/2016 01:02:46	1:2:46.242-3: [Common/functions.lua:396]:true    class() - create class "CCSprite" with invalid super class type "table"
+10/29/2016 01:02:46	1:2:46.244-3: [Common/functions.lua:396]:true    class() - create class "CCToggle" with invalid super class type "table"
+10/29/2016 01:02:46	1:2:46.246-3: [Common/functions.lua:396]:true    class() - create class "CCButton" with invalid super class type "table"
+10/29/2016 01:02:46	1:2:46.247-3: [Common/functions.lua:396]:true    class() - create class "SuperHero" with invalid super class type "table"
+10/29/2016 01:02:46	1:2:46.249-3: [Common/functions.lua:396]:true    class() - create class "BlueHero" with invalid super class type "table"
+10/29/2016 01:02:46	1:2:46.251-3: [Common/functions.lua:396]:true    class() - create class "RedHero" with invalid super class type "table"
+10/29/2016 01:02:46	1:2:46.252-3: [Common/functions.lua:396]:true    class() - create class "GreenHero" with invalid super class type "table"
+10/29/2016 01:02:46	1:2:46.254-3: [Common/functions.lua:396]:true    class() - create class "YellowHero" with invalid super class type "table"
+10/29/2016 01:02:46	1:2:46.256-3: [Common/functions.lua:396]:true    class() - create class "MapLayer" with invalid super class type "table"
+10/29/2016 01:02:46	1:2:46.258-3: [Common/functions.lua:396]:true    class() - create class "MapPage" with invalid super class type "table"
+10/29/2016 01:02:46	1:2:46.259-3: [Common/functions.lua:396]:true    class() - create class "MapButton" with invalid super class type "table"
+10/29/2016 01:02:46	1:2:46.261-3: [Common/functions.lua:396]:true    class() - create class "GameLayer" with invalid super class type "table"
+10/29/2016 01:02:46	1:2:46.263-3: [Common/functions.lua:396]:true    class() - create class "GameLayer" with invalid super class type "table"
+10/29/2016 01:02:46	初始化GrayRunCtrl
+10/29/2016 01:02:46	***********hasResUpdated:False
+10/29/2016 01:02:46	DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+10/29/2016 01:02:46	进入游戏
+10/29/2016 01:02:46	[QABManager] Loading grayrun/prefab bundle
+10/29/2016 01:02:46	GameLayer init
+10/29/2016 01:02:46	GameLayer Enter
+10/29/2016 01:02:46	640:1136
+10/29/2016 01:02:46	EdgeInfo name:books2 x:596 y:226
+10/29/2016 01:02:46	EdgeInfo name:books2 x:44 y:380
+10/29/2016 01:02:46	EdgeInfo name:books2 x:608 y:586
+10/29/2016 01:02:46	EdgeInfo name:books2 x:46 y:762
+10/29/2016 01:02:46	EdgeInfo name:books1 x:594 y:852
+10/29/2016 01:02:46	EdgeInfo name:jm4 x:472 y:81
+10/29/2016 01:02:46	EdgeInfo name:jm4 x:174 y:235
+10/29/2016 01:02:46	EdgeInfo name:jm4 x:526 y:442
+10/29/2016 01:02:46	EdgeInfo name:jm4 x:172 y:617
+10/29/2016 01:02:46	EdgeInfo name:jm4 x:524 y:771
+10/29/2016 01:02:46	EdgeInfo name:cupRed x:156 y:0
+10/29/2016 01:02:46	1:2:46.381-3: [GrayRUn/Game/EdgeSprite.lua:12]:EdgeSprite ctor gameObject.name:EdgeSprite
+10/29/2016 01:02:46	1:2:46.384-3: Type System.Collections.Generic.List<EdgeInfo> not wrap to lua, push as System.Collections.Generic.List<T>, the warning is only raised once
+10/29/2016 01:02:46	1:2:46.387-3: [GrayRUn/Game/EdgeSprite.lua:19]:books2
+10/29/2016 01:02:46	1:2:46.389-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/books2.png
+10/29/2016 01:02:46	1:2:46.391-3: [GrayRUn/Game/EdgeSprite.lua:19]:books2
+10/29/2016 01:02:46	1:2:46.392-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/books2.png
+10/29/2016 01:02:46	1:2:46.394-3: [GrayRUn/Game/EdgeSprite.lua:19]:books2
+10/29/2016 01:02:46	1:2:46.395-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/books2.png
+10/29/2016 01:02:46	1:2:46.397-3: [GrayRUn/Game/EdgeSprite.lua:19]:books2
+10/29/2016 01:02:46	1:2:46.398-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/books2.png
+10/29/2016 01:02:46	1:2:46.400-3: [GrayRUn/Game/EdgeSprite.lua:19]:books1
+10/29/2016 01:02:46	1:2:46.401-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/books1.png
+10/29/2016 01:02:46	1:2:46.402-3: [GrayRUn/Game/EdgeSprite.lua:19]:jm4
+10/29/2016 01:02:46	1:2:46.404-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/jm4.png
+10/29/2016 01:02:46	1:2:46.405-3: [GrayRUn/Game/EdgeSprite.lua:19]:jm4
+10/29/2016 01:02:46	1:2:46.407-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/jm4.png
+10/29/2016 01:02:46	1:2:46.408-3: [GrayRUn/Game/EdgeSprite.lua:19]:jm4
+10/29/2016 01:02:46	1:2:46.410-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/jm4.png
+10/29/2016 01:02:46	1:2:46.411-3: [GrayRUn/Game/EdgeSprite.lua:19]:jm4
+10/29/2016 01:02:46	1:2:46.413-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/jm4.png
+10/29/2016 01:02:46	1:2:46.415-3: [GrayRUn/Game/EdgeSprite.lua:19]:jm4
+10/29/2016 01:02:46	1:2:46.416-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/jm4.png
+10/29/2016 01:02:46	1:2:46.417-3: [GrayRUn/Game/EdgeSprite.lua:19]:cupRed
+10/29/2016 01:02:46	1:2:46.419-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/cupRed.png
+10/29/2016 01:02:46	edgeSprite
+10/29/2016 01:02:56	Uncaught exception in async net callback: Object reference not set to an instance of an object
+10/29/2016 01:02:56	  at UnityEngine.GUISkin.GetStyle (System.String styleName) [0x00010] in /Users/builduser/buildslave/unity/build/Runtime/IMGUI/Managed/GUISkin.cs:319 
+  at UnityEngine.GUIStyle.op_Implicit (System.String str) [0x00020] in /Users/builduser/buildslave/unity/build/Runtime/IMGUI/Managed/GUIStyle.cs:586 
+  at UnityEditor.ProjectBrowser.InitSearchMenu () [0x00014] in /Users/builduser/buildslave/unity/build/Editor/Mono/ProjectBrowser.cs:483 
+  at UnityEditor.ProjectBrowser.AssetStoreSearchEndedCallback () [0x00000] in /Users/builduser/buildslave/unity/build/Editor/Mono/ProjectBrowser.cs:511 
+  at UnityEditor.ObjectListArea+<QueryAssetStore>c__AnonStorey40.<>m__60 (UnityEditor.AssetStoreSearchResults results) [0x00356] in /Users/builduser/buildslave/unity/build/Editor/Mono/ObjectListArea.cs:406 
+  at UnityEditor.AssetStoreResultBase`1[Derived].Parse (UnityEditor.AssetStoreResponse response) [0x000fc] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:89 
+  at UnityEditor.AssetStoreClient+<SearchAssets>c__AnonStorey61.<>m__B8 (UnityEditor.AssetStoreResponse ar) [0x00000] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:751 
+  at UnityEditor.AssetStoreClient+<WrapJsonCallback>c__AnonStorey60.<>m__B6 (UnityEditor.AsyncHTTPClient job) [0x00012] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:624 
+10/29/2016 01:02:57	Uncaught exception in async net callback: Object reference not set to an instance of an object
+10/29/2016 01:02:57	  at UnityEngine.GUISkin.GetStyle (System.String styleName) [0x00010] in /Users/builduser/buildslave/unity/build/Runtime/IMGUI/Managed/GUISkin.cs:319 
+  at UnityEngine.GUIStyle.op_Implicit (System.String str) [0x00020] in /Users/builduser/buildslave/unity/build/Runtime/IMGUI/Managed/GUIStyle.cs:586 
+  at UnityEditor.ProjectBrowser.InitSearchMenu () [0x00014] in /Users/builduser/buildslave/unity/build/Editor/Mono/ProjectBrowser.cs:483 
+  at UnityEditor.ProjectBrowser.AssetStoreSearchEndedCallback () [0x00000] in /Users/builduser/buildslave/unity/build/Editor/Mono/ProjectBrowser.cs:511 
+  at UnityEditor.ObjectListArea+<QueryAssetStore>c__AnonStorey40.<>m__60 (UnityEditor.AssetStoreSearchResults results) [0x00356] in /Users/builduser/buildslave/unity/build/Editor/Mono/ObjectListArea.cs:406 
+  at UnityEditor.AssetStoreResultBase`1[Derived].Parse (UnityEditor.AssetStoreResponse response) [0x000fc] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:89 
+  at UnityEditor.AssetStoreClient+<SearchAssets>c__AnonStorey61.<>m__B8 (UnityEditor.AssetStoreResponse ar) [0x00000] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:751 
+  at UnityEditor.AssetStoreClient+<WrapJsonCallback>c__AnonStorey60.<>m__B6 (UnityEditor.AsyncHTTPClient job) [0x00012] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:624 
+10/29/2016 01:02:59	Uncaught exception in async net callback: Object reference not set to an instance of an object
+10/29/2016 01:02:59	  at UnityEngine.GUISkin.GetStyle (System.String styleName) [0x00010] in /Users/builduser/buildslave/unity/build/Runtime/IMGUI/Managed/GUISkin.cs:319 
+  at UnityEngine.GUIStyle.op_Implicit (System.String str) [0x00020] in /Users/builduser/buildslave/unity/build/Runtime/IMGUI/Managed/GUIStyle.cs:586 
+  at UnityEditor.ProjectBrowser.InitSearchMenu () [0x00014] in /Users/builduser/buildslave/unity/build/Editor/Mono/ProjectBrowser.cs:483 
+  at UnityEditor.ProjectBrowser.AssetStoreSearchEndedCallback () [0x00000] in /Users/builduser/buildslave/unity/build/Editor/Mono/ProjectBrowser.cs:511 
+  at UnityEditor.ObjectListArea+<QueryAssetStore>c__AnonStorey40.<>m__60 (UnityEditor.AssetStoreSearchResults results) [0x00356] in /Users/builduser/buildslave/unity/build/Editor/Mono/ObjectListArea.cs:406 
+  at UnityEditor.AssetStoreResultBase`1[Derived].Parse (UnityEditor.AssetStoreResponse response) [0x000fc] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:89 
+  at UnityEditor.AssetStoreClient+<SearchAssets>c__AnonStorey61.<>m__B8 (UnityEditor.AssetStoreResponse ar) [0x00000] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:751 
+  at UnityEditor.AssetStoreClient+<WrapJsonCallback>c__AnonStorey60.<>m__B6 (UnityEditor.AsyncHTTPClient job) [0x00012] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:624 
+10/29/2016 01:02:59	Uncaught exception in async net callback: Object reference not set to an instance of an object
+10/29/2016 01:02:59	  at UnityEngine.GUISkin.GetStyle (System.String styleName) [0x00010] in /Users/builduser/buildslave/unity/build/Runtime/IMGUI/Managed/GUISkin.cs:319 
+  at UnityEngine.GUIStyle.op_Implicit (System.String str) [0x00020] in /Users/builduser/buildslave/unity/build/Runtime/IMGUI/Managed/GUIStyle.cs:586 
+  at UnityEditor.ProjectBrowser.InitSearchMenu () [0x00014] in /Users/builduser/buildslave/unity/build/Editor/Mono/ProjectBrowser.cs:483 
+  at UnityEditor.ProjectBrowser.AssetStoreSearchEndedCallback () [0x00000] in /Users/builduser/buildslave/unity/build/Editor/Mono/ProjectBrowser.cs:511 
+  at UnityEditor.ObjectListArea+<QueryAssetStore>c__AnonStorey40.<>m__60 (UnityEditor.AssetStoreSearchResults results) [0x00356] in /Users/builduser/buildslave/unity/build/Editor/Mono/ObjectListArea.cs:406 
+  at UnityEditor.AssetStoreResultBase`1[Derived].Parse (UnityEditor.AssetStoreResponse response) [0x000fc] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:89 
+  at UnityEditor.AssetStoreClient+<SearchAssets>c__AnonStorey61.<>m__B8 (UnityEditor.AssetStoreResponse ar) [0x00000] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:751 
+  at UnityEditor.AssetStoreClient+<WrapJsonCallback>c__AnonStorey60.<>m__B6 (UnityEditor.AsyncHTTPClient job) [0x00012] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:624 
+10/29/2016 01:03:05	Uncaught exception in async net callback: Object reference not set to an instance of an object
+10/29/2016 01:03:05	  at UnityEngine.GUISkin.GetStyle (System.String styleName) [0x00010] in /Users/builduser/buildslave/unity/build/Runtime/IMGUI/Managed/GUISkin.cs:319 
+  at UnityEngine.GUIStyle.op_Implicit (System.String str) [0x00020] in /Users/builduser/buildslave/unity/build/Runtime/IMGUI/Managed/GUIStyle.cs:586 
+  at UnityEditor.ProjectBrowser.InitSearchMenu () [0x00014] in /Users/builduser/buildslave/unity/build/Editor/Mono/ProjectBrowser.cs:483 
+  at UnityEditor.ProjectBrowser.AssetStoreSearchEndedCallback () [0x00000] in /Users/builduser/buildslave/unity/build/Editor/Mono/ProjectBrowser.cs:511 
+  at UnityEditor.ObjectListArea+<QueryAssetStore>c__AnonStorey40.<>m__60 (UnityEditor.AssetStoreSearchResults results) [0x00356] in /Users/builduser/buildslave/unity/build/Editor/Mono/ObjectListArea.cs:406 
+  at UnityEditor.AssetStoreResultBase`1[Derived].Parse (UnityEditor.AssetStoreResponse response) [0x000fc] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:89 
+  at UnityEditor.AssetStoreClient+<SearchAssets>c__AnonStorey61.<>m__B8 (UnityEditor.AssetStoreResponse ar) [0x00000] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:751 
+  at UnityEditor.AssetStoreClient+<WrapJsonCallback>c__AnonStorey60.<>m__B6 (UnityEditor.AsyncHTTPClient job) [0x00012] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:624 
+10/29/2016 01:03:06	Uncaught exception in async net callback: Object reference not set to an instance of an object
+10/29/2016 01:03:06	  at UnityEngine.GUISkin.GetStyle (System.String styleName) [0x00010] in /Users/builduser/buildslave/unity/build/Runtime/IMGUI/Managed/GUISkin.cs:319 
+  at UnityEngine.GUIStyle.op_Implicit (System.String str) [0x00020] in /Users/builduser/buildslave/unity/build/Runtime/IMGUI/Managed/GUIStyle.cs:586 
+  at UnityEditor.ProjectBrowser.InitSearchMenu () [0x00014] in /Users/builduser/buildslave/unity/build/Editor/Mono/ProjectBrowser.cs:483 
+  at UnityEditor.ProjectBrowser.AssetStoreSearchEndedCallback () [0x00000] in /Users/builduser/buildslave/unity/build/Editor/Mono/ProjectBrowser.cs:511 
+  at UnityEditor.ObjectListArea+<QueryAssetStore>c__AnonStorey40.<>m__60 (UnityEditor.AssetStoreSearchResults results) [0x00356] in /Users/builduser/buildslave/unity/build/Editor/Mono/ObjectListArea.cs:406 
+  at UnityEditor.AssetStoreResultBase`1[Derived].Parse (UnityEditor.AssetStoreResponse response) [0x000fc] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:89 
+  at UnityEditor.AssetStoreClient+<SearchAssets>c__AnonStorey61.<>m__B8 (UnityEditor.AssetStoreResponse ar) [0x00000] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:751 
+  at UnityEditor.AssetStoreClient+<WrapJsonCallback>c__AnonStorey60.<>m__B6 (UnityEditor.AsyncHTTPClient job) [0x00012] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:624 
+10/29/2016 01:03:10	Uncaught exception in async net callback: Object reference not set to an instance of an object
+10/29/2016 01:03:10	  at UnityEngine.GUISkin.GetStyle (System.String styleName) [0x00010] in /Users/builduser/buildslave/unity/build/Runtime/IMGUI/Managed/GUISkin.cs:319 
+  at UnityEngine.GUIStyle.op_Implicit (System.String str) [0x00020] in /Users/builduser/buildslave/unity/build/Runtime/IMGUI/Managed/GUIStyle.cs:586 
+  at UnityEditor.ProjectBrowser.InitSearchMenu () [0x00014] in /Users/builduser/buildslave/unity/build/Editor/Mono/ProjectBrowser.cs:483 
+  at UnityEditor.ProjectBrowser.AssetStoreSearchEndedCallback () [0x00000] in /Users/builduser/buildslave/unity/build/Editor/Mono/ProjectBrowser.cs:511 
+  at UnityEditor.ObjectListArea+<QueryAssetStore>c__AnonStorey40.<>m__60 (UnityEditor.AssetStoreSearchResults results) [0x00356] in /Users/builduser/buildslave/unity/build/Editor/Mono/ObjectListArea.cs:406 
+  at UnityEditor.AssetStoreResultBase`1[Derived].Parse (UnityEditor.AssetStoreResponse response) [0x000fc] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:89 
+  at UnityEditor.AssetStoreClient+<SearchAssets>c__AnonStorey61.<>m__B8 (UnityEditor.AssetStoreResponse ar) [0x00000] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:751 
+  at UnityEditor.AssetStoreClient+<WrapJsonCallback>c__AnonStorey60.<>m__B6 (UnityEditor.AsyncHTTPClient job) [0x00012] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:624 
+10/29/2016 01:03:12	Uncaught exception in async net callback: Object reference not set to an instance of an object
+10/29/2016 01:03:12	  at UnityEngine.GUISkin.GetStyle (System.String styleName) [0x00010] in /Users/builduser/buildslave/unity/build/Runtime/IMGUI/Managed/GUISkin.cs:319 
+  at UnityEngine.GUIStyle.op_Implicit (System.String str) [0x00020] in /Users/builduser/buildslave/unity/build/Runtime/IMGUI/Managed/GUIStyle.cs:586 
+  at UnityEditor.ProjectBrowser.InitSearchMenu () [0x00014] in /Users/builduser/buildslave/unity/build/Editor/Mono/ProjectBrowser.cs:483 
+  at UnityEditor.ProjectBrowser.AssetStoreSearchEndedCallback () [0x00000] in /Users/builduser/buildslave/unity/build/Editor/Mono/ProjectBrowser.cs:511 
+  at UnityEditor.ObjectListArea+<QueryAssetStore>c__AnonStorey40.<>m__60 (UnityEditor.AssetStoreSearchResults results) [0x00356] in /Users/builduser/buildslave/unity/build/Editor/Mono/ObjectListArea.cs:406 
+  at UnityEditor.AssetStoreResultBase`1[Derived].Parse (UnityEditor.AssetStoreResponse response) [0x000fc] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:89 
+  at UnityEditor.AssetStoreClient+<SearchAssets>c__AnonStorey61.<>m__B8 (UnityEditor.AssetStoreResponse ar) [0x00000] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:751 
+  at UnityEditor.AssetStoreClient+<WrapJsonCallback>c__AnonStorey60.<>m__B6 (UnityEditor.AsyncHTTPClient job) [0x00012] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:624 

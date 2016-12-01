@@ -1,0 +1,20 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local AsyncOperation = UnityEngine.AsyncOperation",
+		"AsyncOperation = UnityEngine.AsyncOperation",
+		"UnityEngine.AsyncOperation.__tostring()",
+		"UnityEngine.AsyncOperation.isDone",
+		"asyncOperation.isDone",
+		"UnityEngine.AsyncOperation.progress",
+		"asyncOperation.progress",
+		"UnityEngine.AsyncOperation.priority",
+		"asyncOperation.priority",
+		"UnityEngine.AsyncOperation.allowSceneActivation",
+		"asyncOperation.allowSceneActivation",
+		{ "trigger": "UnityEngine.AsyncOperation.New()","contents": "UnityEngine.AsyncOperation.New()"},
+		{ "trigger": "AsyncOperation.New()","contents": "AsyncOperation.New()"},
+	]
+}
+

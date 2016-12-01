@@ -1,0 +1,68 @@
+10/29/2016 01:01:59	Instance Name: QMsgCenter
+10/29/2016 01:01:59	DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+10/29/2016 01:01:59	Add New Singleton QMsgCenter in Game!
+10/29/2016 01:01:59	QMsgCenter Init
+10/29/2016 01:01:59	Multiple EventSystems in scene... this is not supported
+10/29/2016 01:01:59	Already exist: QUGUIMgr(Clone)
+10/29/2016 01:02:00	1:2:0.71-3: Register lua type cost time: 0.223574
+10/29/2016 01:02:00	1:2:0.79-3: LuaState start
+10/29/2016 01:02:00	从这里开始游戏吗?
+10/29/2016 01:02:00	LuaFramework太好用了
+10/29/2016 01:02:00	1:2:0.111-3: [Common/functions.lua:396]:true    class() - create class "HomeLayer" with invalid super class type "table"
+10/29/2016 01:02:00	1:2:0.113-3: [Common/functions.lua:396]:true    class() - create class "CCSprite" with invalid super class type "table"
+10/29/2016 01:02:00	1:2:0.114-3: [Common/functions.lua:396]:true    class() - create class "CCToggle" with invalid super class type "table"
+10/29/2016 01:02:00	1:2:0.116-3: [Common/functions.lua:396]:true    class() - create class "CCButton" with invalid super class type "table"
+10/29/2016 01:02:00	1:2:0.118-3: [Common/functions.lua:396]:true    class() - create class "SuperHero" with invalid super class type "table"
+10/29/2016 01:02:00	1:2:0.120-3: [Common/functions.lua:396]:true    class() - create class "BlueHero" with invalid super class type "table"
+10/29/2016 01:02:00	1:2:0.121-3: [Common/functions.lua:396]:true    class() - create class "RedHero" with invalid super class type "table"
+10/29/2016 01:02:00	1:2:0.123-3: [Common/functions.lua:396]:true    class() - create class "GreenHero" with invalid super class type "table"
+10/29/2016 01:02:00	1:2:0.124-3: [Common/functions.lua:396]:true    class() - create class "YellowHero" with invalid super class type "table"
+10/29/2016 01:02:00	1:2:0.126-3: [Common/functions.lua:396]:true    class() - create class "MapLayer" with invalid super class type "table"
+10/29/2016 01:02:00	1:2:0.128-3: [Common/functions.lua:396]:true    class() - create class "MapPage" with invalid super class type "table"
+10/29/2016 01:02:00	1:2:0.129-3: [Common/functions.lua:396]:true    class() - create class "MapButton" with invalid super class type "table"
+10/29/2016 01:02:00	1:2:0.131-3: [Common/functions.lua:396]:true    class() - create class "GameLayer" with invalid super class type "table"
+10/29/2016 01:02:00	1:2:0.133-3: [Common/functions.lua:396]:true    class() - create class "GameLayer" with invalid super class type "table"
+10/29/2016 01:02:00	初始化GrayRunCtrl
+10/29/2016 01:02:00	***********hasResUpdated:False
+10/29/2016 01:02:00	DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+10/29/2016 01:02:00	进入游戏
+10/29/2016 01:02:00	[QABManager] Loading grayrun/prefab bundle
+10/29/2016 01:02:00	GameLayer init
+10/29/2016 01:02:00	GameLayer Enter
+10/29/2016 01:02:00	640:1136
+10/29/2016 01:02:00	EdgeInfo name:books2 x:596 y:226
+10/29/2016 01:02:00	EdgeInfo name:books2 x:44 y:380
+10/29/2016 01:02:00	EdgeInfo name:books2 x:608 y:586
+10/29/2016 01:02:00	EdgeInfo name:books2 x:46 y:762
+10/29/2016 01:02:00	EdgeInfo name:books1 x:594 y:852
+10/29/2016 01:02:00	EdgeInfo name:jm4 x:472 y:81
+10/29/2016 01:02:00	EdgeInfo name:jm4 x:174 y:235
+10/29/2016 01:02:00	EdgeInfo name:jm4 x:526 y:442
+10/29/2016 01:02:00	EdgeInfo name:jm4 x:172 y:617
+10/29/2016 01:02:00	EdgeInfo name:jm4 x:524 y:771
+10/29/2016 01:02:00	EdgeInfo name:cupRed x:156 y:0
+10/29/2016 01:02:00	1:2:0.253-3: [GrayRUn/Game/EdgeSprite.lua:12]:EdgeSprite ctor gameObject.name:EdgeSprite
+10/29/2016 01:02:00	1:2:0.256-3: Type System.Collections.Generic.List<EdgeInfo> not wrap to lua, push as System.Collections.Generic.List<T>, the warning is only raised once
+10/29/2016 01:02:00	1:2:0.259-3: [GrayRUn/Game/EdgeSprite.lua:19]:books2
+10/29/2016 01:02:00	1:2:0.260-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/books2.png
+10/29/2016 01:02:00	1:2:0.262-3: [GrayRUn/Game/EdgeSprite.lua:19]:books2
+10/29/2016 01:02:00	1:2:0.263-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/books2.png
+10/29/2016 01:02:00	1:2:0.265-3: [GrayRUn/Game/EdgeSprite.lua:19]:books2
+10/29/2016 01:02:00	1:2:0.266-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/books2.png
+10/29/2016 01:02:00	1:2:0.268-3: [GrayRUn/Game/EdgeSprite.lua:19]:books2
+10/29/2016 01:02:00	1:2:0.269-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/books2.png
+10/29/2016 01:02:00	1:2:0.270-3: [GrayRUn/Game/EdgeSprite.lua:19]:books1
+10/29/2016 01:02:00	1:2:0.272-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/books1.png
+10/29/2016 01:02:00	1:2:0.273-3: [GrayRUn/Game/EdgeSprite.lua:19]:jm4
+10/29/2016 01:02:00	1:2:0.275-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/jm4.png
+10/29/2016 01:02:00	1:2:0.276-3: [GrayRUn/Game/EdgeSprite.lua:19]:jm4
+10/29/2016 01:02:00	1:2:0.278-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/jm4.png
+10/29/2016 01:02:00	1:2:0.279-3: [GrayRUn/Game/EdgeSprite.lua:19]:jm4
+10/29/2016 01:02:00	1:2:0.281-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/jm4.png
+10/29/2016 01:02:00	1:2:0.282-3: [GrayRUn/Game/EdgeSprite.lua:19]:jm4
+10/29/2016 01:02:00	1:2:0.284-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/jm4.png
+10/29/2016 01:02:00	1:2:0.285-3: [GrayRUn/Game/EdgeSprite.lua:19]:jm4
+10/29/2016 01:02:00	1:2:0.286-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/jm4.png
+10/29/2016 01:02:00	1:2:0.288-3: [GrayRUn/Game/EdgeSprite.lua:19]:cupRed
+10/29/2016 01:02:00	1:2:0.289-3: [GrayRUn/Game/EdgeSprite.lua:20]:GrayRun/Sprite/game/edge/cupRed.png
+10/29/2016 01:02:00	edgeSprite

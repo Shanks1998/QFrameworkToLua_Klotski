@@ -1,0 +1,11 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"UnityEngine.EventSystems.BaseEventData.__tostring()",
+		"UnityEngine.EventSystems.BaseEventData.currentInputModule",
+		"UnityEngine.EventSystems.BaseEventData.selectedObject",
+		{ "trigger": "UnityEngine.EventSystems.BaseEventData.New()","contents": "UnityEngine.EventSystems.BaseEventData.New()"},
+	]
+}
+

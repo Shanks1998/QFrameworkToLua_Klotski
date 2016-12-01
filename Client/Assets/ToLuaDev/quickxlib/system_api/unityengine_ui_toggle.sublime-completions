@@ -1,0 +1,26 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"UnityEngine.UI.Toggle.__eq()",
+		"UnityEngine.UI.Toggle.__tostring()",
+		"UnityEngine.UI.Toggle.toggleTransition",
+		"UnityEngine.UI.Toggle.graphic",
+		"UnityEngine.UI.Toggle.onValueChanged",
+		"UnityEngine.UI.Toggle.group",
+		"UnityEngine.UI.Toggle.isOn",
+		"UnityEngine.UI.Toggle.Rebuild",
+		{ "trigger": "UnityEngine.UI.Toggle.Rebuild(UnityEngine.UI.CanvasUpdate:executing)","contents": "UnityEngine.UI.Toggle.Rebuild(${1:UnityEngine.UI.CanvasUpdate:executing})"},
+		"UnityEngine.UI.Toggle.LayoutComplete",
+		{ "trigger": "UnityEngine.UI.Toggle.LayoutComplete()","contents": "UnityEngine.UI.Toggle.LayoutComplete()"},
+		"UnityEngine.UI.Toggle.GraphicUpdateComplete",
+		{ "trigger": "UnityEngine.UI.Toggle.GraphicUpdateComplete()","contents": "UnityEngine.UI.Toggle.GraphicUpdateComplete()"},
+		"UnityEngine.UI.Toggle.OnPointerClick",
+		{ "trigger": "UnityEngine.UI.Toggle.OnPointerClick(UnityEngine.EventSystems.PointerEventData:eventData)","contents": "UnityEngine.UI.Toggle.OnPointerClick(${1:UnityEngine.EventSystems.PointerEventData:eventData})"},
+		"UnityEngine.UI.Toggle.OnSubmit",
+		{ "trigger": "UnityEngine.UI.Toggle.OnSubmit(UnityEngine.EventSystems.BaseEventData:eventData)","contents": "UnityEngine.UI.Toggle.OnSubmit(${1:UnityEngine.EventSystems.BaseEventData:eventData})"},
+		"UnityEngine.UI.Toggle.op_Equality",
+		{ "trigger": "UnityEngine.UI.Toggle.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "UnityEngine.UI.Toggle.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+	]
+}
+

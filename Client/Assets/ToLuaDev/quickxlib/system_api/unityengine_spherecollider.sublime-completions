@@ -1,0 +1,20 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local SphereCollider = UnityEngine.SphereCollider",
+		"SphereCollider = UnityEngine.SphereCollider",
+		"UnityEngine.SphereCollider.__eq()",
+		"UnityEngine.SphereCollider.__tostring()",
+		"UnityEngine.SphereCollider.center",
+		"sphereCollider.center",
+		"UnityEngine.SphereCollider.radius",
+		"sphereCollider.radius",
+		{ "trigger": "UnityEngine.SphereCollider.New()","contents": "UnityEngine.SphereCollider.New()"},
+		{ "trigger": "SphereCollider.New()","contents": "SphereCollider.New()"},
+		"UnityEngine.SphereCollider.op_Equality",
+		{ "trigger": "UnityEngine.SphereCollider.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "UnityEngine.SphereCollider.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+		{ "trigger": "SphereCollider.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "SphereCollider.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+	]
+}
+

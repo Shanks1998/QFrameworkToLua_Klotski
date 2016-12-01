@@ -1,0 +1,13 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"XMLConfigLoader.__tostring()",
+		{ "trigger": "XMLConfigLoader.New()","contents": "XMLConfigLoader.New()"},
+		{ "trigger": "XMLConfigLoader.New()","contents": "XMLConfigLoader.New()"},
+		"XMLConfigLoader.LoadStage",
+		{ "trigger": "XMLConfigLoader.LoadStage(System.Int32:curStage)","contents": "XMLConfigLoader.LoadStage(${1:System.Int32:curStage})"},
+		{ "trigger": "XMLConfigLoader.LoadStage(System.Int32:curStage)","contents": "XMLConfigLoader.LoadStage(${1:System.Int32:curStage})"},
+	]
+}
+

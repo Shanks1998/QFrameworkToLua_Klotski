@@ -1,0 +1,2231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stages>
+    <stage name="1">
+        <edge name="books2" x = "596" y = "226"/>
+        <edge name="books2" x = "44" y = "380"/>
+        <edge name="books2" x = "608" y = "586"/>
+        <edge name="books2" x = "46" y = "762"/>
+        <edge name="books1" x = "594" y = "852"/>
+        <edge name="jm4" x = "472" y = "81"/>
+        <edge name="jm4" x = "174" y = "235"/> 
+        <edge name="jm4" x = "526" y = "442"/>
+        <edge name="jm4" x = "172" y = "617"/>
+        <edge name="jm4" x = "524" y = "771"/>
+        <edge name="cupRed" x = "156" y = "0"/>
+        
+    </stage>
+    <stage name="2">
+    	<edge name = "books2" x = "602" y = "736" />
+    	<edge name = "books2" x = "619" y = "246" />
+    	<edge name = "books1" x = "11" y = "845" />
+    	
+    	<edge name = "jm4" x = "161" y = "765" />
+    	<edge name = "jm5" x = "496" y = "592" />
+    	<edge name = "jm5" x = "217" y = "438"/>
+    	
+    	<edge name = "jm6" x = "371" y = "284" />
+    	<edge name = "jm4" x = "560" y = "103" />
+    	
+    	<edge name = "boxG" x = "148" y = "566" />
+    	
+        
+        <edge name = "cupRed" x = "156" y = "961"/>
+        <edge name = "cupRed" x = "261" y = "0" />
+    </stage>
+    <stage name = "3">
+    	<edge name = "books2" x = "37" y = "698" />
+    	<edge name = "books2" x = "597" y = "273" />
+    	<edge name = "boxG" x = "620" y = "684" />
+    	<edge name = "boxG" x = "44" y = "255" />
+    	
+    	<edge name = "jm6" x = "324" y = "736" />
+    	<edge name = "jm4" x = "66" y = "556" />
+    	<edge name = "jm5" x = "539" y = "556" />
+    	<edge name = "jm6" x = "327" y = "340" />
+    	<edge name = "jm5" x = "113" y = "128" />
+    	<edge name = "jm4" x = "590" y = "128" />
+        
+    	<edge name = "cupRed" x = "258" y = "961" />
+    	<edge name = "cupRed" x = "326" y = "0" />
+    </stage>
+    <stage name = "4">
+        <edge name = "trianglex" x = "60" y = "285" />
+        
+    	<edge name = "cupRed" x = "326" y = "964" />
+    	<edge name = "cupRed" x = "207" y = "0" />
+        
+    	<edge name = "books2" x = "28" y = "755" />
+        <edge name = "books1" x = "564" y = "135" />
+        
+    	
+        <edge name = "boxA" x = "526" y = "474" />
+        
+    	<edge name = "jm6" x = "99" y = "614" />
+    	<edge name = "jm3" x = "446" y = "390" />
+    	<edge name = "jm4" x = "190" y = "206" />
+    	<edge name = "jm5" x = "470" y = "54" />
+    </stage>
+    <stage name = "5">
+    	<edge name = "cupRed" x = "208" y = "960" />
+    	<edge name = "cupRed" x = "242" y = "0" />
+        
+    	<edge name = "jm7" x = "239" y = "715" />
+    	<edge name = "jm7" x = "483" y = "715" />
+    	<edge name = "jm7" x = "53" y = "546" />
+    	<edge name = "jm7" x = "81" y = "361" />
+    	<edge name = "jm4" x = "475" y = "357" />
+        
+    	<edge name = "books2" x = "37" y = "690" />
+    	<edge name = "books1" x = "17" y = "441" />
+        
+    	<edge name = "triangle" x = "535" y = "437" />
+        
+    	
+    </stage>
+    <stage name = "6">
+    	<edge name = "cupRed" x = "242" y = "959" />
+    	<edge name = "cupRed" x = "258" y = "0" />
+        
+    	<edge name = "books1" x = "592" y = "826" />
+        
+        <edge name = "boxA" x = "622" y = "624" />
+        <edge name = "boxA" x = "-4" y = "426" />
+        <edge name = "boxA" x = "565" y = "192" />
+        
+    	<edge name = "jm4" x = "459" y = "746" />
+    	<edge name = "jm4" x = "459" y = "537" />
+    	<edge name = "jm5" x = "130" y = "340" />
+    	<edge name = "jm7" x = "70" y = "134" />
+    	<edge name = "jm4" x = "550" y = "105" />
+    	
+        <edge name = "trianglex" x = "49" y = "213" />
+    	
+    	
+    </stage>
+    
+    <stage name = "7">
+    	<edge name = "cupRed" x = "258" y = "960" />
+    	<edge name ="cupRed" x = "380" y = "0" />
+        
+    	<edge name = "books2" x = "22" y = "748" />
+    	<edge name = "books2" x = "38" y = "469" />
+        
+        <edge name = "triangle" x = "581" y = "480" />
+    	
+    	
+    	<edge name = "jm5" x = "342" y = "770" />
+    	<edge name = "jm5" x = "84" y = "604" />
+    	<edge name = "jm6" x = "541" y = "399" />
+    	<edge name = "jm5" x = "102" y = "325" />
+    	<edge name = "jm4" x = "132" y = "92" />
+        
+    	<edge name = "boxA" x = "5" y = "178" />
+    	
+    </stage>                                           
+    
+    <stage name = "8">
+    	<edge name = "cupRed" x = "380" y = "960" />
+    	<edge name = "cupRed" x = "220" y = "0" />
+        
+        
+    	<edge name = "jm4" x = "452" y = "762" />
+    	<edge name = "jm4" x = "452" y = "522" />
+    	<edge name = "jm4" x = "90" y = "342" />
+    	<edge name = "jm4" x = "520" y = "96" />
+        
+    	<edge name = "boxA" x = "580" y = "849" />
+    	<edge name = "boxA" x = "580" y = "608" />
+    	<edge name = "boxA" x = "562" y = "432" />
+    	<edge name = "boxA" x = "562" y = "306" />
+    	<edge name = "boxA" x = "562" y = "181" />
+    	<edge name = "boxA" x = "-45" y = "429" />
+        
+    	
+    </stage>                                       
+    
+    <stage name = "9">
+    	<edge name = "cupRed" x = "220" y = "960" />
+    	<edge name = "cupRed" x = "420" y = "0" />
+        
+    	<edge name = "boxA" x = "-30" y = "827" />
+    	<edge name = "boxA" x = "-30" y = "703" />
+        
+    	
+    	<edge name = "books1" x = "586" y = "675" />
+    	<edge name = "books1" x = "586" y = "561" />
+    	<edge name = "books1" x = "586" y = "447" />
+    	<edge name = "books1" x = "586" y = "295" />
+    	<edge name = "books1" x = "21" y = "294" />
+        
+    	<edge name = "jm4" x = "102" y = "618" />
+    	<edge name = "jm4" x = "461" y = "369" />
+    	<edge name = "jm5" x = "6" y = "213" />
+    	<edge name = "jm4" x = "479" y = "214" />
+    	<edge name = "jm5" x = "147" y = "58" />
+    	
+        
+    	<edge name = "trianglex" x = "57" y = "137" />
+    	
+    </stage>  
+    <stage name = "10">
+    	<edge name = "cupRed" x = "418" y = "960" />
+    	<edge name = "cupRed" x = "324" y = "0" />
+        
+    	<edge name = "bee" x = "38" y = "755" />
+    	<edge name = "bee" x = "43" y = "325" />
+        <edge name = "bee" x = "597" y = "325" />
+        
+    	<edge name = "triangle" x = "560" y = "842" />
+        
+    	<edge name = "jm5" x = "466" y = "762" />
+    	<edge name = "jm4" x = "118" y = "491" />
+        
+    	<edge name = "jm7" x = "36" y = "643" />
+    	<edge name = "jm7" x = "571" y = "461" />
+    	<edge name = "jm7" x = "396" y = "341" />
+    	<edge name = "jm7" x = "51" y = "214" />
+    	<edge name = "jm7" x = "306" y = "214" />
+    	<edge name = "jm7" x = "567" y = "214" />
+    	<edge name = "jm7" x = "182" y = "110" />
+    	<edge name = "jm7" x = "560" y = "110" />
+        
+    	<edge name = "books1" x= "620" y = "542" />
+        <edge name = "books1" x= "22" y = "572" />
+        
+    	
+    </stage>
+    <stage name = "11">
+    	<edge name = "cupRed" x = "324" y = "960" />
+    	<edge name = "cupRed" x = "328" y = "0" />
+        
+    	<edge name = "books1" x = "45" y = "769" />
+    	<edge name = "books2" x = "51" y = "358" />
+    	<edge name = "books2" x = "592" y = "201" />
+        
+    	<edge name = "boxA" x = "663" y = "533" />
+        
+    	<edge name = "jm4" x = "112" y = "688" />
+    	<edge name = "jm4" x = "574" y = "448" />
+    	<edge name = "jm3" x = "162" y = "215" />
+    	<edge name = "jm6" x = "548" y = "57" />
+    
+    </stage>
+    <stage name = "12">
+    	<edge name = "cupRed" x = "328" y = "960" />
+    	<edge name = "cupRed" x = "328" y = "0" />
+        
+    	<edge name = "books2" x = "600" y = "658" />
+    	<edge name = "boxG" x = "68" y = "457" />
+        
+    	<edge name = "jm3" x = "546" y = "515" />
+    	<edge name = "jm3" x = "187" y = "330" />
+    	<edge name = "jm5" x = "580" y = "80" />
+        
+        
+    	
+    </stage>
+    <stage name = "13">
+    	<edge name = "cupRed" x = "328" y = "960" />
+    	<edge name = "cupRed" x = "328" y = "0" />
+        
+    	<edge name = "books2" x = "50" y = "766" />
+    	<edge name = "books2" x = "5" y = "292" />
+    	<edge name = "books2" x = "602" y = "229" />
+        
+    	<edge name = "triangle" x = "584" y = "527" />
+        
+        
+    	<edge name = "jm4" x = "46" y = "622" />
+    	<edge name = "jm6" x = "543" y = "448" />
+    	<edge name = "jm4" x = "46" y = "148" />
+        <edge name = "jm6" x = "543" y = "85" />
+    </stage>
+    
+    <stage name = "14">
+    	<edge name = "cupRed" x = "328" y = "960" />
+    	<edge name = "cupRed" x = "336" y = "0" />
+        
+    	<edge name = "boxGx" x = "50" y = "820" />
+    	<edge name = "trianglex" x = "54" y = "391" />
+    	<edge name = "triangle" x = "580" y = "391" />
+        
+        
+    	<edge name = "jm5" x = "137" y = "723" />
+    	<edge name = "jm5" x = "92" y = "311" />
+    	<edge name = "jm6" x = "537" y = "312" />
+    	
+    </stage>
+    <stage name = "15">
+    	<edge name = "cupRed" x = "336" y = "960" />
+    	<edge name = "cupRed" x = "189" y = "0" />
+        
+    	<edge name = "books1" x = "581" y = "528" />
+    	<edge name = "books1" x = "46" y = "234" />
+        
+    	<edge name = "boxG" x = "68" y = "437" />
+    	<edge name = "boxGx" x = "30" y = "820" />
+        
+    	<edge name = "jm5" x = "130" y = "723" />
+    	<edge name = "jm4" x = "436" y = "448" />
+    	<edge name = "jm5" x = "143" y = "309" />
+    	<edge name = "jm5" x = "140" y = "152" />
+    	
+    </stage>
+    <stage name = "16">
+    	<edge name = "cupRed" x = "189" y = "960" />
+    	<edge name = "cupRed" x = "394" y = "0" />
+    	
+    	<edge name = "bee" x = "46" y = "835" />
+    	<edge name = "bee" x = "593" y = "662" />
+        
+    	<edge name = "boxG" x = "5" y = "593" />
+    	<edge name = "boxG" x = "618" y = "472" />
+
+        <edge name = "books2" x = "13" y = "291" />
+
+    	<edge name = "jm5" x = "130" y = "724" />
+    	<edge name = "jm6" x = "57" y = "466" />
+    	<edge name = "jm5" x = "519" y = "345" />
+        <edge name = "jm4" x = "107" y = "148" />
+        
+    	
+    </stage>
+    <stage name = "17">
+    	<edge name = "cupRed" x = "394" y = "960" />
+    	<edge name = "cupRed" x = "180" y = "0" />
+    	
+    	<edge name = "triangle" x = "597" y = "640" />
+    	
+        
+    	<edge name = "boxG" x = "590" y = "436" />
+    	<edge name = "jm4" x = "455" y = "559" />
+        <edge name = "jm4" x = "455" y = "309" />
+    	
+    </stage>
+    <stage name = "18">
+    	<edge name = "cupRed" x = "180" y = "960" />
+    	<edge name = "cupRed" x = "336" y = "0" />
+    	
+        
+    	<edge name = "books1" x = "600" y = "800" />
+    	<edge name = "books1" x = "38" y = "800" />
+    	<edge name = "books1" x = "38" y = "555" />
+        
+    	<edge name = "boxG" x = "613" y = "601" />
+    	<edge name = "boxG" x = "34" y = "231" />
+    	<edge name = "boxG" x = "648" y = "231" />
+        
+        
+    	<edge name = "jm6" x = "68" y = "720" />
+    	<edge name = "jm5" x = "520" y = "720" />
+    	<edge name = "jm6" x = "68" y = "474" />
+    	<edge name = "jm5" x = "520" y = "474" />
+    	<edge name = "jm5" x = "95" y = "103" />
+    	<edge name = "jm5" x = "564" y = "103" />
+    	
+    </stage>
+    <stage name = "19">
+    	<edge name = "cupRed" x = "336" y = "960" />
+    	<edge name = "cupRed" x = "197" y = "0" />
+    	
+    	<edge name = "boxA" x = "82" y = "804" />
+        
+    	<edge name = "books1" x = "593" y = "555" />
+    	<edge name = "books1" x = "39" y = "555" />
+    	<edge name = "books1" x = "593" y = "390" />
+    	<edge name = "books2" x = "31" y = "325" />
+        
+        <edge name = "triangle" x = "551" y = "132" />
+        
+        
+    	<edge name = "jm5" x = "122" y = "718" />
+    	<edge name = "jm5" x = "122" y = "474" />
+    	<edge name = "jm7" x = "558" y = "474" />
+    	<edge name = "jm4" x = "462" y = "309" />
+        <edge name = "jm4" x = "88" y = "181" />
+    	<edge name = "jm5" x = "462" y = "51" />
+    	
+    </stage>
+    <stage name = "20">
+    	<edge name = "cupRed" x = "197" y = "960" />
+    	<edge name = "cupRed" x = "322" y = "0" />
+    	
+    	<edge name = "bee" x = "53" y = "828" />
+    	<edge name = "boxG" x = "4" y = "575" />
+        
+    	<edge name = "books2" x = "590" y = "592" />
+        
+    	<edge name = "jm5" x = "174" y = "718" />
+    	<edge name = "jm5" x = "90" y = "448" />
+    	<edge name = "jm5" x = "524" y = "448" />
+    	
+    </stage>
+    <stage name = "21">
+    	<edge name = "cupRed" x = "322" y = "960" />
+    	<edge name = "cupBlue" x = "380" y = "0" />
+    	
+    	<edge name = "drawer1" x = "50" y = "758" />
+    	<edge name = "drawer1" x = "623" y = "623" />
+    	<edge name = "drawer3" x = "43" y = "500" />
+    	<edge name = "drawer3" x = "588" y = "368" />
+    	<edge name = "drawer2" x = "47" y = "266" />
+        
+        
+    	<edge name = "jm4" x = "183" y = "635" />
+    	<edge name = "jm4" x = "183" y = "380" />
+    	<edge name = "jm5" x = "490" y = "500" />
+    	<edge name = "jm5" x = "523" y = "248" />
+    	<edge name = "jm5" x = "130" y = "142" />
+    	
+    </stage>
+    <stage name = "22">
+    	<edge name = "cupBlue" x = "380" y = "960" />
+    	<edge name = "cupBlue" x = "481" y = "0" />
+    	
+    	<edge name = "box1" x = "40" y = "839" />
+    	<edge name = "box1" x = "40" y = "750" />
+    	<edge name = "box2" x = "32" y = "565" />
+    	<edge name = "box4" x = "31" y = "476" />
+    	<edge name = "box2" x = "603" y = "433" />
+    	<edge name = "box4" x = "603" y = "345" />
+    	<edge name = "box2" x = "33" y = "298" />
+    	<edge name = "box4" x = "33" y = "210" />
+    	<edge name = "box1" x = "33" y = "120" />
+    	
+        <edge name = "jm4" x = "137" y = "681" />
+    	<edge name = "jm4" x = "137" y = "407" />
+    	<edge name = "jm5" x = "494" y = "276" />
+    	<edge name = "jm4" x = "161" y = "53" />
+        
+
+    	
+    </stage>
+    <stage name = "23">
+    	<edge name = "cupBlue" x = "481" y = "960" />
+    	<edge name = "cupBlue" x = "226" y = "0" />
+    	
+    	<edge name = "box4" x = "632" y = "864" />
+    	<edge name = "box1" x = "634" y = "776" />
+    	<edge name = "box2" x = "46" y = "600" />
+    	<edge name = "box4" x = "43" y = "280" />
+    	<edge name = "squarebox3" x = "619" y = "179" />
+        
+    	<edge name = "jm4" x = "456" y = "708" />
+    	<edge name = "jm5" x = "130" y = "532" />
+    	<edge name = "jm4" x = "456" y = "368" />
+    	<edge name = "jm5" x = "130" y = "212" />
+    	<edge name = "jm4" x = "513" y = "91" />
+        
+    	
+    </stage>
+    <stage name = "24">
+    	<edge name = "cupBlue" x = "226" y = "960" />
+    	<edge name = "cupBlue" x = "226" y = "0" />
+    	
+    	<edge name = "box4" x = "628" y = "830" />
+    	<edge name = "box4" x = "628" y = "679" />
+    	<edge name = "box1" x = "628" y = "534" />
+    	<edge name = "box2" x = "628" y = "377" />
+    	<edge name = "box2" x = "131" y = "535" />
+    	<edge name = "box1" x = "128" y = "676" />
+    	<edge name = "folder5" x = "616" y = "205" />
+        
+    	<edge name = "jm5" x = "207" y = "762" />
+    	<edge name = "jm7" x = "581" y = "762" />
+    	<edge name = "jm5" x = "207" y = "613" />
+    	<edge name = "jm7" x = "581" y = "613" />
+    	<edge name = "jm5" x = "207" y = "466" />
+    	<edge name = "jm7" x = "581" y = "466" />
+        
+        <edge name = "jm5" x = "207" y = "309" />
+    	<edge name = "jm7" x = "581" y = "309" />
+        
+    	<edge name = "jm4" x= "513" y = "91" />
+    	
+    </stage>
+    <stage name = "25">
+    	<edge name = "cupBlue" x = "226" y = "960" />
+    	<edge name = "cupBlue" x = "170" y = "0" />
+    	
+    	<edge name = "box1" x = "45" y = "830" />
+    	<edge name = "box2" x = "45" y = "690" />
+    	<edge name = "box4" x = "45" y = "557" />
+    	<edge name = "box1" x = "45" y = "420" />
+    	<edge name = "box2" x = "45" y = "284" />
+        
+    	<edge name = "jm5" x = "130" y = "762" />
+    	<edge name = "jm5" x = "130" y = "622" />
+    	<edge name = "jm5" x = "130" y = "488" />
+    	<edge name = "jm5" x = "130" y = "352" />
+    	<edge name = "jm5" x = "130" y = "215" />
+    	<edge name = "jm4" x = "473" y = "89" />
+        <edge name = "rectanglebox5" x = "592" y = "223" />
+        
+    	
+    </stage>
+    <stage name = "26">
+    	<edge name = "cupBlue" x = "170" y = "960" />
+    	<edge name = "cupBlue" x = "170" y = "0" />
+    	
+    	<edge name = "jm3" x = "193" y = "547" />
+    	<edge name = "jm5" x = "522" y = "355" />
+    	<edge name = "jm5" x = "146" y = "221" />
+    	<edge name = "jm4" x = "473" y = "86" />
+    	<edge name = "squarebox1" x = "616" y = "442" />
+    	<edge name = "drawer5" x = "68" y = "641" />
+        <edge name = "rectanglebox5" x = "552" y = "220" />
+    	
+    </stage>
+    <stage name = "27">
+    	<edge name = "cupBlue" x = "170" y = "960" />
+    	<edge name = "cupBlue" x = "410" y = "0" />
+    	
+    	<edge name = "folder6" x = "564" y = "704" />
+    	<edge name = "drawer4" x = "587" y = "403" />
+    	<edge name = "box2" x = "33" y = "504" />
+        
+    	<edge name = "jm4" x = "478" y = "592" />
+    	<edge name = "jm5" x = "120" y = "436" />
+    	<edge name = "jm5" x = "531" y = "309" />
+    	<edge name = "jm4" x = "122" y = "99" />
+    	
+    </stage>
+    <stage name = "28">
+    	<edge name = "cupBlue" x = "410" y = "960" />
+    	<edge name = "cupBlue" x = "344" y = "0" />
+        
+        
+    	<edge name = "box1" x = "608" y = "829" />
+    	<edge name = "jm4" x = "480" y = "762" />
+    	<edge name = "jm5" x = "151" y = "623" />
+    	<edge name = "jm5" x = "140" y = "152" />
+    	<edge name = "jm5" x = "564" y = "152" />
+        <edge name = "rectanglebox4" x = "77" y = "740" />
+    	
+    </stage>
+    <stage name = "29">
+    	<edge name = "cupBlue" x = "344" y = "960" />
+    	<edge name = "cupBlue" x = "344" y = "0" />
+    	
+    	<edge name = "drawer6" x = "620" y = "739" />
+    	<edge name = "rectanglebox6" x = "650" y = "267" />
+    	<edge name = "drawer5" x = "28" y = "242" />
+    	
+        <edge name = "jm4" x = "492" y = "644" />
+    	<edge name = "jm5" x = "143" y = "425" />
+    	<edge name = "jm5" x = "552" y = "425" />
+    	<edge name = "jm4" x = "55" y = "148" />
+    	<edge name = "jm4" x = "586" y = "148" />
+        <edge name = "rectanglebox5" x = "66" y = "558" />
+    	
+    </stage>
+    <stage name = "30">
+    	<edge name = "cupBlue" x = "344" y = "960" />
+    	<edge name = "cupBlue" x = "300" y = "0" />
+    	
+    	<edge name = "squarebox2" x = "18" y = "832" />
+    	<edge name = "squarebox3" x = "594" y = "834" />
+    	<edge name = "folder6" x = "67" y = "407" />
+    	<edge name = "box4" x = "70" y = "219" />
+        
+    	<edge name = "jm5" x = "66" y = "747" />
+    	<edge name = "jm5" x = "604" y = "747" />
+    	<edge name = "jm5" x = "66" y = "512" />
+    	<edge name = "jm5" x = "604" y = "512" />
+    	<edge name = "jm5" x = "66" y = "296" />
+    	<edge name = "jm5" x = "604" y = "296" />
+    	<edge name = "jm5" x = "66" y = "151" />
+    	<edge name = "jm5" x = "604" y = "151" />
+        
+    	
+    </stage>
+    <stage name = "31">
+    	<edge name = "cupBlue" x = "300" y = "960" />
+    	<edge name = "cupBlue" x = "304" y = "0" />
+    	
+    	<edge name = "folder6" x = "53" y = "874" />
+    	<edge name = "drawer2" x = "638" y = "733" />
+    	<edge name = "drawer4" x = "25" y = "568" />
+    	<edge name = "drawer5" x = "624" y = "425" />
+    	<edge name = "box1" x = "13" y = "239" />
+        
+    	<edge name = "jm2" x = "171" y = "762" />
+    	<edge name = "jm2" x = "480" y = "609" />
+    	<edge name = "jm2" x = "170" y = "474" />
+    	<edge name = "jm2" x = "480" y = "331" />
+    	<edge name = "jm4" x = "33" y = "170" />
+    	
+    </stage>
+    <stage name = "32">
+    	<edge name = "cupBlue" x = "304" y = "960" />
+    	<edge name = "cupBlue" x = "300" y = "0" />
+    	
+    	<edge name = "drawer6" x = "-2" y = "261" />
+    	<edge name = "drawer3" x = "630" y = "291" />
+    	
+        
+    	<edge name = "jm7" x = "328" y = "788" />
+    	<edge name = "jm7" x = "145" y = "677" />
+    	<edge name = "jm7" x = "500" y = "677" />
+    	<edge name = "jm8" x = "217" y = "566" />
+    	<edge name = "jm8" x = "449" y = "566" />
+    	<edge name = "jm5" x = "82" y = "168" />
+    	<edge name = "jm5" x = "531" y = "168" />
+        <edge name = "jm6" x = "330" y = "311" />
+    	
+        
+    	
+    </stage>
+    <stage name = "33">
+    	<edge name = "cupBlue" x = "300" y = "960" />
+    	<edge name = "cupBlue" x = "174" y = "0" />
+    	
+    	<edge name = "box1" x = "13" y = "691" />
+    	<edge name = "box4" x = "630" y = "691" />
+    	<edge name = "drawer2" x = "31" y = "460" />
+    	
+        <edge name = "jm6" x = "326" y = "481" />
+    	<edge name = "jm5" x = "113" y = "623" />
+    	<edge name = "jm5" x = "541" y = "623" />
+    	<edge name = "jm2" x = "141" y = "335" />
+    	<edge name = "jm7" x = "359" y = "174" />
+    	
+        
+    	
+    </stage>
+    <stage name = "34">
+    	<edge name = "cupBlue" x = "174" y = "960" />
+    	<edge name = "cupBlue" x = "448" y = "0" />
+    	
+    	
+    	<edge name = "folder5" x = "26" y = "721" />
+    	<edge name = "drawer4" x = "10" y = "150" />
+        <edge name = "drawer5" x = "10" y = "518" />
+        <edge name = "drawer6" x = "10" y = "335" />
+        
+    	<edge name = "jm5" x = "35" y = "609" />
+    	<edge name = "jm5" x = "35" y = "424" />
+    	<edge name = "jm5" x = "35" y = "242" />
+    	<edge name = "jm4" x = "134" y = "56" />
+    	<edge name = "jm4" x = "518" y = "609" />
+        
+        <edge name = "rectanglebox5" x = "536.6" y = "743.3" />
+
+
+        
+    	
+    </stage>
+    <stage name = "35">
+    	<edge name = "cupBlue" x = "447" y = "960" />
+    	<edge name = "cupBlue" x = "328" y = "0" />
+    	
+    	<edge name = "rectanglebox6" x = "592" y = "726" />
+    	<edge name = "squarebox1" x = "24" y = "271" />
+    	<edge name = "box1" x = "26" y = "162" />
+    	<edge name = "box2" x = "611" y = "159" />
+        
+    	<edge name = "jm5" x = "35" y = "609" />
+    	<edge name = "jm4" x = "518" y = "609" />
+    	<edge name = "jm5" x = "62" y = "95" />
+    	<edge name = "jm5" x = "594" y = "95" />
+    	
+        
+    	
+    </stage>
+    <stage name = "36">
+    	<edge name = "cupBlue" x = "329" y = "960" />
+    	<edge name = "cupBlue" x = "240" y = "0" />
+    	
+    	<edge name = "squarebox1" x = "72" y = "790" />
+    	<edge name = "box1" x = "634" y = "123" />
+    	
+        
+    	<edge name = "jm2" x = "173" y = "702" />
+    	<edge name = "jm2" x = "487" y = "361" />
+    	<edge name = "jm7" x = "43" y = "14" />
+    	<edge name = "jm5" x = "503" y = "56" />
+    	
+        
+    	
+    </stage>
+    <stage name = "37">
+    	<edge name = "cupBlue" x = "240" y = "960" />
+    	<edge name = "cupBlue" x = "336" y = "0" />
+    	
+    	<edge name = "drawer1" x = "8" y = "843" />
+    	<edge name = "drawer2" x = "623" y = "613" />
+    	<edge name = "drawer3" x = "4" y = "397" />
+    	<edge name = "drawer3" x = "652" y = "183" />
+        
+    	<edge name = "jm3" x = "208" y = "722" />
+    	<edge name = "jm3" x = "436" y = "490" />
+    	<edge name = "jm3" x = "210" y = "276" />
+    	<edge name = "jm6" x = "113" y = "56" />
+    	<edge name = "jm6" x = "556" y = "56" />
+    	
+        
+    	
+    </stage>
+    <stage name = "38">
+    	<edge name = "cupBlue" x = "336" y = "960" />
+    	<edge name = "cupBlue" x = "336" y = "0" />
+    	
+    	
+    	
+        
+    	<edge name = "jm6" x = "533" y = "762" />
+    	<edge name = "jm6" x = "533" y = "631" />
+    	<edge name = "jm4" x = "445" y = "500" />
+    	<edge name = "jm4" x = "445" y = "369" />
+    	<edge name = "jm5" x = "110" y = "238" />
+    	<edge name = "jm5" x = "110" y = "107" />
+    	<edge name = "jm6" x = "564" y = "55" />
+        
+    	
+    </stage>
+    <stage name = "39">
+    	<edge name = "cupBlue" x = "336" y = "960" />
+    	<edge name = "cupBlue" x = "400" y = "0" />
+    	
+    	<edge name = "trianglex" x = "473" y = "834" />
+    	<edge name = "trianglex" x = "473" y = "672" />
+    	<edge name = "box4" x = "29" y = "659" />
+    	<edge name = "drawer5" x = "136" y = "499" />
+        <edge name = "box2" x = "472" y = "472" />
+        
+        
+    	<edge name = "jm8" x = "218" y = "753" />
+        <edge name = "jm8" x = "472" y = "753" />
+        <edge name = "jm8" x = "472" y = "592" />
+        <edge name = "jm8" x = "472" y = "403" />
+        <edge name = "jm8" x = "576" y = "56" />
+        
+    	<edge name = "jm5" x = "130" y = "592" />
+    	<edge name = "jm6" x = "168" y = "403" />
+    	<edge name = "jm6" x = "349" y = "263" />
+    	<edge name = "jm5" x = "130" y = "95" />
+        
+        <edge name = "rectanglebox4" x = "75" y = "212" />
+    	
+        
+    	
+    </stage>
+    <stage name = "40">
+    	<edge name = "cupBlue" x = "400" y = "960" />
+    	<edge name = "cupBlue" x = "322" y = "0" />
+    	
+    	
+        
+    	<edge name = "jm5" x = "105" y = "386" />
+    	<edge name = "jm5" x = "561" y = "386" />
+    	<edge name = "jm5" x = "102" y = "218" />
+    	<edge name = "jm5" x = "600" y = "218" />
+    	<edge name = "jm5" x = "60" y = "52" />
+    	<edge name = "jm5" x = "581" y = "52" />
+    
+        
+    	
+    </stage>
+    <stage name = "41">
+    	<edge name = "cupBlue" x = "322" y = "960" />
+    	<edge name = "cupGreen" x = "252" y = "0" />
+    	
+    	
+        
+        <edge name = "jm5" x = "342" y = "769" />
+    	<edge name = "jm5" x = "153" y = "604" />
+    	<edge name = "jm5" x = "505" y = "451" />
+    	<edge name = "jm5" x = "154" y = "315" />
+    	<edge name = "jm4" x = "556" y = "94" />
+        
+        <edge name = "smallbottle1" x = "60" y = "678" />
+    	<edge name = "bottle2" x = "575" y = "580" />
+    	<edge name = "smallbottle2" x = "66" y = "389" />
+    	<edge name = "smallbottle2" x = "606" y = "167" />
+    
+        
+    	
+    </stage>
+    <stage name = "42">
+    	<edge name = "cupGreen" x = "252" y = "960" />
+    	<edge name = "cupGreen" x = "218" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "452" y = "762" />
+    	<edge name = "jm4" x = "452" y = "522" />
+    	<edge name = "jm4" x = "90" y = "342" />
+    	<edge name = "jm4" x = "519" y = "96" />
+    	
+        
+       
+    	<edge name = "highbottle3" x = "534" y = "234" />
+        <edge name = "highbottle4" x = "580" y = "234" />
+    	<edge name = "smallbottle2" x = "548" y = "834" />
+    	<edge name = "smallbottle1" x = "61" y = "415" />
+        <edge name = "middlebottle3" x = "551" y = "637" />
+        
+        
+        
+    	
+    </stage>
+    <stage name = "43">
+    	<edge name = "cupGreen" x = "218" y = "960" />
+    	<edge name = "cupGreen" x = "242" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "140" y = "614" />
+    	<edge name = "jm3" x = "446" y = "390" />
+    	<edge name = "jm4" x = "190" y = "206" />
+    	<edge name = "jm5" x = "501" y = "54" />
+    	
+        
+        
+    	<edge name = "highbottle5" x = "71" y = "343" />
+        <edge name = "highbottle4" x = "25" y = "343" />
+        <edge name = "middlebottle3" x = "42" y = "732" />
+        <edge name = "middlebottle2" x = "520" y = "507" />
+        <edge name = "middlebottle3" x = "603" y = "506" />
+        <edge name = "middlebottle3" x = "577" y = "171" />
+    	
+    </stage>
+    
+    <stage name = "44">
+    	<edge name = "cupGreen" x = "242" y = "960" />
+    	<edge name = "cupGreen" x = "242" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "553" y = "54" />
+    	<edge name = "jm6" x = "371" y = "284" />
+    	<edge name = "jm4" x = "161" y = "765" />
+    	<edge name = "jm5" x = "496" y = "592" />
+        <edge name = "jm5" x = "217" y = "438" />
+    	
+        
+        
+    	<edge name = "highbottle5" x = "594" y = "729" />
+        
+        <edge name = "middlebottle3" x = "52" y = "883" />
+        <edge name = "middlebottle2" x = "113" y = "556" />
+        <edge name = "middlebottle3" x = "597" y = "172" />
+        <edge name = "middlebottle1" x = "531" y = "712" />
+    	
+    </stage>
+    
+    <stage name = "45">
+    	<edge name = "cupGreen" x = "242" y = "960" />
+    	<edge name = "cupGreen" x = "413" y = "0" />
+    	
+    	
+        
+        <edge name = "jm7" x = "234" y = "715" />
+        <edge name = "jm7" x = "482" y = "715" />
+        <edge name = "jm7" x = "53" y = "546" />
+        <edge name = "jm7" x = "81" y = "361" />
+        <edge name = "jm4" x = "473" y = "361" />
+    	<edge name = "jm4" x = "99" y = "58" />
+    	
+        
+    	
+        
+        
+    	
+        
+        <edge name = "middlebottle3" x = "47" y = "664" />
+        <edge name = "smallbottle2" x = "44" y = "435" />
+        <edge name = "smallbottle1" x = "578" y = "431" />
+        <edge name = "smallbottle1" x = "61" y = "132" />
+    	
+    </stage>
+    
+    <stage name = "46">
+    	<edge name = "cupGreen" x = "413" y = "960" />
+    	<edge name = "cupGreen" x = "312" y = "0" />
+    	
+    	
+        
+        <edge name = "jm5" x = "466" y = "762" />
+    	<edge name = "jm7" x = "36" y = "643" />
+    	<edge name = "jm4" x = "118" y = "491" />
+    	<edge name = "jm7" x = "571" y = "461" />
+        <edge name = "jm7" x = "396" y = "341" />
+        <edge name = "jm7" x = "51" y = "213" />
+        <edge name = "jm7" x = "306" y = "213" />
+        <edge name = "jm7" x = "566" y = "213" />
+        <edge name = "jm7" x = "145" y = "94" />
+        <edge name = "jm7" x = "487" y = "94" />
+    	
+        
+        
+    	
+        
+        
+        <edge name = "middlebottle2" x = "568" y = "881" />
+        <edge name = "middlebottle1" x = "36" y = "762" />
+        <edge name = "middlebottle2" x = "47" y = "333" />
+        <edge name = "middlebottle1" x = "595" y = "579" />
+        <edge name = "middlebottle3" x = "592" y = "333" />
+        <edge name = "smallbottle1" x = "67" y = "564" />
+    	
+    </stage>
+    <stage name = "47">
+    	<edge name = "cupGreen" x = "312" y = "960" />
+    	<edge name = "cupGreen" x = "312" y = "0" />
+    	
+    	
+        
+        <edge name = "jm5" x = "102" y = "763" />
+        <edge name = "jm5" x = "528" y = "763" />
+        <edge name = "jm5" x = "102" y = "615" />
+        <edge name = "jm5" x = "528" y = "615" />
+        <edge name = "jm5" x = "102" y = "473" />
+        <edge name = "jm5" x = "528" y = "473" />
+        <edge name = "jm5" x = "102" y = "109" />
+        <edge name = "jm5" x = "528" y = "109" />
+        <edge name = "jm7" x = "317" y = "303" />
+    	
+    	
+       
+        
+    	
+        
+        
+        <edge name = "smallbottle2" x = "40" y = "689" />
+        <edge name = "smallbottle2" x = "596" y = "689" />
+        
+        <edge name = "highbottle5" x = "615" y = "244" />
+        <edge name = "highbottle4" x = "568" y = "244" />
+        <edge name = "highbottle3" x = "76" y = "244" />
+        <edge name = "highbottle2" x = "29" y = "244" />
+    	
+    </stage>
+    <stage name = "48">
+    	<edge name = "cupGreen" x = "312" y = "960" />
+    	<edge name = "cupGreen" x = "250" y = "0" />
+    	
+    	
+        
+        <edge name = "jm3" x = "546" y = "515" />
+    	<edge name = "jm3" x = "186" y = "330" />
+    	<edge name = "jm5" x = "515" y = "62" />
+        
+    	
+        
+        
+    	<edge name = "highbottle5" x = "571" y = "651" />
+        <edge name = "highbottle5" x = "27" y = "466" />
+        <edge name = "highbottle4" x = "617" y = "651" />
+        
+        
+        <edge name = "middlebottle2" x = "92" y = "449" />
+        
+        <edge name = "smallbottle2" x = "567" y = "138" />
+    	
+    </stage>
+    <stage name = "49">
+    	<edge name = "cupGreen" x = "250" y = "960" />
+    	<edge name = "cupGreen" x = "323" y = "0" />
+    	
+    	
+        
+        
+    	<edge name = "jm6" x = "537" y = "312" />
+    	<edge name = "jm5" x = "172" y = "760" />
+    	<edge name = "jm5" x = "325" y = "619" />
+        <edge name = "jm5" x = "92" y = "312" />
+    	
+        
+        
+    	<edge name = "highbottle4" x = "48" y = "448" />
+        <edge name = "highbottle4" x = "592" y = "447" />
+        <edge name = "smallbottle2" x = "84" y = "834" />
+        
+        
+    	
+    </stage>
+    <stage name = "50">
+    	<edge name = "cupGreen" x = "324" y = "960" />
+    	<edge name = "cupGreen" x = "415" y = "0" />
+    	
+    	
+        
+        <edge name = "jm6" x = "69" y = "720" />
+    	<edge name = "jm6" x = "69" y = "474" />
+    	<edge name = "jm5" x = "519" y = "720" />
+    	<edge name = "jm5" x = "519" y = "474" />
+        <edge name = "jm5" x = "149" y = "86" />
+    	
+        
+        
+    	
+        
+        <edge name = "smallbottle1" x = "45" y = "794" />
+        <edge name = "smallbottle1" x = "589" y = "794" />
+        <edge name = "smallbottle2" x = "30" y = "548" />
+        <edge name = "smallbottle2" x = "461" y = "548" />
+        <edge name = "smallbottle2" x = "590" y = "548" />
+        <edge name = "middlebottle3" x = "46" y = "204" />
+
+
+    </stage>
+    <stage name = "51">
+    	<edge name = "cupGreen" x = "414" y = "960" />
+    	<edge name = "cupGreen" x = "236" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "462" y = "309" />
+    	<edge name = "jm4" x = "173" y = "180" />
+    	<edge name = "jm5" x = "163" y = "717" />
+    	<edge name = "jm5" x = "163" y = "474" />
+        <edge name = "jm5" x = "496" y = "50" />
+        <edge name = "jm7" x = "599" y = "474" />
+    	
+        
+        
+    	<edge name = "highbottle3" x = "570" y = "610" />
+        <edge name = "highbottle3" x = "616" y = "610" />
+        
+        <edge name = "smallbottle2" x = "80" y = "792" />
+        <edge name = "smallbottle2" x = "597" y = "383" />
+        <edge name = "middlebottle2" x = "50" y = "299" />
+        <edge name = "middlebottle3" x = "63" y = "593" />
+        <edge name = "middlebottle1" x = "599" y = "170" />
+    	
+    </stage>
+    <stage name = "52">
+    	<edge name = "cupGreen" x = "237" y = "960" />
+    	<edge name = "cupGreen" x = "485" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "195" y = "770" />
+    	<edge name = "jm4" x = "195" y = "600" />
+    	<edge name = "jm4" x = "195" y = "430" />
+    	<edge name = "jm4" x = "195" y = "260" />
+        <edge name = "jm4" x = "195" y = "90" />
+    	
+        
+        
+    	<edge name = "smallbottle2" x = "80" y = "844" />
+        
+        <edge name = "bowl6" x = "49" y = "510" />
+        <edge name = "bowl6" x = "49" y = "170" />
+        
+    	
+    </stage>
+    <stage name = "53">
+    	<edge name = "cupGreen" x = "484" y = "960" />
+    	<edge name = "cupGreen" x = "458" y = "0" />
+    	
+    	
+        
+        <edge name = "jm7" x = "491" y = "786" />
+    	<edge name = "jm7" x = "140" y = "677" />
+    	<edge name = "jm7" x = "403" y = "677" />
+    	<edge name = "jm7" x = "57" y = "560" />
+        <edge name = "jm7" x = "317" y = "560" />
+        <edge name = "jm7" x = "569" y = "560" />
+    	<edge name = "jm7" x = "179" y = "445" />
+    	<edge name = "jm7" x = "442" y = "445" />
+    	<edge name = "jm7" x = "43" y = "330" />
+        <edge name = "jm7" x = "318" y = "330" />
+        <edge name = "jm7" x = "609" y = "330" />
+    	<edge name = "jm7" x = "176" y = "215" />
+    	<edge name = "jm7" x = "464" y = "215" />
+    	<edge name = "jm7" x = "47" y = "103" />
+        <edge name = "jm7" x = "321" y = "103" />
+        <edge name = "jm7" x = "608" y = "103" />
+    	
+        
+        
+    	<edge name = "bowl6" x = "625" y = "639" />
+        
+        <edge name = "bowl4" x = "87" y = "738" />
+        <edge name = "bowl4" x = "33" y = "391" />
+        <edge name = "bowl5" x = "44" y = "615" />
+        <edge name = "bowl5" x = "61" y = "160" />
+        <edge name = "bowl5" x = "591" y = "160" />
+
+
+    </stage>
+    <stage name = "54">
+    	<edge name = "cupGreen" x = "458" y = "960" />
+    	<edge name = "cupGreen" x = "183" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "174" y = "500" />
+    	
+    	<edge name = "jm5" x = "468" y = "723" />
+    	<edge name = "jm5" x = "143" y = "336" />
+        <edge name = "jm5" x = "143" y = "175" />
+    	
+        
+        
+    	<edge name = "smallbottle2" x = "26" y = "410" />
+        
+        <edge name = "smallbottle2" x = "25" y = "250" />
+        <edge name = "middlebottle2" x = "34" y = "619" />
+        
+    </stage>
+    <stage name = "55">
+    	<edge name = "cupGreen" x = "183" y = "960" />
+    	<edge name = "cupGreen" x = "404" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "156" y = "744" />
+    	<edge name = "jm4" x = "156" y = "586" />
+    	<edge name = "jm4" x = "156" y = "330" />
+    	
+    	
+        
+        
+    	<edge name = "bowl6" x = "67" y = "824" />
+        
+        <edge name = "smallbottle2" x = "73" y = "659" />
+        <edge name = "smallbottle2" x = "69" y = "504" />
+        <edge name = "smallbottle1" x = "69" y = "404" />
+    	
+    </stage>
+    <stage name = "56">
+    	<edge name = "cupGreen" x = "404" y = "960" />
+    	<edge name = "cupGreen" x = "200" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "688" y = "763" />
+    	<edge name = "jm4" x = "436" y = "670" />
+    	<edge name = "jm4" x = "545" y = "530" />
+    	<edge name = "jm4" x = "520" y = "390" />
+        <edge name = "jm4" x = "485" y = "250" />
+        <edge name = "jm4" x = "463" y = "110" />
+        <edge name = "jm7" x = "51" y = "670" />
+    	<edge name = "jm7" x = "70" y = "530" />
+        <edge name = "jm7" x = "78" y = "390" />
+        <edge name = "jm7" x = "51" y = "250" />
+    	
+        
+        
+    	<edge name = "smallbottle2" x = "61" y = "744" />
+        
+        <edge name = "smallbottle2" x = "80" y = "604" />
+        <edge name = "smallbottle2" x = "640" y = "604" />
+        <edge name = "smallbottle2" x = "88" y = "464" />
+        <edge name = "smallbottle2" x = "642" y = "464" />
+        <edge name = "smallbottle2" x = "51" y = "325" />
+        <edge name = "smallbottle2" x = "607" y = "325" />
+        <edge name = "smallbottle2" x = "585" y = "184" />
+    	
+    </stage>
+    <stage name = "57">
+    	<edge name = "cupGreen" x = "200" y = "960" />
+    	<edge name = "cupGreen" x = "318" y = "0" />
+    	
+    	
+        
+      
+    	<edge name = "jm5" x = "173" y = "718" />
+    	<edge name = "jm5" x = "90" y = "448" />
+        <edge name = "jm5" x = "525" y = "448" />
+    	
+        
+        
+    	<edge name = "highbottle5" x = "61" y = "586" />
+        
+        <edge name = "highbottle5" x = "623" y = "586" />
+        <edge name = "highbottle4" x = "577" y = "586" />
+        <edge name = "highbottle3" x = "55" y = "853" />
+        <edge name = "highbottle2" x = "12" y = "586" />
+    	
+    </stage>
+    <stage name = "58">
+    	<edge name = "cupGreen" x = "318" y = "960" />
+    	<edge name = "cupGreen" x = "318" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "477" y = "617" />
+    	<edge name = "jm4" x = "180" y = "468" />
+    	<edge name = "jm5" x = "65" y = "99" />
+        <edge name = "jm5" x = "571" y = "99" />
+    	
+        
+        
+        <edge name = "smallbottle2" x = "604" y = "692" />
+        <edge name = "middlebottle2" x = "23" y = "588" />
+        <edge name = "middlebottle1" x = "107" y = "587" />
+    	
+    </stage>
+    <stage name = "59">
+    	<edge name = "cupGreen" x = "318" y = "960" />
+    	<edge name = "cupGreen" x = "480" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "169" y = "55" />
+    	<edge name = "jm4" x = "101" y = "216" />
+    	<edge name = "jm2" x = "457" y = "381" />
+        <edge name = "jm2" x = "163" y = "492" />
+        <edge name = "jm2" x = "457" y = "612" />
+        <edge name = "jm2" x = "166" y = "734" />
+    	
+        
+        
+    	<edge name = "highbottle5" x = "61" y = "352" />
+    	<edge name = "highbottle3" x = "16" y = "352" />
+        
+        <edge name = "bowl6" x = "73" y = "136" />
+        <edge name = "middlebottle2" x = "43" y = "613" />
+        <edge name = "middlebottle3" x = "593" y = "730" />
+        <edge name = "middlebottle1" x = "597" y = "501" />
+    	
+    </stage>
+    <stage name = "60">
+    	<edge name = "cupGreen" x = "479" y = "960" />
+    	<edge name = "cupYellow" x = "324" y = "0" />
+    	
+    	
+        
+        
+    	<edge name = "jm5" x = "-42" y = "747" />
+        <edge name = "jm5" x = "495" y = "747" />
+        <edge name = "jm5" x = "66" y = "512" />
+        <edge name = "jm5" x = "610" y = "512" />
+        <edge name = "jm5" x = "66" y = "296" />
+        <edge name = "jm5" x = "610" y = "296" />
+        <edge name = "jm5" x = "66" y = "151" />
+        <edge name = "jm5" x = "610" y = "148" />
+        <edge name = "jm8" x = "322" y = "611" />
+        <edge name = "jm8" x = "322" y = "411" />
+    	
+        
+        <edge name = "middlebottle3" x = "20" y = "865" />
+        
+        <edge name = "smallbottle2" x = "34" y = "370" />
+        <edge name = "bowl6" x = "603" y = "828" />
+        <edge name = "smallbottle1" x = "31" y = "225" />
+    	
+    </stage>
+    <stage name = "61">
+    	<edge name = "cupYellow" x = "324" y = "959" />
+    	<edge name = "cupYellow" x = "479" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "441" y = "770" />
+    	<edge name = "jm4" x = "198" y = "650" />
+    	<edge name = "jm4" x = "441" y = "530" />
+    	<edge name = "jm4" x = "198" y = "403" />
+        <edge name = "jm4" x = "442" y = "280" />
+        <edge name = "jm4" x = "198" y = "140" />
+    	
+        
+        
+    	<edge name = "bowl6" x = "581" y = "851" />
+        
+        <edge name = "basket2" x = "19" y = "744" />
+        <edge name = "basket1" x = "617" y = "624" />
+        <edge name = "basket1" x = "21" y = "496" />
+        <edge name = "basket2" x = "623" y = "374" />
+        <edge name = "bottle2" x = "54" y = "270" />
+    	
+    </stage>
+    <stage name = "62">
+    	<edge name = "cupYellow" x = "479" y = "960" />
+    	<edge name = "cupYellow" x = "249" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "198" y = "606" />
+    	<edge name = "jm5" x = "490" y = "756" />
+    	<edge name = "jm5" x = "490" y = "460" />
+    	<edge name = "jm5" x = "490" y = "278" />
+        <edge name = "jm5" x = "460" y = "101" />
+    	
+        
+        
+    	<edge name = "bowl3" x = "614" y = "841" />
+        
+        <edge name = "bottle2" x = "78" y = "735" />
+        <edge name = "middlebottle2" x = "599" y = "581" />
+
+        <edge name = "basket1" x = "641" y = "372" />
+        <edge name = "basket2" x = "643" y = "195" />
+    	
+    </stage>
+    <stage name = "63">
+    	<edge name = "cupYellow" x = "250" y = "960" />
+    	<edge name = "cupYellow" x = "470" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "137" y = "681" />
+    	<edge name = "jm4" x = "137" y = "539" />
+    	<edge name = "jm4" x = "137" y = "407" />
+    	<edge name = "jm4" x = "137" y = "52" />
+        <edge name = "jm5" x = "493" y = "247" />
+    	
+        
+        
+    	<edge name = "bowl4" x = "53" y = "601" />
+    	<edge name = "bowl5" x = "52" y = "465" />
+        <edge name = "bowl6" x = "589" y = "329" />
+        
+        <edge name = "bottle2" x = "67" y = "810" />
+        <edge name = "bottle3" x = "45" y = "183" />
+    	
+    </stage>
+    
+    <stage name = "64">
+    	<edge name = "cupYellow" x = "474" y = "960" />
+    	<edge name = "cupYellow" x = "166" y = "0" />
+    	
+    	
+        <edge name = "jm5" x = "479" y = "762" />
+        <edge name = "jm7" x = "101" y = "762" />
+    	<edge name = "jm7" x = "101" y = "620" />
+    	<edge name = "jm7" x = "101" y = "475" />
+        <edge name = "jm7" x = "101" y = "330" />
+    	<edge name = "jm7" x = "416" y = "620" />
+        <edge name = "jm7" x = "416" y = "475" />
+    	<edge name = "jm7" x = "416" y = "330" />
+        <edge name = "jm4" x = "217" y = "181" />
+    	<edge name = "jm4" x = "478" y = "52" />
+    	
+    	
+        
+        
+    	<edge name = "bowl2" x = "64" y = "849" />
+        <edge name = "bowl4" x = "603" y = "823" />
+        <edge name = "bowl4" x = "60" y = "683" />
+        <edge name = "bowl4" x = "60" y = "391" />
+        <edge name = "bowl5" x = "56" y = "532" />
+        <edge name = "bowl5" x = "57" y = "240" />
+        
+        <edge name = "smallbottle2" x = "569" y = "126" />
+      
+    	
+    </stage>
+    <stage name = "65">
+    	<edge name = "cupYellow" x = "166" y = "960" />
+    	<edge name = "cupYellow" x = "462" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "485" y = "761" />
+    	<edge name = "jm4" x = "154" y = "614" />
+    	<edge name = "jm4" x = "485" y = "461" />
+    	<edge name = "jm4" x = "152" y = "318" />
+        <edge name = "jm4" x = "556" y = "192" />
+        <edge name = "jm4" x = "152" y = "82" />
+        <edge name = "jm8" x = "57" y = "458" />
+        
+       
+        
+        
+    	<edge name = "bowl6" x = "559" y = "842" />
+        
+        <edge name = "smallbottle2" x = "50" y = "532" />
+        <edge name = "smallbottle2" x = "50" y = "393" />
+       
+    	
+    </stage>
+    <stage name = "66">
+    	<edge name = "cupYellow" x = "462" y = "960" />
+    	<edge name = "cupYellow" x = "317" y = "0" />
+    	
+    	
+        
+        
+    	<edge name = "jm7" x = "446.5" y = "788" />
+    	<edge name = "jm7" x = "139.2" y = "678" />
+        <edge name = "jm7" x = "417.5" y = "678" />
+        <edge name = "jm8" x = "140.3" y = "787" />
+        <edge name = "jm8" x = "217.5" y = "566" />
+        <edge name = "jm8" x = "449" y = "566" />
+        <edge name = "jm8" x = "99.5" y = "351" />
+        <edge name = "jm8" x = "320.5" y = "351" />
+        <edge name = "jm8" x = "553.5" y = "351" />
+        <edge name = "jm5" x = "69" y = "118" />
+        <edge name = "jm5" x = "567" y = "118" />
+        <edge name = "jm6" x = "324.1" y = "231.4" />
+        
+        
+    	<edge name = "bowl6" x = "137.9" y = "867.4" />
+        <edge name = "bowl3" x = "609.1" y = "203.5" />
+        <edge name = "bowl2" x = "16.5" y = "203.9" />
+        
+    	
+    </stage>
+    <stage name = "67">
+    	<edge name = "cupYellow" x = "317" y = "960" />
+    	<edge name = "cupYellow" x = "227" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "199.6" y = "723" />
+    	<edge name = "jm4" x = "192.6" y = "240" />
+    	<edge name = "jm5" x = "487.4" y = "91.6" />
+        
+        
+        <edge name = "bottle1" x = "44" y = "370" />
+        <edge name = "bottle2" x = "605.7" y = "221" />
+    	
+    </stage>
+    <stage name = "68">
+    	<edge name = "cupYellow" x = "227" y = "960" />
+    	<edge name = "cupYellow" x = "484" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "199.6" y = "706" />
+    	<edge name = "jm4" x = "199.6" y = "516" />
+    	<edge name = "jm4" x = "199.6" y = "326" />
+        <edge name = "jm4" x = "199.6" y = "136.7" />
+       
+        
+    	<edge name = "basket1" x = "53" y = "800" />
+    	<edge name = "basket1" x = "53" y = "420" />
+        
+        <edge name = "basket2" x = "53" y = "610" />
+        <edge name = "basket2" x = "53" y = "231" />
+       
+    	
+    </stage>
+    <stage name = "69">
+    	<edge name = "cupYellow" x = "484" y = "960" />
+    	<edge name = "cupYellow" x = "387" y = "0" />
+    	
+    	
+        
+        
+    	<edge name = "jm5" x = "124.2" y = "68.8" />
+    	<edge name = "jm5" x = "130" y = "393" />
+    	<edge name = "jm5" x = "348" y = "501" />
+    	<edge name = "jm5" x = "130" y = "621" />
+        <edge name = "jm6" x = "348.5" y = "263" />
+        <edge name = "jm6" x = "482.5" y = "753" />
+        <edge name = "jm8" x = "576.5" y = "56" />
+        <edge name = "jm8" x = "432.5" y = "393" />
+        <edge name = "jm8" x = "433.5" y = "621" />
+        <edge name = "jm8" x = "217.5" y = "753" />
+        
+        
+    	<edge name = "bowl3" x = "216" y = "837" />
+        
+        <edge name = "bowl2" x = "31" y = "708" />
+        <edge name = "bowl1" x = "31" y = "478" />
+        
+        <edge name = "bottle2" x = "13" y = "199" />
+    	
+    </stage>
+    <stage name = "70">
+    	<edge name = "cupYellow" x = "387" y = "959" />
+    	<edge name = "cupYellow" x = "387" y = "0" />
+    	
+    	
+        
+        <edge name = "jm5" x = "388" y = "775.3" />
+    	<edge name = "jm5" x = "168" y = "656.3" />
+    	<edge name = "jm5" x = "394" y = "430" />
+    	<edge name = "jm5" x = "185" y = "298.3" />
+        <edge name = "jm5" x = "448" y = "177.3" />
+        <edge name = "jm5" x = "121" y = "64.3" />
+        <edge name = "jm6" x = "549.5" y = "656" />
+        <edge name = "jm8" x = "382.5" y = "545" />
+        <edge name = "jm8" x = "75.5" y = "430" />
+
+
+        
+        
+    	<edge name = "ellipse2" x = "66" y = "769" />
+        
+        <edge name = "ellipse2" x = "580" y = "291" />
+        <edge name = "ellipse1" x = "48" y = "178" />
+        <edge name = "bowl4" x = "73" y = "360" />
+        <edge name = "circular3" x = "75" y = "528" />
+    	
+    </stage>
+    <stage name = "71">
+    	<edge name = "cupYellow" x = "387" y = "960" />
+    	<edge name = "cupYellow" x = "332" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "445" y = "500" />
+    	<edge name = "jm4" x = "445" y = "369" />
+    	<edge name = "jm5" x = "92" y = "227" />
+    	<edge name = "jm5" x = "92" y = "96" />
+        <edge name = "jm6" x = "564.5" y = "55" />
+        <edge name = "jm6" x = "532.5" y = "631" />
+        <edge name = "jm6" x = "532.5" y = "762" />
+    	
+        
+        
+        
+    	<edge name = "circular1" x = "586" y = "859" />
+        
+        <edge name = "bowl4" x = "595" y = "692" />
+        <edge name = "bowl5" x = "591" y = "557" />
+        <edge name = "bowl5" x = "591" y = "426" />
+        
+        <edge name = "smallbottle2" x = "34" y = "301" />
+        <edge name = "smallbottle1" x = "32" y = "169" />
+    	
+    </stage>
+    <stage name = "72">
+    	<edge name = "cupYellow" x = "332" y = "960" />
+    	<edge name = "cupYellow" x = "332" y = "0" />
+    	
+    	
+        
+        <edge name = "jm8" x = "60.5" y = "766" />
+    	<edge name = "jm8" x = "621.5" y = "766" />
+    	<edge name = "jm8" x = "42.5" y = "528" />
+    	<edge name = "jm8" x = "134.5" y = "428" />
+        <edge name = "jm8" x = "584.5" y = "427" />
+        <edge name = "jm8" x = "255.5" y = "321" />
+    	<edge name = "jm8" x = "353.5" y = "218" />
+        <edge name = "jm8" x = "567.5" y = "218" />
+        
+        <edge name = "jm6" x = "344.5" y = "768" />
+    	<edge name = "jm6" x = "69.5" y = "649" />
+        <edge name = "jm6" x = "397.5" y = "649" />
+        <edge name = "jm6" x = "559.5" y = "529" />
+    	<edge name = "jm6" x = "508.5" y = "321" />
+        <edge name = "jm6" x = "84.5" y = "216" />
+        <edge name = "jm6" x = "543.5" y = "101" />
+        
+        <edge name = "ellipse2" x = "624" y = "642" />
+    	<edge name = "circular1" x = "50" y = "862" />
+    	<edge name = "smallbottle2" x = "41" y = "290" />
+        <edge name = "smallbottle2" x = "620" y = "841" />
+        <edge name = "bowl4" x = "32" y = "711" />
+        <edge name = "bowl4" x = "612" y = "163" />
+    	
+    </stage>
+    <stage name = "73">
+    	<edge name = "cupYellow" x = "332" y = "960" />
+    	<edge name = "cupYellow" x = "264" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "182.7" y = "672" />
+    	<edge name = "jm4" x = "182.7" y = "420" />
+    	<edge name = "jm4" x = "182.7" y = "174" />
+        
+        <edge name = "jm5" x = "490" y = "545" />
+    	<edge name = "jm5" x = "523.3" y = "296.5" />
+    	<edge name = "jm5" x = "526" y = "56.7" />
+    	<edge name = "jm5" x = "112.3" y = "296.5" />
+        
+    	
+        <edge name = "smallbottle2" x = "598.8" y = "370.3" />
+        
+        
+    	<edge name = "bottle2" x = "67" y = "801.3" />
+        
+        <edge name = "bowl2" x = "614.7" y = "632.3" />
+        <edge name = "bowl1" x = "40.5" y = "505.7" />
+        <edge name = "bowl4" x = "59.1" y = "358.5" />
+        <edge name = "bowl5" x = "56.2" y = "232" />
+        <edge name = "bowl6" x = "601" y = "137.7" />
+
+
+
+    </stage>
+    <stage name = "74">
+    	<edge name = "cupYellow" x = "264" y = "960" />
+    	<edge name = "cupYellow" x = "339" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "271.7" y = "757" />
+    	<edge name = "jm5" x = "320" y = "644" />
+    	<edge name = "jm5" x = "320" y = "534" />
+    	<edge name = "jm6" x = "107.5" y = "417" />
+        <edge name = "jm6" x = "107.5" y = "295" />
+        <edge name = "jm6" x = "308.5" y = "174" />
+        <edge name = "jm6" x = "107.5" y = "60" />
+    	<edge name = "jm8" x = "406.5" y = "444" />
+        <edge name = "jm8" x = "408.5" y = "351" />
+        <edge name = "jm8" x = "407.5" y = "257" />
+        <edge name = "jm8" x = "513.5" y = "42" />
+    	
+        <edge name = "bowl1" x = "120.5" y = "842.7" />
+        <edge name = "bowl5" x = "219.2" y = "702" />
+        
+        
+    	<edge name = "bowl4" x = "51.5" y = "358.5" />
+        
+        <edge name = "bowl6" x = "36" y = "140.7" />
+       
+    	
+    </stage>
+    <stage name = "75">
+    	<edge name = "cupYellow" x = "339" y = "960" />
+    	<edge name = "cupYellow" x = "339" y = "0" />
+    	
+    	
+        
+        
+    	<edge name = "jm4" x = "342.7" y = "778" />
+    	<edge name = "jm4" x = "373.7" y = "532" />
+        <edge name = "jm4" x = "197.7" y = "403" />
+        <edge name = "jm4" x = "442.7" y = "277" />
+    	<edge name = "jm6" x = "111.5" y = "658" />
+        <edge name = "jm6" x = "527.5" y = "658" />
+        
+        
+        
+    	<edge name = "ellipse1" x = "50" y = "516" />
+        <edge name = "ellipse2" x = "592" y = "390" />
+        
+    	
+    </stage>
+    <stage name = "76">
+    	<edge name = "cupYellow" x = "339" y = "960" />
+    	<edge name = "cupYellow" x = "262" y = "0" />
+    	
+    	
+        
+        <edge name = "jm6" x = "151.5" y = "778" />
+    	<edge name = "jm6" x = "530.5" y = "778" />
+    	<edge name = "jm6" x = "151.5" y = "653" />
+        <edge name = "jm6" x = "530.5" y = "653" />
+        <edge name = "jm6" x = "151.5" y = "522" />
+    	<edge name = "jm6" x = "530.5" y = "522" />
+    	<edge name = "jm6" x = "151.5" y = "392" />
+        <edge name = "jm6" x = "530.5" y = "392" />
+        <edge name = "jm6" x = "40.5" y = "74" />
+
+
+        <edge name = "jm4" x = "548.7" y = "257" />
+        <edge name = "jm8" x = "456.5" y = "42" />
+
+        <edge name = "bowl4" x = "101" y = "840" />
+        <edge name = "bowl4" x = "119" y = "715" />
+        <edge name = "bowl4" x = "563" y = "583" />
+        <edge name = "bowl4" x = "132" y = "454" />
+        <edge name = "bowl4" x = "523" y = "454" />
+        
+        <edge name = "bowl5" x = "512" y = "710" />
+        <edge name = "bowl5" x = "612" y = "314" />
+        <edge name = "bowl5" x = "175" y = "580" />
+
+        <edge name = "bowl3" x = "573" y = "863" />
+        
+        <edge name = "bottle2" x = "23" y = "204" />
+    	
+    </stage>
+    <stage name = "77">
+    	<edge name = "cupYellow" x = "262" y = "960" />
+    	<edge name = "cupYellow" x = "451" y = "0" />
+
+        <edge name = "jm3" x = "474.5" y = "547" />
+    	<edge name = "jm3" x = "186.5" y = "389" />
+    	<edge name = "jm3" x = "474.5" y = "234" />
+        <edge name = "jm4" x = "139.7" y = "59" />
+        
+    	
+        <edge name = "circular1" x = "603" y = "643" />
+        
+    </stage>
+    <stage name = "78">
+    	<edge name = "cupYellow" x = "451" y = "960" />
+    	<edge name = "cupYellow" x = "402" y = "0" />
+    	
+    	
+        
+        
+    	<edge name = "jm6" x = "70" y = "764" />
+        <edge name = "jm6" x = "70" y = "634" />
+        <edge name = "jm6" x = "69" y = "518" />
+        <edge name = "jm5" x = "520.4" y = "762.4" />
+        <edge name = "jm5" x = "519.4" y = "634" />
+        <edge name = "jm5" x = "519.4" y = "518" />
+        <edge name = "jm5" x = "137.6" y = "69.7" />
+        <edge name = "jm3" x = "129.5" y = "367" />
+        <edge name = "jm3" x = "449.5" y = "204" />
+        <edge name = "jm8" x = "568.6" y = "94" />
+    	   
+        <edge name = "bowl4" x = "39.8" y = "825.4" />
+        <edge name = "bowl4" x = "39.8" y = "694.6" />
+        <edge name = "bowl4" x = "39.8" y = "428.2" />
+        <edge name = "bowl5" x = "39.2" y = "575.6" />
+        <edge name = "bowl5" x = "603.2" y = "690.8" />
+        <edge name = "bowl1" x = "34.8" y = "156.2" />
+
+        <edge name = "circular1" x = "616.4" y = "860.2" />
+      
+    	
+    </stage>
+    <stage name = "79">
+    	<edge name = "cupYellow" x = "402" y = "959" />
+    	<edge name = "cupYellow" x = "282" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "447.6" y = "744" />
+    	<edge name = "jm4" x = "156" y = "586" />
+    	<edge name = "jm4" x = "156" y = "430" />
+    	<edge name = "jm4" x = "156" y = "282" />
+        <edge name = "jm6" x = "508" y = "54.8" />
+        <edge name = "jm8" x = "105.4" y = "53.2" />
+    	
+        <edge name = "circular3" x = "567.6" y = "841.4" />
+        
+        
+    	<edge name = "bowl4" x = "60.4" y = "343" />
+        
+        <edge name = "ellipse2" x = "852.8" y = "166.8" />
+        
+    	
+    </stage>
+    <stage name = "80">
+    	<edge name = "cupYellow" x = "282" y = "960" />
+    	<edge name = "cupEnd" x = "278.4" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "198" y = "772.8" />
+    	<edge name = "jm4" x = "442.8" y = "630" />
+    	<edge name = "jm4" x = "198" y = "499" />
+    	<edge name = "jm4" x = "441.6" y = "354.8" />
+        <edge name = "jm4" x = "199.2" y = "201.6" />
+    	<edge name = "jm6" x = "508" y = "54.8" />
+        <edge name = "jm8" x = "61" y = "630" />
+        <edge name = "jm8" x = "61" y = "354.8" />
+    	
+        <edge name = "circular1" x = "66" y = "869" />
+        
+        
+    	<edge name = "bowl4" x = "604.4" y = "690.4" />
+    	<edge name = "bowl5" x = "50" y = "556.4" />
+    	<edge name = "bowl6" x = "58.4" y = "283.2" />
+    	<edge name = "bowl1" x = "615" y = "442.4" />
+        
+        <edge name = "ellipse1" x = "586.2" y = "168" />
+    	
+    </stage>
+    <stage name = "81">
+    	<edge name = "cupEnd" x = "278.4" y = "960" />
+    	<edge name = "cupEnd" x = "504" y = "0" />
+    	
+    	
+        
+        <edge name = "jm8" x = "59.8" y = "776.4" />
+    	<edge name = "jm8" x = "283" y = "777.8" />
+    	<edge name = "jm8" x = "147.4" y = "672" />
+    	<edge name = "jm8" x = "413.8" y = "672" />
+        <edge name = "jm8" x = "631" y = "672" />
+        <edge name = "jm8" x = "59.8" y = "558" />
+    	<edge name = "jm8" x = "290.2" y = "558" />
+    	<edge name = "jm8" x = "524.2" y = "558" />
+    	<edge name = "jm8" x = "587.8" y = "409.2" />
+        <edge name = "jm8" x = "59.8" y = "258" />
+        
+        <edge name = "jm6" x = "575.2" y = "776.4" />
+    	<edge name = "jm4" x = "198" y = "406.8" />
+    	<edge name = "jm4" x = "445.2" y = "259.2" />
+    	<edge name = "jm6" x = "112" y = "100.8" />
+    	
+        <edge name = "plate3" x = "579" y = "849.8" />
+        <edge name = "plate2" x = "59" y = "849" />
+        <edge name = "plate2" x = "591" y = "482" />
+        <edge name = "plate3" x = "593" y = "331" />
+        <edge name = "plate2" x = "46" y = "173" />
+        <edge name = "plate1" x = "35" y = "630" />
+    </stage>
+    
+    <stage name = "82">
+    	<edge name = "cupEnd" x = "504" y = "960" />
+    	<edge name = "cupEnd" x = "402.7" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "488.4" y = "776.2" />
+    	<edge name = "jm4" x = "488.4" y = "658.1" />
+    	<edge name = "jm4" x = "196.1" y = "432" />
+    	<edge name = "jm4" x = "440.9" y = "302.4" />
+        <edge name = "jm4" x = "92.4" y = "85" />
+        
+    	<edge name = "jm8" x = "115.9" y = "657.4" />
+        <edge name = "jm8" x = "18" y = "539.3" />
+        <edge name = "jm8" x = "254.2" y = "539.3" />
+        <edge name = "jm8" x = "490.3" y = "539.3" />
+        <edge name = "jm8" x = "588.2" y = "432" />
+        <edge name = "jm8" x = "566.6" y = "84.2" />
+    	
+        <edge name = "circular1" x = "27.9" y = "180.3" />
+        
+        
+    	<edge name = "bowl5" x = "629.8" y = "834.2" />
+    	<edge name = "bowl5" x = "528.8" y = "597.8" />
+        <edge name = "bowl5" x = "27.2" y = "489.8" />
+    	<edge name = "bowl4" x = "104.4" y = "719.2" />
+    	<edge name = "bowl4" x = "579.6" y = "720.4" />
+    	<edge name = "bowl4" x = "597.6" y = "364" />
+        
+
+    	
+    </stage>
+    <stage name = "83">
+    	<edge name = "cupEnd" x = "402.7" y = "960" />
+    	<edge name = "cupEnd" x = "237.1" y = "0" />
+    	
+    	
+        
+        <edge name = "jm7" x = "42.8" y = "643.1" />
+    	<edge name = "jm7" x = "594.8" y = "527.2" />
+    	<edge name = "jm7" x = "594.8" y = "397.6" />
+    	<edge name = "jm7" x = "594.8" y = "282" />
+        <edge name = "jm7" x = "47" y = "282.9" />
+        <edge name = "jm7" x = "34.6" y = "55.8" />
+        
+        <edge name = "jm5" x = "473.9" y = "762" />
+    	<edge name = "jm4" x = "118.1" y = "527.2" />
+    	<edge name = "jm4" x = "118.1" y = "400" />
+    	<edge name = "jm5" x = "473.9" y = "164.4" />
+    	
+        <edge name = "ellipse2" x = "562.6" y = "874.4" />
+        <edge name = "ellipse1" x = "31.2" y = "167.8" />
+        <edge name = "bottle2" x = "6.8" y = "773.3" />
+        <edge name = "bowl4" x = "34" y = "590" />
+        <edge name = "bowl4" x = "37.6" y = "344" />
+        <edge name = "bowl4" x = "604" y = "344" />
+        <edge name = "bowl5" x = "39" y = "458.2" />
+        <edge name = "bowl5" x = "595.8" y = "455.8" />
+        <edge name = "bowl5" x = "569.4" y = "221.8" />
+    </stage>
+    
+    <stage name = "84">
+    	<edge name = "cupEnd" x = "237.1" y = "960" />
+    	<edge name = "cupEnd" x = "483.3" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "174.8" y = "770" />
+    	<edge name = "jm4" x = "174.8" y = "640" />
+    	<edge name = "jm4" x = "174.8" y = "500" />
+    	<edge name = "jm4" x = "174.8" y = "370" />
+        <edge name = "jm4" x = "174.8" y = "230" />
+    	<edge name = "jm4" x = "174.8" y = "100" />
+       
+    	
+        <edge name = "plate3" x = "105.4" y = "172.4" />
+        <edge name = "plate3" x = "173.8" y = "442.4" />
+        <edge name = "plate3" x = "140.2" y = "711.2" />
+        <edge name = "plate2" x = "119.8" y = "303.6" />
+        <edge name = "plate2" x = "119.8" y = "573.6" />
+        <edge name = "plate1" x = "103" y = "843.4" />
+    	
+    </stage>
+    <stage name = "85">
+    	<edge name = "cupEnd" x = "483.3" y = "960" />
+    	<edge name = "cupEnd" x = "185.7" y = "0" />
+    	
+    	
+        
+        <edge name = "jm5" x = "477" y = "771.6" />
+    	<edge name = "jm5" x = "143.2" y = "336" />
+    	<edge name = "jm5" x = "140.2" y = "192.4" />
+    	<edge name = "jm4" x = "168.6" y = "615.4" />
+     
+        
+        <edge name = "plate3" x = "76" y = "266" />
+        <edge name = "plate2" x = "44" y = "409" />
+        <edge name = "plate1" x = "592" y = "845" />
+        
+        <edge name = "bottle2" x = "-2" y = "744" />
+
+    </stage>
+    
+    <stage name = "86">
+    	<edge name = "cupEnd" x = "185.7" y = "960" />
+    	<edge name = "cupEnd" x = "371.7" y = "0" />
+    	
+    	
+        
+        <edge name = "jm5" x = "151.5" y = "763" />
+    	<edge name = "jm5" x = "556.5" y = "763" />
+    	<edge name = "jm5" x = "151.5" y = "667" />
+    	<edge name = "jm5" x = "557.5" y = "615" />
+        <edge name = "jm5" x = "151.5" y = "567" />
+    	<edge name = "jm5" x = "557.5" y = "473" />
+        <edge name = "jm5" x = "152.5" y = "473" />
+        <edge name = "jm5" x = "153.5" y = "241" />
+        
+        <edge name = "jm7" x = "356.6" y = "363.1" />
+        <edge name = "jm7" x = "549.6" y = "161.1" />
+        <edge name = "jm7" x = "163.6" y = "57.1" />
+    	
+        <edge name = "bowl2" x = "51" y = "849" />
+        
+        
+    	<edge name = "bowl1" x = "609" y = "248" />
+    	<edge name = "basket2" x = "53" y = "336" />
+    	
+        
+    	
+    </stage>
+    <stage name = "87">
+    	<edge name = "cupEnd" x = "371.7" y = "960" />
+    	<edge name = "cupEnd" x = "296.1" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "509.2" y = "757.9" />
+    	<edge name = "jm4" x = "208" y = "626.8" />
+    	<edge name = "jm4" x = "208" y = "494.8" />
+    	<edge name = "jm4" x = "509.2" y = "359.5" />
+        <edge name = "jm4" x = "206.6" y = "232.3" />
+        <edge name = "jm7" x = "95.2" y = "57.1" />
+    
+    	
+        <edge name = "bowl6" x = "577.8" y = "839.2" />
+        <edge name = "bowl4" x = "101.8" y = "687.4" />
+        <edge name = "bowl4" x = "101.8" y = "293.8" />
+        <edge name = "bowl5" x = "104" y = "552.4" />
+        <edge name = "bowl5" x = "573.2" y = "416.8" />
+    </stage>
+    
+    <stage name = "88">
+    	<edge name = "cupEnd" x = "296.1" y = "960" />
+    	<edge name = "cupEnd" x = "342.9" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "168.6" y = "769" />
+    	<edge name = "jm5" x = "495.1" y = "636.5" />
+    	<edge name = "jm5" x = "135.1" y = "506.9" />
+    	<edge name = "jm5" x = "135.1" y = "383" />
+        <edge name = "jm5" x = "556.3" y = "383.3" />
+    
+    	
+        <edge name = "bowl1" x = "61.2" y = "855.6" />
+        
+        
+    	<edge name = "bowl4" x = "57.4" y = "569.8" />
+    	<edge name = "bowl5" x = "568.4" y = "694" />
+    	<edge name = "bottle1" x = "607.2" y = "514.4" />
+        
+    	
+    </stage>
+    <stage name = "89">
+    	<edge name = "cupEnd" x = "342.9" y = "960" />
+    	<edge name = "cupEnd" x = "442.3" y = "0" />
+    	
+    	
+        
+        <edge name = "jm2" x = "170" y = "762" />
+    	<edge name = "jm2" x = "480" y = "609" />
+    	<edge name = "jm2" x = "170" y = "474" />
+    	<edge name = "jm2" x = "480" y = "325.9" />
+        <edge name = "jm4" x = "163.4" y = "183.5" />
+        
+        <edge name = "circular3" x = "75.1" y = "858.4" />
+    </stage>
+    
+    <stage name = "90">
+    	<edge name = "cupEnd" x = "442.3" y = "960" />
+    	<edge name = "cupEnd" x = "373.9" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "469.6" y = "787.9" />
+        
+    	<edge name = "jm7" x = "85.4" y = "786" />
+    	<edge name = "jm7" x = "140" y = "677" />
+    	<edge name = "jm7" x = "403" y = "675" />
+        <edge name = "jm7" x = "57" y = "557" />
+    	<edge name = "jm7" x = "317" y = "557" />
+        <edge name = "jm7" x = "569" y = "557" />
+    	<edge name = "jm7" x = "179" y = "445" />
+    	<edge name = "jm7" x = "449" y = "445" />
+        <edge name = "jm7" x = "43" y = "330" />
+    	<edge name = "jm7" x = "318" y = "330" />
+        <edge name = "jm7" x = "609" y = "330" />
+    	<edge name = "jm7" x = "176" y = "215" />
+    	<edge name = "jm7" x = "464" y = "215" />
+        <edge name = "jm7" x = "47" y = "103" />
+    	<edge name = "jm7" x = "552.8" y = "103" />
+    	   
+        
+    	<edge name = "bowl5" x = "594.4" y = "846.4" />
+    	<edge name = "bowl5" x = "34.8" y = "614.6" />
+    	<edge name = "bowl4" x = "590" y = "393.2" />
+    	<edge name = "bowl4" x = "49.8" y = "164.8" />
+        
+    	
+    </stage>
+    <stage name = "91">
+    	<edge name = "cupEnd" x = "373.9" y = "960" />
+    	<edge name = "cupEnd" x = "333.6" y = "0" />
+    	
+    	
+        
+        <edge name = "jm8" x = "330.6" y = "609.7" />
+        <edge name = "jm8" x = "330.6" y = "411" />
+
+        <edge name = "jm5" x = "435" y = "747" />
+    	<edge name = "jm5" x = "66" y = "512.5" />
+    	<edge name = "jm5" x = "610.2" y = "512.6" />
+        <edge name = "jm5" x = "66" y = "296" />
+        <edge name = "jm5" x = "610.2" y = "296" />
+    	<edge name = "jm5" x = "66" y = "150.7" />
+    	<edge name = "jm5" x = "610" y = "148" />
+ 
+        
+        <edge name = "bowl6" x = "531.7" y = "829.1" />
+    	<edge name = "bowl4" x = "54.3" y = "211.8" />
+    	<edge name = "basket2" x = "14.8" y = "390.7" />
+    </stage>
+    
+    <stage name = "92">
+    	<edge name = "cupEnd" x = "333.6" y = "960" />
+    	<edge name = "cupEnd" x = "250.8" y = "0" />
+    	
+    	
+        
+        <edge name = "jm5" x = "97.8" y = "793.8" />
+    	<edge name = "jm5" x = "517.8" y = "793.8" />
+        <edge name = "jm5" x = "64.2" y = "685.8" />
+    	<edge name = "jm5" x = "477" y = "685.8" />
+        <edge name = "jm5" x = "15" y = "575.4" />
+    	<edge name = "jm5" x = "438.6" y = "575" />
+        <edge name = "jm5" x = "63" y = "460.2" />
+    	<edge name = "jm5" x = "477" y = "459" />
+        <edge name = "jm5" x = "97.8" y = "345" />
+    	<edge name = "jm5" x = "517.8" y = "341.4" />
+        <edge name = "jm5" x = "157.8" y = "231" />
+    	<edge name = "jm5" x = "576.6" y = "231" />
+        <edge name = "jm5" x = "507" y = "103.8" />
+        <edge name = "jm8" x = "64.2" y = "52.9" />
+        
+    	<edge name = "basket1" x = "588.4" y = "888.4" />
+    	<edge name = "basket2" x = "65.2" y = "887.8" />
+    	<edge name = "bowl4" x = "568" y = "746.4" />
+    	<edge name = "bowl4" x = "64" y = "294" />
+    	<edge name = "bowl4" x = "587.2" y = "166.8" />
+    	<edge name = "bowl5" x = "67.2" y = "633.4" />
+    	<edge name = "bowl5" x = "592.8" y = "399.4" />
+        
+    	
+    </stage>
+    <stage name = "93">
+    	<edge name = "cupEnd" x = "250.8" y = "960" />
+    	<edge name = "cupEnd" x = "460.8u" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "160.4" y = "771.6" />
+    	<edge name = "jm4" x = "392" y = "612" />
+    	<edge name = "jm4" x = "247" y = "479" />
+    	<edge name = "jm5" x = "503.2" y = "336" />
+        <edge name = "jm5" x = "505.2" y = "175.6" />
+        <edge name = "jm8" x = "112.6" y = "404.7" />
+
+        <edge name = "radio1" x = "80.8" y = "858" />
+        <edge name = "ellipse2" x = "67" y = "591.6" />
+        <edge name = "circular1" x = "617.2" y = "432.2" />
+
+    </stage>
+    
+    <stage name = "94">
+    	<edge name = "cupEnd" x = "460.8" y = "960" />
+    	<edge name = "cupEnd" x = "457.8" y = "0" />
+    	
+    	
+        
+        <edge name = "jm4" x = "527" y = "761.1" />
+    	<edge name = "jm4" x = "152.7" y = "614" />
+    	<edge name = "jm4" x = "485" y = "467" />
+    	<edge name = "jm4" x = "152.7" y = "320" />
+        <edge name = "jm4" x = "558" y = "192" />
+    	<edge name = "jm4" x = "152.7" y = "82.7" />
+    	<edge name = "jm8" x = "57.5" y = "464.2" />
+
+    	
+        <edge name = "radio1" x = "632" y = "846" />
+        
+        
+    	<edge name = "bowl6" x = "606" y = "549" />
+    	<edge name = "bowl4" x = "61" y = "526" />
+    	<edge name = "bowl5" x = "609" y = "249" />
+
+
+    </stage>
+    <stage name = "95">
+    	<edge name = "cupEnd" x = "457.8" y = "960" />
+    	<edge name = "cupEnd" x = "316.8" y = "0" />
+    	
+    	
+        
+        <edge name = "jm7" x = "456.5" y = "788" />
+    	<edge name = "jm7" x = "400.5" y = "685" />
+    	<edge name = "jm7" x = "134.2" y = "645" />
+    	<edge name = "jm7" x = "324.1" y = "231.4" />
+        
+        <edge name = "jm5" x = "69" y = "118" />
+        <edge name = "jm5" x = "567" y = "118" />
+        
+    	<edge name = "jm8" x = "140.3" y = "787" />
+    	<edge name = "jm8" x = "636" y = "684" />
+    	<edge name = "jm8" x = "575" y = "589" />
+        <edge name = "jm8" x = "380" y = "544" />
+        <edge name = "jm8" x = "159.5" y = "512" />
+        <edge name = "jm8" x = "98.1" y = "339" />
+        <edge name = "jm8" x = "320.5" y = "339" />
+        <edge name = "jm8" x = "553.5" y = "339" />
+        <edge name = "jm8" x = "27.5" y = "230" />
+        <edge name = "jm8" x = "631.5" y = "230" />
+        
+
+        <edge name = "radio1" x = "137" y = "872" />
+    </stage>
+
+<stage name = "96">
+    <edge name = "cupEnd" x = "316.8" y = "960" />
+    <edge name = "cupEnd" x = "339.8" y = "0" />
+    
+    
+    
+    <edge name = "jm8" x = "60.5" y = "766" />
+    <edge name = "jm8" x = "621.5" y = "766" />
+    <edge name = "jm8" x = "42.5" y = "528" />
+    <edge name = "jm8" x = "254.6" y = "324.4" />
+    <edge name = "jm8" x = "584.5" y = "427" />
+    <edge name = "jm8" x = "134.5" y = "427" />
+    <edge name = "jm8" x = "353.5" y = "218" />
+    <edge name = "jm8" x = "567.5" y = "218" />
+    
+    <edge name = "jm6" x = "344.5" y = "768" />
+    <edge name = "jm6" x = "156.5" y = "649" />
+    <edge name = "jm6" x = "559.5" y = "529" />
+    <edge name = "jm6" x = "508.5" y = "321" />
+    <edge name = "jm6" x = "84.5" y = "216" />
+    <edge name = "jm6" x = "543.5" y = "101" />
+    <edge name = "jm6" x = "504.5" y = "649" />
+    
+    
+    <edge name = "bowl4" x = "61" y = "712" />
+    <edge name = "bowl4" x = "612" y = "163" />
+    <edge name = "bowl5" x = "602" y = "587" />
+    <edge name = "basket2" x = "643" y = "861" />
+    <edge name = "basket1" x = "37" y = "860" />
+</stage>
+
+<stage name = "97">
+    <edge name = "cupEnd" x = "339.8" y = "960" />
+    <edge name = "cupEnd" x = "465.8" y = "0" />
+    
+    
+    
+    <edge name = "jm5" x = "368.5" y = "767" />
+    <edge name = "jm5" x = "59" y = "635.5" />
+    <edge name = "jm5" x = "66" y = "296" />
+    <edge name = "jm5" x = "610.2" y = "296" />
+    <edge name = "jm5" x = "66" y = "173.7" />
+    <edge name = "jm5" x = "610" y = "171" />
+    
+    <edge name = "jm8" x = "535" y = "640" />
+    <edge name = "jm8" x = "334" y = "572" />
+    <edge name = "jm8" x = "532" y = "488" />
+    <edge name = "jm8" x = "93" y = "420" />
+    <edge name = "jm8" x = "334" y = "420" />
+    
+    <edge name = "bowl4" x = "54" y = "698" />
+    <edge name = "bowl4" x = "54" y = "236" />
+    <edge name = "circular3" x = "606" y = "393" />
+    
+    
+</stage>
+<stage name = "98">
+    <edge name = "cupEnd" x = "465.8" y = "960" />
+    <edge name = "cupEnd" x = "303.8" y = "0" />
+    
+    
+    
+    <edge name = "jm8" x = "102.4" y = "270.8" />
+    <edge name = "jm8" x = "320.8" y = "270.8" />
+    <edge name = "jm8" x = "538" y = "270.8" />
+    <edge name = "jm8" x = "209.2" y = "161.6" />
+    <edge name = "jm8" x = "439.6" y = "161.6" />
+    <edge name = "jm8" x = "119.2" y = "58.4" />
+    <edge name = "jm8" x = "486.4" y = "58.4" />
+    
+</stage>
+
+<stage name = "99">
+    <edge name = "cupEnd" x = "303.8" y = "960" />
+    <edge name = "cupEnd" x = "316.8" y = "0" />
+    
+    
+    
+    <edge name = "jm6" x = "3" y = "572" />
+    <edge name = "jm6" x = "346" y = "285" />
+    <edge name = "jm6" x = "92" y = "26" />
+    <edge name = "jm5" x = "576.8" y = "6.4" />
+    
+    <edge name = "jm3" x = "493" y = "503" />
+    <edge name = "jm8" x = "364.8" y = "152.8" />
+    
+    
+    <edge name = "trianglex" x = "616.4" y = "903.1" />
+    <edge name = "books1" x = "510" y = "902" />
+    <edge name = "boxA" x = "571" y = "785" />
+    <edge name = "drawer1" x = "607.7" y = "624.4" />
+    <edge name = "drawer3" x = "471" y = "625" />
+    <edge name = "bee" x = "430" y = "811.1" />
+    <edge name = "smallbottle2" x = "341" y = "704" />
+    <edge name = "squarebox3" x = "342" y = "590.2" />
+    
+    <edge name = "box4" x = "108.7" y = "859.7" />
+    <edge name = "rectanglebox5" x = "50.3" y = "706.5" />
+    
+    <edge name = "drawer4" x = "57.9" y = "471" />
+    <edge name = "box2" x = "63.8" y = "356.7" />
+    <edge name = "box1" x = "72.4" y = "268.9" />
+    <edge name = "folder6" x = "90.4" y = "138" />
+    
+    <edge name = "ellipse1" x = "288" y = "397" />
+    <edge name = "bowl1" x = "390.5" y = "373.7" />
+    
+    <edge name = "plate3" x = "365" y = "224.8" />
+    
+    <edge name = "middlebottle1" x = "525.2" y = "317.6" />
+    <edge name = "middlebottle2" x = "626.4" y = "333.2" />
+    
+    <edge name = "bottle2" x = "624" y = "136" />
+    <edge name = "middlebottle3" x = "519" y = "126" />
+
+    <edge name = "highbottle3" x = "454" y = "143" />
+    <edge name = "circular3" x = "566" y = "105" />
+    <edge name = "bowl6" x = "524" y = "413" />
+
+
+
+ 
+</stage>
+<stage name = "100">
+    <edge name = "cupEnd" x = "316.8" y = "960" />
+    
+    
+    <edge name = "jm7" x = "149.5" y = "751" />
+    <edge name = "jm7" x = "486.5" y = "751" />
+    <edge name = "jm7" x = "149.5" y = "589" />
+    <edge name = "jm7" x = "484.5" y = "589" />
+    
+    <edge name = "radio1" x = "148" y = "837" />
+    <edge name = "radio1" x = "487" y = "837" />
+    <edge name = "radio1" x = "148" y = "675" />
+    <edge name = "radio1" x = "487" y = "675" />
+
+</stage>
+
+</stages>

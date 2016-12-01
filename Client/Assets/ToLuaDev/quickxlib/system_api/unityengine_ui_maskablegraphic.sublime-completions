@@ -1,0 +1,23 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"UnityEngine.UI.MaskableGraphic.__eq()",
+		"UnityEngine.UI.MaskableGraphic.__tostring()",
+		"UnityEngine.UI.MaskableGraphic.onCullStateChanged",
+		"UnityEngine.UI.MaskableGraphic.maskable",
+		"UnityEngine.UI.MaskableGraphic.GetModifiedMaterial",
+		{ "trigger": "UnityEngine.UI.MaskableGraphic.GetModifiedMaterial(UnityEngine.Material:baseMaterial)","contents": "UnityEngine.UI.MaskableGraphic.GetModifiedMaterial(${1:UnityEngine.Material:baseMaterial})"},
+		"UnityEngine.UI.MaskableGraphic.Cull",
+		{ "trigger": "UnityEngine.UI.MaskableGraphic.Cull(UnityEngine.Rect:clipRect,System.Boolean:validRect)","contents": "UnityEngine.UI.MaskableGraphic.Cull(${1:UnityEngine.Rect:clipRect},${2:System.Boolean:validRect})"},
+		"UnityEngine.UI.MaskableGraphic.SetClipRect",
+		{ "trigger": "UnityEngine.UI.MaskableGraphic.SetClipRect(UnityEngine.Rect:clipRect,System.Boolean:validRect)","contents": "UnityEngine.UI.MaskableGraphic.SetClipRect(${1:UnityEngine.Rect:clipRect},${2:System.Boolean:validRect})"},
+		"UnityEngine.UI.MaskableGraphic.RecalculateClipping",
+		{ "trigger": "UnityEngine.UI.MaskableGraphic.RecalculateClipping()","contents": "UnityEngine.UI.MaskableGraphic.RecalculateClipping()"},
+		"UnityEngine.UI.MaskableGraphic.RecalculateMasking",
+		{ "trigger": "UnityEngine.UI.MaskableGraphic.RecalculateMasking()","contents": "UnityEngine.UI.MaskableGraphic.RecalculateMasking()"},
+		"UnityEngine.UI.MaskableGraphic.op_Equality",
+		{ "trigger": "UnityEngine.UI.MaskableGraphic.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "UnityEngine.UI.MaskableGraphic.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+	]
+}
+

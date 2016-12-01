@@ -1,0 +1,675 @@
+fileFormatVersion: 2
+guid: 66ee1149d353644908a6db4999d64914
+timeCreated: 1473952378
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: plate1.png
+    21300002: plate2.png
+    21300004: plate3.png
+    21300006: radio1.png
+    21300008: rectanglebox4.png
+    21300010: rectanglebox5.png
+    21300012: rectanglebox6.png
+    21300014: redboy1.png
+    21300016: redboy2.png
+    21300018: redboy3.png
+    21300020: redboy4.png
+    21300022: redboybg.png
+    21300024: smallbottle1.png
+    21300026: smallbottle2.png
+    21300028: smallbottle3.png
+    21300030: squarebox1.png
+    21300032: squarebox2.png
+    21300034: squarebox3.png
+    21300036: triangle.png
+    21300038: triangleGreen.png
+    21300040: trianglex.png
+    21300042: ufo_gls.png
+    21300044: ufo_h_1.png
+    21300046: ufo_h_2.png
+    21300048: win5.png
+    21300050: win52.png
+    21300052: win53.png
+    21300054: winblue.png
+    21300056: winblue2.png
+    21300058: winblue3.png
+    21300060: wingreen.png
+    21300062: wingreen2.png
+    21300064: wingreen3.png
+    21300066: winred.png
+    21300068: winred2.png
+    21300070: winred3.png
+    21300072: winyel.png
+    21300074: winyel2.png
+    21300076: winyel3.png
+    21300078: yellowboy1.png
+    21300080: yellowboy2.png
+    21300082: yellowboy3.png
+    21300084: yellowboy4.png
+    21300086: yellowboybg.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plate1.png
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 21
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 856, y: 71}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plate2.png
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 3
+        width: 100
+        height: 118
+      alignment: 0
+      pivot: {x: 754, y: 62}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plate3.png
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 790
+        width: 132
+        height: 100
+      alignment: 0
+      pivot: {x: 540, y: 840}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: radio1.png
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 172
+        width: 125
+        height: 205
+      alignment: 0
+      pivot: {x: 922.5, y: 274.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: rectanglebox4.png
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 379
+        width: 188
+        height: 179
+      alignment: 0
+      pivot: {x: 927, y: 468.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: rectanglebox5.png
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 386
+        width: 223
+        height: 182
+      alignment: 0
+      pivot: {x: 349.5, y: 477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: rectanglebox6.png
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 542
+        width: 190
+        height: 186
+      alignment: 0
+      pivot: {x: 141, y: 635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: redboy1.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 610
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 17, y: 624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: redboy2.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 640
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 17, y: 654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: redboy3.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 670
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 17, y: 684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: redboy4.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 700
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 17, y: 714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: redboybg.png
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 334
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 184, y: 356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: smallbottle1.png
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 123
+        width: 129
+        height: 103
+      alignment: 0
+      pivot: {x: 793.5, y: 174.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: smallbottle2.png
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 123
+        width: 129
+        height: 103
+      alignment: 0
+      pivot: {x: 662.5, y: 174.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: smallbottle3.png
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 584
+        width: 129
+        height: 204
+      alignment: 0
+      pivot: {x: 538.5, y: 686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: squarebox1.png
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 241
+        width: 128
+        height: 133
+      alignment: 0
+      pivot: {x: 516, y: 307.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: squarebox2.png
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 118
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 535, y: 178.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: squarebox3.png
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 376
+        width: 133
+        height: 129
+      alignment: 0
+      pivot: {x: 529.5, y: 440.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: triangle.png
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 3
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 645.5, y: 59.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: triangleGreen.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 79
+        height: 145
+      alignment: 0
+      pivot: {x: 41.5, y: 76.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: trianglex.png
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 3
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 530.5, y: 59.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ufo_gls.png
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 507
+        width: 135
+        height: 75
+      alignment: 0
+      pivot: {x: 533.5, y: 544.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ufo_h_1.png
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 892
+        width: 301
+        height: 130
+      alignment: 0
+      pivot: {x: 455.5, y: 957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ufo_h_2.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 892
+        width: 301
+        height: 130
+      alignment: 0
+      pivot: {x: 152.5, y: 957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win5.png
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 228
+        width: 220
+        height: 154
+      alignment: 0
+      pivot: {x: 708, y: 305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win52.png
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 570
+        width: 226
+        height: 158
+      alignment: 0
+      pivot: {x: 351, y: 649}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win53.png
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 700
+        width: 234
+        height: 160
+      alignment: 0
+      pivot: {x: 725, y: 780}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: winblue.png
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 8
+        width: 154
+        height: 220
+      alignment: 0
+      pivot: {x: 395, y: 118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: winblue2.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 380
+        width: 226
+        height: 158
+      alignment: 0
+      pivot: {x: 115, y: 459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: winblue3.png
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 730
+        width: 234
+        height: 160
+      alignment: 0
+      pivot: {x: 355, y: 810}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: wingreen.png
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 8
+        width: 154
+        height: 220
+      alignment: 0
+      pivot: {x: 239, y: 118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: wingreen2.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 151
+        width: 158
+        height: 226
+      alignment: 0
+      pivot: {x: 81, y: 264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: wingreen3.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 730
+        width: 234
+        height: 160
+      alignment: 0
+      pivot: {x: 119, y: 810}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: winred.png
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 230
+        width: 220
+        height: 154
+      alignment: 0
+      pivot: {x: 340, y: 307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: winred2.png
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 540
+        width: 226
+        height: 158
+      alignment: 0
+      pivot: {x: 718, y: 619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: winred3.png
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 788
+        width: 160
+        height: 234
+      alignment: 0
+      pivot: {x: 924, y: 905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: winyel.png
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 384
+        width: 220
+        height: 154
+      alignment: 0
+      pivot: {x: 713, y: 461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: winyel2.png
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 560
+        width: 158
+        height: 226
+      alignment: 0
+      pivot: {x: 923, y: 673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: winyel3.png
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 862
+        width: 234
+        height: 160
+      alignment: 0
+      pivot: {x: 725, y: 942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yellowboy1.png
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 336
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 218, y: 346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yellowboy2.png
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 358
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 218, y: 368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yellowboy3.png
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 588
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 34, y: 598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yellowboy4.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 588
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 12, y: 598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yellowboybg.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 540
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 23, y: 561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

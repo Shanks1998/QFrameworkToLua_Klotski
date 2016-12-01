@@ -1,0 +1,13 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local LightType = UnityEngine.LightType",
+		"LightType = UnityEngine.LightType",
+		"UnityEngine.LightType.Spot",
+		"UnityEngine.LightType.Directional",
+		"UnityEngine.LightType.Point",
+		"UnityEngine.LightType.Area",
+	]
+}
+

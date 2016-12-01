@@ -1,0 +1,14 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"UnityEngine.Events.UnityEvent<bool>.__tostring()",
+		"UnityEngine.Events.UnityEvent<bool>.AddListener",
+		{ "trigger": "UnityEngine.Events.UnityEvent<bool>.AddListener(UnityEngine.Events.UnityAction`1[System.Boolean]:call)","contents": "UnityEngine.Events.UnityEvent<bool>.AddListener(${1:UnityEngine.Events.UnityAction`1[System.Boolean]:call})"},
+		"UnityEngine.Events.UnityEvent<bool>.RemoveListener",
+		{ "trigger": "UnityEngine.Events.UnityEvent<bool>.RemoveListener(UnityEngine.Events.UnityAction`1[System.Boolean]:call)","contents": "UnityEngine.Events.UnityEvent<bool>.RemoveListener(${1:UnityEngine.Events.UnityAction`1[System.Boolean]:call})"},
+		"UnityEngine.Events.UnityEvent<bool>.Invoke",
+		{ "trigger": "UnityEngine.Events.UnityEvent<bool>.Invoke(System.Boolean:arg0)","contents": "UnityEngine.Events.UnityEvent<bool>.Invoke(${1:System.Boolean:arg0})"},
+	]
+}
+

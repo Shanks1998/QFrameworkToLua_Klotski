@@ -1,0 +1,15 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local WrapMode = UnityEngine.WrapMode",
+		"WrapMode = UnityEngine.WrapMode",
+		"UnityEngine.WrapMode.Once",
+		"UnityEngine.WrapMode.Loop",
+		"UnityEngine.WrapMode.PingPong",
+		"UnityEngine.WrapMode.Default",
+		"UnityEngine.WrapMode.ClampForever",
+		"UnityEngine.WrapMode.Clamp",
+	]
+}
+

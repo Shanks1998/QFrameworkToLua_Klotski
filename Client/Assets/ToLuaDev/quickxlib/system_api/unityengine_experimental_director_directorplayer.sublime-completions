@@ -1,0 +1,24 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"UnityEngine.Experimental.Director.DirectorPlayer.__eq()",
+		"UnityEngine.Experimental.Director.DirectorPlayer.__tostring()",
+		{ "trigger": "UnityEngine.Experimental.Director.DirectorPlayer.New()","contents": "UnityEngine.Experimental.Director.DirectorPlayer.New()"},
+		"UnityEngine.Experimental.Director.DirectorPlayer.Play",
+		{ "trigger": "UnityEngine.Experimental.Director.DirectorPlayer.Play(UnityEngine.Experimental.Director.Playable:pStruct)","contents": "UnityEngine.Experimental.Director.DirectorPlayer.Play(${1:UnityEngine.Experimental.Director.Playable:pStruct})"},
+		"UnityEngine.Experimental.Director.DirectorPlayer.Stop",
+		{ "trigger": "UnityEngine.Experimental.Director.DirectorPlayer.Stop()","contents": "UnityEngine.Experimental.Director.DirectorPlayer.Stop()"},
+		"UnityEngine.Experimental.Director.DirectorPlayer.SetTime",
+		{ "trigger": "UnityEngine.Experimental.Director.DirectorPlayer.SetTime(System.Double:time)","contents": "UnityEngine.Experimental.Director.DirectorPlayer.SetTime(${1:System.Double:time})"},
+		"UnityEngine.Experimental.Director.DirectorPlayer.GetTime",
+		{ "trigger": "UnityEngine.Experimental.Director.DirectorPlayer.GetTime()","contents": "UnityEngine.Experimental.Director.DirectorPlayer.GetTime()"},
+		"UnityEngine.Experimental.Director.DirectorPlayer.SetTimeUpdateMode",
+		{ "trigger": "UnityEngine.Experimental.Director.DirectorPlayer.SetTimeUpdateMode(UnityEngine.Experimental.Director.DirectorUpdateMode:mode)","contents": "UnityEngine.Experimental.Director.DirectorPlayer.SetTimeUpdateMode(${1:UnityEngine.Experimental.Director.DirectorUpdateMode:mode})"},
+		"UnityEngine.Experimental.Director.DirectorPlayer.GetTimeUpdateMode",
+		{ "trigger": "UnityEngine.Experimental.Director.DirectorPlayer.GetTimeUpdateMode()","contents": "UnityEngine.Experimental.Director.DirectorPlayer.GetTimeUpdateMode()"},
+		"UnityEngine.Experimental.Director.DirectorPlayer.op_Equality",
+		{ "trigger": "UnityEngine.Experimental.Director.DirectorPlayer.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "UnityEngine.Experimental.Director.DirectorPlayer.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+	]
+}
+

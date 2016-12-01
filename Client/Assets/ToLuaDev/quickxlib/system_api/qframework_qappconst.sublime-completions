@@ -1,0 +1,28 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local QAppConst = QFramework.QAppConst",
+		"QAppConst = QFramework.QAppConst",
+		"QFramework.QAppConst.__tostring()",
+		"QFramework.QAppConst.DebugMode",
+		"QAppConst.DebugMode",
+		"QFramework.QAppConst.UpdateMode",
+		"QAppConst.UpdateMode",
+		"QFramework.QAppConst.LuaByteMode",
+		"QAppConst.LuaByteMode",
+		"QFramework.QAppConst.LuaBundleMode",
+		"QAppConst.LuaBundleMode",
+		"QFramework.QAppConst.GameFrameRate",
+		"QAppConst.GameFrameRate",
+		"QFramework.QAppConst.LuaTempDir",
+		"QAppConst.LuaTempDir",
+		"QFramework.QAppConst.AppPrefix",
+		"QAppConst.AppPrefix",
+		"QFramework.QAppConst.ExtName",
+		"QAppConst.ExtName",
+		{ "trigger": "QFramework.QAppConst.New()","contents": "QFramework.QAppConst.New()"},
+		{ "trigger": "QAppConst.New()","contents": "QAppConst.New()"},
+	]
+}
+

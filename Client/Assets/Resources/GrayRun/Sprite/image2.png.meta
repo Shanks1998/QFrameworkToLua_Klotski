@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 9560f81816e8947e9a56374ff997f84d
+timeCreated: 1474013196
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 0_0006_7.png
+    21300002: 0_0008_8.png
+    21300004: 0_0009_9.png
+    21300006: 0_0010_10.png
+    21300008: B-S.png
+    21300010: allclear.png
+    21300012: b-h.png
+    21300014: b-x.png
+    21300016: back.png
+    21300018: basket1.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 0_0006_7.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 518
+        width: 506
+        height: 504
+      alignment: 0
+      pivot: {x: 255, y: 770}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 0_0008_8.png
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 364
+        width: 502
+        height: 314
+      alignment: 0
+      pivot: {x: 761, y: 521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 0_0009_9.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 54
+        width: 501
+        height: 462
+      alignment: 0
+      pivot: {x: 252.5, y: 285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 0_0010_10.png
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 680
+        width: 506
+        height: 342
+      alignment: 0
+      pivot: {x: 763, y: 851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: B-S.png
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 36
+        width: 245
+        height: 52
+      alignment: 0
+      pivot: {x: 874.5, y: 62}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: allclear.png
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 108
+        width: 310
+        height: 254
+      alignment: 0
+      pivot: {x: 660, y: 235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: b-h.png
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 117
+        width: 52
+        height: 245
+      alignment: 0
+      pivot: {x: 994, y: 239.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: b-x.png
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 54
+        width: 245
+        height: 52
+      alignment: 0
+      pivot: {x: 627.5, y: 80}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: back.png
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 90
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 866, y: 120}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: basket1.png
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 152
+        width: 149
+        height: 210
+      alignment: 0
+      pivot: {x: 891.5, y: 257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"UnityEngine.EventSystems.UIBehaviour.__eq()",
+		"UnityEngine.EventSystems.UIBehaviour.__tostring()",
+		"UnityEngine.EventSystems.UIBehaviour.IsActive",
+		{ "trigger": "UnityEngine.EventSystems.UIBehaviour.IsActive()","contents": "UnityEngine.EventSystems.UIBehaviour.IsActive()"},
+		"UnityEngine.EventSystems.UIBehaviour.IsDestroyed",
+		{ "trigger": "UnityEngine.EventSystems.UIBehaviour.IsDestroyed()","contents": "UnityEngine.EventSystems.UIBehaviour.IsDestroyed()"},
+		"UnityEngine.EventSystems.UIBehaviour.op_Equality",
+		{ "trigger": "UnityEngine.EventSystems.UIBehaviour.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "UnityEngine.EventSystems.UIBehaviour.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+	]
+}
+

@@ -1,0 +1,34 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local CCLayerRGBA = Cocos2d.CCLayerRGBA",
+		"CCLayerRGBA = Cocos2d.CCLayerRGBA",
+		"Cocos2d.CCLayerRGBA.__tostring()",
+		"Cocos2d.CCLayerRGBA.cascadeOpacityEnabled",
+		"cCLayerRGBA.cascadeOpacityEnabled",
+		"Cocos2d.CCLayerRGBA.cascadeColorEnabled",
+		"cCLayerRGBA.cascadeColorEnabled",
+		"Cocos2d.CCLayerRGBA.opacityModifyRGB",
+		"cCLayerRGBA.opacityModifyRGB",
+		"Cocos2d.CCLayerRGBA.opacity",
+		"cCLayerRGBA.opacity",
+		"Cocos2d.CCLayerRGBA.displayedOpacity",
+		"cCLayerRGBA.displayedOpacity",
+		"Cocos2d.CCLayerRGBA.displayedColor",
+		"cCLayerRGBA.displayedColor",
+		"Cocos2d.CCLayerRGBA.color",
+		"cCLayerRGBA.color",
+		{ "trigger": "Cocos2d.CCLayerRGBA.New()","contents": "Cocos2d.CCLayerRGBA.New()"},
+		{ "trigger": "CCLayerRGBA.New()","contents": "CCLayerRGBA.New()"},
+		"Cocos2d.CCLayerRGBA.updateDisplayedOpacity",
+		{ "trigger": "Cocos2d.CCLayerRGBA.updateDisplayedOpacity(System.Byte:parentOpacity)","contents": "Cocos2d.CCLayerRGBA.updateDisplayedOpacity(${1:System.Byte:parentOpacity})"},
+		{ "trigger": ":updateDisplayedOpacity(System.Byte:parentOpacity)","contents": "updateDisplayedOpacity(${1:System.Byte:parentOpacity})"},
+		{ "trigger": "cCLayerRGBA:updateDisplayedOpacity(System.Byte:parentOpacity)","contents": "cCLayerRGBA:updateDisplayedOpacity(${1:System.Byte:parentOpacity})"},
+		"Cocos2d.CCLayerRGBA.updateDisplayedColor",
+		{ "trigger": "Cocos2d.CCLayerRGBA.updateDisplayedColor(UnityEngine.Color32:parentColor)","contents": "Cocos2d.CCLayerRGBA.updateDisplayedColor(${1:UnityEngine.Color32:parentColor})"},
+		{ "trigger": ":updateDisplayedColor(UnityEngine.Color32:parentColor)","contents": "updateDisplayedColor(${1:UnityEngine.Color32:parentColor})"},
+		{ "trigger": "cCLayerRGBA:updateDisplayedColor(UnityEngine.Color32:parentColor)","contents": "cCLayerRGBA:updateDisplayedColor(${1:UnityEngine.Color32:parentColor})"},
+	]
+}
+

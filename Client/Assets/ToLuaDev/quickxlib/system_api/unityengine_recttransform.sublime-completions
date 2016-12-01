@@ -1,0 +1,63 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local RectTransform = UnityEngine.RectTransform",
+		"RectTransform = UnityEngine.RectTransform",
+		"UnityEngine.RectTransform.__eq()",
+		"UnityEngine.RectTransform.__tostring()",
+		"UnityEngine.RectTransform.rect",
+		"rectTransform.rect",
+		"UnityEngine.RectTransform.anchorMin",
+		"rectTransform.anchorMin",
+		"UnityEngine.RectTransform.anchorMax",
+		"rectTransform.anchorMax",
+		"UnityEngine.RectTransform.anchoredPosition3D",
+		"rectTransform.anchoredPosition3D",
+		"UnityEngine.RectTransform.anchoredPosition",
+		"rectTransform.anchoredPosition",
+		"UnityEngine.RectTransform.sizeDelta",
+		"rectTransform.sizeDelta",
+		"UnityEngine.RectTransform.pivot",
+		"rectTransform.pivot",
+		"UnityEngine.RectTransform.offsetMin",
+		"rectTransform.offsetMin",
+		"UnityEngine.RectTransform.offsetMax",
+		"rectTransform.offsetMax",
+		"UnityEngine.RectTransform.reapplyDrivenProperties",
+		"rectTransform.reapplyDrivenProperties",
+		"UnityEngine.RectTransform.UnityEngine_RectTransform_ReapplyDrivenProperties",
+		"RectTransform.UnityEngine_RectTransform_ReapplyDrivenProperties",
+		{ "trigger": "UnityEngine.RectTransform.New()","contents": "UnityEngine.RectTransform.New()"},
+		{ "trigger": "RectTransform.New()","contents": "RectTransform.New()"},
+		"UnityEngine.RectTransform.GetLocalCorners",
+		{ "trigger": "UnityEngine.RectTransform.GetLocalCorners(UnityEngine.Vector3[]:fourCornersArray)","contents": "UnityEngine.RectTransform.GetLocalCorners(${1:UnityEngine.Vector3[]:fourCornersArray})"},
+		{ "trigger": ":GetLocalCorners(UnityEngine.Vector3[]:fourCornersArray)","contents": "GetLocalCorners(${1:UnityEngine.Vector3[]:fourCornersArray})"},
+		{ "trigger": "rectTransform:GetLocalCorners(UnityEngine.Vector3[]:fourCornersArray)","contents": "rectTransform:GetLocalCorners(${1:UnityEngine.Vector3[]:fourCornersArray})"},
+		"UnityEngine.RectTransform.GetWorldCorners",
+		{ "trigger": "UnityEngine.RectTransform.GetWorldCorners(UnityEngine.Vector3[]:fourCornersArray)","contents": "UnityEngine.RectTransform.GetWorldCorners(${1:UnityEngine.Vector3[]:fourCornersArray})"},
+		{ "trigger": ":GetWorldCorners(UnityEngine.Vector3[]:fourCornersArray)","contents": "GetWorldCorners(${1:UnityEngine.Vector3[]:fourCornersArray})"},
+		{ "trigger": "rectTransform:GetWorldCorners(UnityEngine.Vector3[]:fourCornersArray)","contents": "rectTransform:GetWorldCorners(${1:UnityEngine.Vector3[]:fourCornersArray})"},
+		"UnityEngine.RectTransform.SetInsetAndSizeFromParentEdge",
+		{ "trigger": "UnityEngine.RectTransform.SetInsetAndSizeFromParentEdge(UnityEngine.RectTransform+Edge:edge,System.Single:inset,System.Single:size)","contents": "UnityEngine.RectTransform.SetInsetAndSizeFromParentEdge(${1:UnityEngine.RectTransform+Edge:edge},${2:System.Single:inset},${3:System.Single:size})"},
+		{ "trigger": ":SetInsetAndSizeFromParentEdge(UnityEngine.RectTransform+Edge:edge,System.Single:inset,System.Single:size)","contents": "SetInsetAndSizeFromParentEdge(${1:UnityEngine.RectTransform+Edge:edge},${2:System.Single:inset},${3:System.Single:size})"},
+		{ "trigger": "rectTransform:SetInsetAndSizeFromParentEdge(UnityEngine.RectTransform+Edge:edge,System.Single:inset,System.Single:size)","contents": "rectTransform:SetInsetAndSizeFromParentEdge(${1:UnityEngine.RectTransform+Edge:edge},${2:System.Single:inset},${3:System.Single:size})"},
+		"UnityEngine.RectTransform.SetSizeWithCurrentAnchors",
+		{ "trigger": "UnityEngine.RectTransform.SetSizeWithCurrentAnchors(UnityEngine.RectTransform+Axis:axis,System.Single:size)","contents": "UnityEngine.RectTransform.SetSizeWithCurrentAnchors(${1:UnityEngine.RectTransform+Axis:axis},${2:System.Single:size})"},
+		{ "trigger": ":SetSizeWithCurrentAnchors(UnityEngine.RectTransform+Axis:axis,System.Single:size)","contents": "SetSizeWithCurrentAnchors(${1:UnityEngine.RectTransform+Axis:axis},${2:System.Single:size})"},
+		{ "trigger": "rectTransform:SetSizeWithCurrentAnchors(UnityEngine.RectTransform+Axis:axis,System.Single:size)","contents": "rectTransform:SetSizeWithCurrentAnchors(${1:UnityEngine.RectTransform+Axis:axis},${2:System.Single:size})"},
+		"UnityEngine.RectTransform.op_Equality",
+		{ "trigger": "UnityEngine.RectTransform.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "UnityEngine.RectTransform.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+		{ "trigger": "RectTransform.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "RectTransform.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+
+	[MonoPInvokeCallbackAttribute(typeof(LuaCSFunction))]
+	static int get_reapplyDrivenProperties(IntPtr L)
+	{
+		ToLua.Push(L, new EventObject("UnityEngine.RectTransform.reapplyDrivenProperties"));
+		return 1;
+	}
+		"UnityEngine.RectTransform.ReapplyDrivenProperties",
+		"RectTransform.ReapplyDrivenProperties",
+	]
+}
+

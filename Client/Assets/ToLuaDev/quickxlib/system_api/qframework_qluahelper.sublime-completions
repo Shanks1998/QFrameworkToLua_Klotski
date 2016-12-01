@@ -1,0 +1,18 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local QLuaHelper = QFramework.QLuaHelper",
+		"QLuaHelper = QFramework.QLuaHelper",
+		"QFramework.QLuaHelper.GetType",
+		{ "trigger": "QFramework.QLuaHelper.GetType(System.String:classname)","contents": "QFramework.QLuaHelper.GetType(${1:System.String:classname})"},
+		{ "trigger": "QLuaHelper.GetType(System.String:classname)","contents": "QLuaHelper.GetType(${1:System.String:classname})"},
+		"QFramework.QLuaHelper.OnCallLuaFunc",
+		{ "trigger": "QFramework.QLuaHelper.OnCallLuaFunc(LuaInterface.LuaByteBuffer:data,LuaInterface.LuaFunction:func)","contents": "QFramework.QLuaHelper.OnCallLuaFunc(${1:LuaInterface.LuaByteBuffer:data},${2:LuaInterface.LuaFunction:func})"},
+		{ "trigger": "QLuaHelper.OnCallLuaFunc(LuaInterface.LuaByteBuffer:data,LuaInterface.LuaFunction:func)","contents": "QLuaHelper.OnCallLuaFunc(${1:LuaInterface.LuaByteBuffer:data},${2:LuaInterface.LuaFunction:func})"},
+		"QFramework.QLuaHelper.OnJsonCallFunc",
+		{ "trigger": "QFramework.QLuaHelper.OnJsonCallFunc(System.String:data,LuaInterface.LuaFunction:func)","contents": "QFramework.QLuaHelper.OnJsonCallFunc(${1:System.String:data},${2:LuaInterface.LuaFunction:func})"},
+		{ "trigger": "QLuaHelper.OnJsonCallFunc(System.String:data,LuaInterface.LuaFunction:func)","contents": "QLuaHelper.OnJsonCallFunc(${1:System.String:data},${2:LuaInterface.LuaFunction:func})"},
+	]
+}
+

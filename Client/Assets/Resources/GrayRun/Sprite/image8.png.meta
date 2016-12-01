@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: 1efa15f0b740e4819be40ebd7935371c
+timeCreated: 1473952374
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: basket3.png
+    21300002: bee.png
+    21300004: books1.png
+    21300006: books2.png
+    21300008: bottle1.png
+    21300010: bottle2.png
+    21300012: bottle3.png
+    21300014: bowl1.png
+    21300016: bowl2.png
+    21300018: bowl3.png
+    21300020: bowl4.png
+    21300022: bowl5.png
+    21300024: bowl6.png
+    21300026: box1.png
+    21300028: box2.png
+    21300030: box3.png
+    21300032: box4.png
+    21300034: box5.png
+    21300036: box6.png
+    21300038: boxA.png
+    21300040: boxG.png
+    21300042: boxGx.png
+    21300044: ellipse1.png
+    21300046: game_over_bg.png
+    21300048: home_jq_sd.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: basket3.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8
+        width: 211
+        height: 200
+      alignment: 0
+      pivot: {x: 107.5, y: 108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bee.png
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 23
+        width: 175
+        height: 51
+      alignment: 0
+      pivot: {x: 302.5, y: 48.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: books1.png
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 39
+        width: 103
+        height: 114
+      alignment: 0
+      pivot: {x: 891.5, y: 96}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: books2.png
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 151
+        width: 105
+        height: 240
+      alignment: 0
+      pivot: {x: 719.5, y: 271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bottle1.png
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 76
+        width: 218
+        height: 132
+      alignment: 0
+      pivot: {x: 324, y: 142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bottle2.png
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 747
+        width: 216
+        height: 128
+      alignment: 0
+      pivot: {x: 903, y: 811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bottle3.png
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 615
+        width: 216
+        height: 130
+      alignment: 0
+      pivot: {x: 899, y: 680}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bowl1.png
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 79
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 591.5, y: 144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bowl2.png
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 484
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 887, y: 548.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bowl3.png
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 274
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 931, y: 337.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bowl4.png
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 403
+        width: 121
+        height: 79
+      alignment: 0
+      pivot: {x: 883.5, y: 442.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bowl5.png
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 38
+        width: 71
+        height: 115
+      alignment: 0
+      pivot: {x: 980.5, y: 95.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bowl6.png
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 155
+        width: 124
+        height: 117
+      alignment: 0
+      pivot: {x: 930, y: 213.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: box1.png
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 60
+        width: 90
+        height: 148
+      alignment: 0
+      pivot: {x: 480, y: 134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: box2.png
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 2
+        width: 89
+        height: 147
+      alignment: 0
+      pivot: {x: 793.5, y: 75.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: box3.png
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 211
+        width: 149
+        height: 178
+      alignment: 0
+      pivot: {x: 590.5, y: 300}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: box4.png
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2
+        width: 89
+        height: 147
+      alignment: 0
+      pivot: {x: 702.5, y: 75.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: box5.png
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 393
+        width: 177
+        height: 148
+      alignment: 0
+      pivot: {x: 732.5, y: 467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: box6.png
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 753
+        width: 149
+        height: 269
+      alignment: 0
+      pivot: {x: 718.5, y: 887.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boxA.png
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 391
+        width: 126
+        height: 231
+      alignment: 0
+      pivot: {x: 579, y: 506.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boxG.png
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 543
+        width: 145
+        height: 208
+      alignment: 0
+      pivot: {x: 716.5, y: 647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boxGx.png
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 877
+        width: 208
+        height: 145
+      alignment: 0
+      pivot: {x: 899, y: 949.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ellipse1.png
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 212
+        width: 92
+        height: 179
+      alignment: 0
+      pivot: {x: 820, y: 301.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: game_over_bg.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 624
+        width: 640
+        height: 398
+      alignment: 0
+      pivot: {x: 322, y: 823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: home_jq_sd.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 210
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 258, y: 416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

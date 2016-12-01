@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: b0834be6e10e3461b81844c0df9f9385
+timeCreated: 1473952381
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: basket2.png
+    21300002: launchlogo.png
+    21300004: nb_life_m.png
+    21300006: nb_star_0.png
+    21300008: nb_star_1.png
+    21300010: nb_star_2.png
+    21300012: nb_star_3.png
+    21300014: nb_star_4.png
+    21300016: nb_star_5.png
+    21300018: nb_star_6.png
+    21300020: nb_star_7.png
+    21300022: nb_star_8.png
+    21300024: nb_star_9.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: basket2.png
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 871
+        width: 210
+        height: 149
+      alignment: 0
+      pivot: {x: 755, y: 945.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: launchlogo.png
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 60
+        width: 640
+        height: 960
+      alignment: 0
+      pivot: {x: 324, y: 540}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_life_m.png
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 5
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 121.5, y: 15.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_star_0.png
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 32
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 105.5, y: 43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_star_1.png
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 104, y: 15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_star_2.png
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 4
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 82.5, y: 15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_star_3.png
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 32
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 82.5, y: 43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_star_4.png
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 13, y: 15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_star_5.png
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 4
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 59.5, y: 15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_star_6.png
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 32
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 59.5, y: 43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_star_7.png
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 4
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 36.5, y: 15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_star_8.png
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 32
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 36.5, y: 43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nb_star_9.png
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 32
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 13, y: 43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

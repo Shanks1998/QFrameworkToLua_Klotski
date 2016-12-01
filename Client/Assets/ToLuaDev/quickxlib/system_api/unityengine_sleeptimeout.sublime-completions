@@ -1,0 +1,13 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local SleepTimeout = UnityEngine.SleepTimeout",
+		"SleepTimeout = UnityEngine.SleepTimeout",
+		"UnityEngine.SleepTimeout.NeverSleep",
+		"SleepTimeout.NeverSleep",
+		"UnityEngine.SleepTimeout.SystemSetting",
+		"SleepTimeout.SystemSetting",
+	]
+}
+

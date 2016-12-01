@@ -1,0 +1,11 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local Space = UnityEngine.Space",
+		"Space = UnityEngine.Space",
+		"UnityEngine.Space.World",
+		"UnityEngine.Space.Self",
+	]
+}
+

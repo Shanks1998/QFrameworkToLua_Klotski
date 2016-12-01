@@ -1,0 +1,96 @@
+10/29/2016 01:11:07	Instance Name: QMsgCenter
+10/29/2016 01:11:07	DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+10/29/2016 01:11:07	Add New Singleton QMsgCenter in Game!
+10/29/2016 01:11:07	QMsgCenter Init
+10/29/2016 01:11:07	Multiple EventSystems in scene... this is not supported
+10/29/2016 01:11:07	Already exist: QUGUIMgr(Clone)
+10/29/2016 01:11:07	1:11:7.714-3: Register lua type cost time: 0.2374309
+10/29/2016 01:11:07	1:11:7.721-3: LuaState start
+10/29/2016 01:11:07	从这里开始游戏吗?
+10/29/2016 01:11:07	LuaFramework太好用了
+10/29/2016 01:11:07	1:11:7.752-3: [Common/functions.lua:396]:true    class() - create class "HomeLayer" with invalid super class type "table"
+10/29/2016 01:11:07	1:11:7.754-3: [Common/functions.lua:396]:true    class() - create class "CCSprite" with invalid super class type "table"
+10/29/2016 01:11:07	1:11:7.755-3: [Common/functions.lua:396]:true    class() - create class "CCToggle" with invalid super class type "table"
+10/29/2016 01:11:07	1:11:7.757-3: [Common/functions.lua:396]:true    class() - create class "CCButton" with invalid super class type "table"
+10/29/2016 01:11:07	1:11:7.759-3: [Common/functions.lua:396]:true    class() - create class "SuperHero" with invalid super class type "table"
+10/29/2016 01:11:07	1:11:7.761-3: [Common/functions.lua:396]:true    class() - create class "BlueHero" with invalid super class type "table"
+10/29/2016 01:11:07	1:11:7.762-3: [Common/functions.lua:396]:true    class() - create class "RedHero" with invalid super class type "table"
+10/29/2016 01:11:07	1:11:7.764-3: [Common/functions.lua:396]:true    class() - create class "GreenHero" with invalid super class type "table"
+10/29/2016 01:11:07	1:11:7.765-3: [Common/functions.lua:396]:true    class() - create class "YellowHero" with invalid super class type "table"
+10/29/2016 01:11:07	1:11:7.767-3: [Common/functions.lua:396]:true    class() - create class "MapLayer" with invalid super class type "table"
+10/29/2016 01:11:07	1:11:7.769-3: [Common/functions.lua:396]:true    class() - create class "MapPage" with invalid super class type "table"
+10/29/2016 01:11:07	1:11:7.771-3: [Common/functions.lua:396]:true    class() - create class "MapButton" with invalid super class type "table"
+10/29/2016 01:11:07	1:11:7.773-3: [Common/functions.lua:396]:true    class() - create class "GameLayer" with invalid super class type "table"
+10/29/2016 01:11:07	1:11:7.774-3: [Common/functions.lua:396]:true    class() - create class "EdgeSprite" with invalid super class type "table"
+10/29/2016 01:11:07	1:11:7.776-3: [Common/functions.lua:396]:true    class() - create class "GameLayer" with invalid super class type "table"
+10/29/2016 01:11:07	初始化GrayRunCtrl
+10/29/2016 01:11:07	***********hasResUpdated:False
+10/29/2016 01:11:07	DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+10/29/2016 01:11:07	进入游戏
+10/29/2016 01:11:07	[QABManager] Loading grayrun/prefab bundle
+10/29/2016 01:11:07	GameLayer init
+10/29/2016 01:11:07	GameLayer Enter
+10/29/2016 01:11:07	640:1136
+10/29/2016 01:11:07	EdgeInfo name:books2 x:596 y:226
+10/29/2016 01:11:07	EdgeInfo name:books2 x:44 y:380
+10/29/2016 01:11:07	EdgeInfo name:books2 x:608 y:586
+10/29/2016 01:11:07	EdgeInfo name:books2 x:46 y:762
+10/29/2016 01:11:07	EdgeInfo name:books1 x:594 y:852
+10/29/2016 01:11:07	EdgeInfo name:jm4 x:472 y:81
+10/29/2016 01:11:07	EdgeInfo name:jm4 x:174 y:235
+10/29/2016 01:11:07	EdgeInfo name:jm4 x:526 y:442
+10/29/2016 01:11:07	EdgeInfo name:jm4 x:172 y:617
+10/29/2016 01:11:07	EdgeInfo name:jm4 x:524 y:771
+10/29/2016 01:11:07	EdgeInfo name:cupRed x:156 y:0
+10/29/2016 01:11:07	1:11:7.900-3: Type System.Collections.Generic.List<EdgeInfo> not wrap to lua, push as System.Collections.Generic.List<T>, the warning is only raised once
+10/29/2016 01:11:07	1:11:7.903-3: [GrayRUn/Game/EdgeSprite.lua:18]:books2
+10/29/2016 01:11:07	1:11:7.905-3: [GrayRUn/Game/EdgeSprite.lua:19]:GrayRun/Sprite/game/edge/books2.png
+---------------------------------------------------------------------------------------------------------------------
+10/29/2016 01:11:07	LuaException: [string "System/coroutine"]:27: [string "cc/CCSprite"]:39: attempt to index field 'texture2D' (a nil value)
+stack traceback:
+	[string "cc/CCSprite"]:39: in function 'addTo'
+	[string "GrayRUn/Game/EdgeSprite"]:20: in function 'Init'
+	[string "GrayRun/Game/GameLayer"]:107: in function 'SetupEdge'
+	[string "GrayRun/Game/GameLayer"]:23: in function 'Enter'
+	[string "GrayRun/GrayRunCtrl"]:37: in function <[string "GrayRun/GrayRunCtrl"]:23>
+
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/ToLua/Core/LuaState.cs:672)
+LuaInterface.LuaFunction:PCall() (at Assets/ToLua/Core/LuaFunction.cs:91)
+LuaInterface.LuaFunction:Call() (at Assets/ToLua/Core/LuaFunction.cs:115)
+QFramework.QLuaMgr:StartMain() (at Assets/QFramework/Script/Manager/QLuaMgr.cs:225)
+QFramework.QLuaMgr:InitStart() (at Assets/QFramework/Script/Manager/QLuaMgr.cs:203)
+QFramework.GameManager:OnInitialize() (at Assets/_Script/GameManager.cs:184)
+QFramework.GameManager:OnResourceInited() (at Assets/_Script/GameManager.cs:179)
+QFramework.GameManager:CheckExtractResource() (at Assets/_Script/GameManager.cs:61)
+QFramework.<Init>c__Iterator1F:MoveNext() (at Assets/_Script/GameManager.cs:44)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+QFramework.GameManager:Awake() (at Assets/_Script/GameManager.cs:35)
+UnityEngine.GameObject:AddComponent()
+QFramework.Instance:AddMgr() (at Assets/QFramework/QFramework.cs:76)
+QFramework.<Init>c__Iterator3:MoveNext() (at Assets/QFramework/QFramework.cs:41)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+QFramework.GameManager:Awake() (at Assets/_Script/GameManager.cs:35)
+UnityEngine.GameObject:AddComponent()
+QFramework.Instance:AddMgr() (at Assets/QFramework/QFramework.cs:76)
+QFramework.<Init>c__Iterator3:MoveNext() (at Assets/QFramework/QFramework.cs:41)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+---------------------------------------------------------------------------------------------------------------------
+10/29/2016 01:11:32	Uncaught exception in async net callback: Object reference not set to an instance of an object
+10/29/2016 01:11:32	  at UnityEngine.GUISkin.GetStyle (System.String styleName) [0x00010] in /Users/builduser/buildslave/unity/build/Runtime/IMGUI/Managed/GUISkin.cs:319 
+  at UnityEngine.GUIStyle.op_Implicit (System.String str) [0x00020] in /Users/builduser/buildslave/unity/build/Runtime/IMGUI/Managed/GUIStyle.cs:586 
+  at UnityEditor.ProjectBrowser.InitSearchMenu () [0x00014] in /Users/builduser/buildslave/unity/build/Editor/Mono/ProjectBrowser.cs:483 
+  at UnityEditor.ProjectBrowser.AssetStoreSearchEndedCallback () [0x00000] in /Users/builduser/buildslave/unity/build/Editor/Mono/ProjectBrowser.cs:511 
+  at UnityEditor.ObjectListArea+<QueryAssetStore>c__AnonStorey40.<>m__60 (UnityEditor.AssetStoreSearchResults results) [0x00356] in /Users/builduser/buildslave/unity/build/Editor/Mono/ObjectListArea.cs:406 
+  at UnityEditor.AssetStoreResultBase`1[Derived].Parse (UnityEditor.AssetStoreResponse response) [0x000fc] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:89 
+  at UnityEditor.AssetStoreClient+<SearchAssets>c__AnonStorey61.<>m__B8 (UnityEditor.AssetStoreResponse ar) [0x00000] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:751 
+  at UnityEditor.AssetStoreClient+<WrapJsonCallback>c__AnonStorey60.<>m__B6 (UnityEditor.AsyncHTTPClient job) [0x00012] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:624 
+10/29/2016 01:11:32	Uncaught exception in async net callback: Object reference not set to an instance of an object
+10/29/2016 01:11:32	  at UnityEngine.GUISkin.GetStyle (System.String styleName) [0x00010] in /Users/builduser/buildslave/unity/build/Runtime/IMGUI/Managed/GUISkin.cs:319 
+  at UnityEngine.GUIStyle.op_Implicit (System.String str) [0x00020] in /Users/builduser/buildslave/unity/build/Runtime/IMGUI/Managed/GUIStyle.cs:586 
+  at UnityEditor.ProjectBrowser.InitSearchMenu () [0x00014] in /Users/builduser/buildslave/unity/build/Editor/Mono/ProjectBrowser.cs:483 
+  at UnityEditor.ProjectBrowser.AssetStoreSearchEndedCallback () [0x00000] in /Users/builduser/buildslave/unity/build/Editor/Mono/ProjectBrowser.cs:511 
+  at UnityEditor.ObjectListArea+<QueryAssetStore>c__AnonStorey40.<>m__60 (UnityEditor.AssetStoreSearchResults results) [0x00356] in /Users/builduser/buildslave/unity/build/Editor/Mono/ObjectListArea.cs:406 
+  at UnityEditor.AssetStoreResultBase`1[Derived].Parse (UnityEditor.AssetStoreResponse response) [0x000fc] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:89 
+  at UnityEditor.AssetStoreClient+<SearchAssets>c__AnonStorey61.<>m__B8 (UnityEditor.AssetStoreResponse ar) [0x00000] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:751 
+  at UnityEditor.AssetStoreClient+<WrapJsonCallback>c__AnonStorey60.<>m__B6 (UnityEditor.AsyncHTTPClient job) [0x00012] in /Users/builduser/buildslave/unity/build/Editor/Mono/AssetStore/AssetStoreClient.cs:624 

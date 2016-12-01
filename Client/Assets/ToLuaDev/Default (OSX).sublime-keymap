@@ -1,0 +1,5 @@
+[
+    { "keys": ["ctrl+shift+g"], "command": "quickx_goto_definition" },
+    { "keys": ["ctrl+shift+r"], "command": "quickx_run_with_player_by_file" },
+   	{ "keys": ["f1"], "command": "open_simulator_project"}
+]

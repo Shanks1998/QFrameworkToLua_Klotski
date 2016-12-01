@@ -1,0 +1,24 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local CapsuleCollider = UnityEngine.CapsuleCollider",
+		"CapsuleCollider = UnityEngine.CapsuleCollider",
+		"UnityEngine.CapsuleCollider.__eq()",
+		"UnityEngine.CapsuleCollider.__tostring()",
+		"UnityEngine.CapsuleCollider.center",
+		"capsuleCollider.center",
+		"UnityEngine.CapsuleCollider.radius",
+		"capsuleCollider.radius",
+		"UnityEngine.CapsuleCollider.height",
+		"capsuleCollider.height",
+		"UnityEngine.CapsuleCollider.direction",
+		"capsuleCollider.direction",
+		{ "trigger": "UnityEngine.CapsuleCollider.New()","contents": "UnityEngine.CapsuleCollider.New()"},
+		{ "trigger": "CapsuleCollider.New()","contents": "CapsuleCollider.New()"},
+		"UnityEngine.CapsuleCollider.op_Equality",
+		{ "trigger": "UnityEngine.CapsuleCollider.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "UnityEngine.CapsuleCollider.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+		{ "trigger": "CapsuleCollider.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "CapsuleCollider.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+	]
+}
+

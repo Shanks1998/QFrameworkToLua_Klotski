@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.meta","*.*.meta"
+
+			],
+		},
+		{
+			"path": "."
+		}
+	]
+}
+
+

@@ -1,0 +1,13 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"UnityEngine.EventSystems.AbstractEventData.__tostring()",
+		"UnityEngine.EventSystems.AbstractEventData.used",
+		"UnityEngine.EventSystems.AbstractEventData.Reset",
+		{ "trigger": "UnityEngine.EventSystems.AbstractEventData.Reset()","contents": "UnityEngine.EventSystems.AbstractEventData.Reset()"},
+		"UnityEngine.EventSystems.AbstractEventData.Use",
+		{ "trigger": "UnityEngine.EventSystems.AbstractEventData.Use()","contents": "UnityEngine.EventSystems.AbstractEventData.Use()"},
+	]
+}
+

@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.meta",
+				"*.*.meta"
+			],
+			"path": "QArt/QAB/Lua"
+		},
+		{
+			"path": "ToLua/Lua"
+		}
+	]
+}

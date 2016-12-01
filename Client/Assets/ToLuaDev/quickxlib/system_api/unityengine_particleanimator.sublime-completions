@@ -1,0 +1,34 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local ParticleAnimator = UnityEngine.ParticleAnimator",
+		"ParticleAnimator = UnityEngine.ParticleAnimator",
+		"UnityEngine.ParticleAnimator.__eq()",
+		"UnityEngine.ParticleAnimator.__tostring()",
+		"UnityEngine.ParticleAnimator.doesAnimateColor",
+		"particleAnimator.doesAnimateColor",
+		"UnityEngine.ParticleAnimator.worldRotationAxis",
+		"particleAnimator.worldRotationAxis",
+		"UnityEngine.ParticleAnimator.localRotationAxis",
+		"particleAnimator.localRotationAxis",
+		"UnityEngine.ParticleAnimator.sizeGrow",
+		"particleAnimator.sizeGrow",
+		"UnityEngine.ParticleAnimator.rndForce",
+		"particleAnimator.rndForce",
+		"UnityEngine.ParticleAnimator.force",
+		"particleAnimator.force",
+		"UnityEngine.ParticleAnimator.damping",
+		"particleAnimator.damping",
+		"UnityEngine.ParticleAnimator.autodestruct",
+		"particleAnimator.autodestruct",
+		"UnityEngine.ParticleAnimator.colorAnimation",
+		"particleAnimator.colorAnimation",
+		{ "trigger": "UnityEngine.ParticleAnimator.New()","contents": "UnityEngine.ParticleAnimator.New()"},
+		{ "trigger": "ParticleAnimator.New()","contents": "ParticleAnimator.New()"},
+		"UnityEngine.ParticleAnimator.op_Equality",
+		{ "trigger": "UnityEngine.ParticleAnimator.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "UnityEngine.ParticleAnimator.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+		{ "trigger": "ParticleAnimator.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "ParticleAnimator.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+	]
+}
+

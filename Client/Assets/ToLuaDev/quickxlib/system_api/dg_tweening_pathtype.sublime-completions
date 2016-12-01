@@ -1,0 +1,9 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"DG.Tweening.PathType.Linear",
+		"DG.Tweening.PathType.CatmullRom",
+	]
+}
+

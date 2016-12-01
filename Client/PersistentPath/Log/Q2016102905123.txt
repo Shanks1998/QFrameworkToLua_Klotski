@@ -1,0 +1,68 @@
+10/29/2016 00:51:23	Instance Name: QMsgCenter
+10/29/2016 00:51:23	DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+10/29/2016 00:51:23	Add New Singleton QMsgCenter in Game!
+10/29/2016 00:51:23	QMsgCenter Init
+10/29/2016 00:51:23	Multiple EventSystems in scene... this is not supported
+10/29/2016 00:51:23	Already exist: QUGUIMgr(Clone)
+10/29/2016 00:51:24	0:51:24.69-3: Register lua type cost time: 0.214641
+10/29/2016 00:51:24	0:51:24.84-3: LuaState start
+10/29/2016 00:51:24	从这里开始游戏吗?
+10/29/2016 00:51:24	LuaFramework太好用了
+10/29/2016 00:51:24	0:51:24.114-3: [Common/functions.lua:396]:true    class() - create class "HomeLayer" with invalid super class type "table"
+10/29/2016 00:51:24	0:51:24.115-3: [Common/functions.lua:396]:true    class() - create class "CCSprite" with invalid super class type "table"
+10/29/2016 00:51:24	0:51:24.117-3: [Common/functions.lua:396]:true    class() - create class "CCToggle" with invalid super class type "table"
+10/29/2016 00:51:24	0:51:24.119-3: [Common/functions.lua:396]:true    class() - create class "CCButton" with invalid super class type "table"
+10/29/2016 00:51:24	0:51:24.121-3: [Common/functions.lua:396]:true    class() - create class "SuperHero" with invalid super class type "table"
+10/29/2016 00:51:24	0:51:24.122-3: [Common/functions.lua:396]:true    class() - create class "BlueHero" with invalid super class type "table"
+10/29/2016 00:51:24	0:51:24.124-3: [Common/functions.lua:396]:true    class() - create class "RedHero" with invalid super class type "table"
+10/29/2016 00:51:24	0:51:24.126-3: [Common/functions.lua:396]:true    class() - create class "GreenHero" with invalid super class type "table"
+10/29/2016 00:51:24	0:51:24.127-3: [Common/functions.lua:396]:true    class() - create class "YellowHero" with invalid super class type "table"
+10/29/2016 00:51:24	0:51:24.129-3: [Common/functions.lua:396]:true    class() - create class "MapLayer" with invalid super class type "table"
+10/29/2016 00:51:24	0:51:24.131-3: [Common/functions.lua:396]:true    class() - create class "MapPage" with invalid super class type "table"
+10/29/2016 00:51:24	0:51:24.132-3: [Common/functions.lua:396]:true    class() - create class "MapButton" with invalid super class type "table"
+10/29/2016 00:51:24	0:51:24.134-3: [Common/functions.lua:396]:true    class() - create class "GameLayer" with invalid super class type "table"
+10/29/2016 00:51:24	0:51:24.136-3: [Common/functions.lua:396]:true    class() - create class "GameLayer" with invalid super class type "table"
+---------------------------------------------------------------------------------------------------------------------
+10/29/2016 00:51:24	LuaException: [string "GrayRun/Manager/Init"]:8: module 'InfoManager' not found:
+	no field package.preload['InfoManager']
+	no file './InfoManager.lua'
+	no file '/usr/local/share/lua/5.1/InfoManager.lua'
+	no file '/usr/local/share/lua/5.1/InfoManager/init.lua'
+	no file '/usr/local/lib/lua/5.1/InfoManager.lua'
+	no file '/usr/local/lib/lua/5.1/InfoManager/init.lua'
+	no file '/Users/admin/AmusePark/Client/Assets/ToLua/Lua/InfoManager.lua'
+	no file '/Users/admin/AmusePark/Client/Assets/QArt/QAB/Lua/InfoManager.lua'
+	no file '/Users/admin/AmusePark/Client/qart/qab/lua/InfoManager.lua'
+	no file './InfoManager.so'
+	no file '/usr/local/lib/lua/5.1/InfoManager.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	[string "GrayRun/Manager/Init"]:8: in main chunk
+	[C]: in function 'require'
+	[string "GrayRun/GrayRunCtrl"]:19: in main chunk
+	[C]: in function 'require'
+	[string "Main.lua"]:18: in function <[string "Main.lua"]:5>
+
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/ToLua/Core/LuaState.cs:672)
+LuaInterface.LuaFunction:PCall() (at Assets/ToLua/Core/LuaFunction.cs:91)
+LuaInterface.LuaFunction:Call() (at Assets/ToLua/Core/LuaFunction.cs:115)
+QFramework.QLuaMgr:StartMain() (at Assets/QFramework/Script/Manager/QLuaMgr.cs:225)
+QFramework.QLuaMgr:InitStart() (at Assets/QFramework/Script/Manager/QLuaMgr.cs:203)
+QFramework.GameManager:OnInitialize() (at Assets/_Script/GameManager.cs:184)
+QFramework.GameManager:OnResourceInited() (at Assets/_Script/GameManager.cs:179)
+QFramework.GameManager:CheckExtractResource() (at Assets/_Script/GameManager.cs:61)
+QFramework.<Init>c__Iterator1F:MoveNext() (at Assets/_Script/GameManager.cs:44)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+QFramework.GameManager:Awake() (at Assets/_Script/GameManager.cs:35)
+UnityEngine.GameObject:AddComponent()
+QFramework.Instance:AddMgr() (at Assets/QFramework/QFramework.cs:76)
+QFramework.<Init>c__Iterator3:MoveNext() (at Assets/QFramework/QFramework.cs:41)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+QFramework.GameManager:Awake() (at Assets/_Script/GameManager.cs:35)
+UnityEngine.GameObject:AddComponent()
+QFramework.Instance:AddMgr() (at Assets/QFramework/QFramework.cs:76)
+QFramework.<Init>c__Iterator3:MoveNext() (at Assets/QFramework/QFramework.cs:41)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+---------------------------------------------------------------------------------------------------------------------

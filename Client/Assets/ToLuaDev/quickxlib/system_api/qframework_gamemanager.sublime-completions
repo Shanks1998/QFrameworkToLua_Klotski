@@ -1,0 +1,32 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local GameManager = QFramework.GameManager",
+		"GameManager = QFramework.GameManager",
+		"QFramework.GameManager.__eq()",
+		"QFramework.GameManager.__tostring()",
+		"QFramework.GameManager.Instance",
+		"gameManager.Instance",
+		"QFramework.GameManager.Start",
+		{ "trigger": "QFramework.GameManager.Start()","contents": "QFramework.GameManager.Start()"},
+		{ "trigger": ":Start()","contents": "Start()"},
+		{ "trigger": "gameManager:Start()","contents": "gameManager:Start()"},
+		"QFramework.GameManager.Launch",
+		{ "trigger": "QFramework.GameManager.Launch()","contents": "QFramework.GameManager.Launch()"},
+		{ "trigger": ":Launch()","contents": "Launch()"},
+		{ "trigger": "gameManager:Launch()","contents": "gameManager:Launch()"},
+		"QFramework.GameManager.CheckExtractResource",
+		{ "trigger": "QFramework.GameManager.CheckExtractResource()","contents": "QFramework.GameManager.CheckExtractResource()"},
+		{ "trigger": ":CheckExtractResource()","contents": "CheckExtractResource()"},
+		{ "trigger": "gameManager:CheckExtractResource()","contents": "gameManager:CheckExtractResource()"},
+		"QFramework.GameManager.OnResourceInited",
+		{ "trigger": "QFramework.GameManager.OnResourceInited()","contents": "QFramework.GameManager.OnResourceInited()"},
+		{ "trigger": ":OnResourceInited()","contents": "OnResourceInited()"},
+		{ "trigger": "gameManager:OnResourceInited()","contents": "gameManager:OnResourceInited()"},
+		"QFramework.GameManager.op_Equality",
+		{ "trigger": "QFramework.GameManager.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "QFramework.GameManager.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+		{ "trigger": "GameManager.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "GameManager.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+	]
+}
+

@@ -1,0 +1,18 @@
+{
+	"scope": "source.lua",
+	"completions":
+	[
+		"local MeshRenderer = UnityEngine.MeshRenderer",
+		"MeshRenderer = UnityEngine.MeshRenderer",
+		"UnityEngine.MeshRenderer.__eq()",
+		"UnityEngine.MeshRenderer.__tostring()",
+		"UnityEngine.MeshRenderer.additionalVertexStreams",
+		"meshRenderer.additionalVertexStreams",
+		{ "trigger": "UnityEngine.MeshRenderer.New()","contents": "UnityEngine.MeshRenderer.New()"},
+		{ "trigger": "MeshRenderer.New()","contents": "MeshRenderer.New()"},
+		"UnityEngine.MeshRenderer.op_Equality",
+		{ "trigger": "UnityEngine.MeshRenderer.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "UnityEngine.MeshRenderer.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+		{ "trigger": "MeshRenderer.op_Equality(UnityEngine.Object:x,UnityEngine.Object:y)","contents": "MeshRenderer.op_Equality(${1:UnityEngine.Object:x},${2:UnityEngine.Object:y})"},
+	]
+}
+

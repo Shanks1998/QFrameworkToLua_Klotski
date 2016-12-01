@@ -1,0 +1,62 @@
+10/29/2016 01:56:51	QMsgCenter Init
+10/29/2016 01:56:51	Multiple EventSystems in scene... this is not supported
+10/29/2016 01:56:51	Already exist: QUGUIMgr(Clone)
+10/29/2016 01:56:51	Multiple EventSystems in scene... this is not supported
+10/29/2016 01:56:51	1:56:51.902-3: Register lua type cost time: 0.226639
+---------------------------------------------------------------------------------------------------------------------
+10/29/2016 01:56:51	NullReferenceException: Object reference not set to an instance of an object
+
+QFramework.GameManager.OnResourceInited () (at Assets/_Script/GameManager.cs:178)
+QFramework.GameManager.CheckExtractResource () (at Assets/_Script/GameManager.cs:61)
+QFramework.GameManager+<Init>c__Iterator21.MoveNext () (at Assets/_Script/GameManager.cs:44)
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) (at /Users/builduser/buildslave/unity/build/Runtime/Export/Coroutines.cs:17)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+QFramework.GameManager:Awake() (at Assets/_Script/GameManager.cs:35)
+UnityEngine.GameObject:AddComponent()
+QFrameworkLua.Instance:AddMgr() (at Assets/QFramework/Script/Lua/QLuaFramework.cs:72)
+QFrameworkLua.<Init>c__Iterator11:MoveNext() (at Assets/QFramework/Script/Lua/QLuaFramework.cs:37)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+---------------------------------------------------------------------------------------------------------------------
+10/29/2016 01:56:51	1:56:51.924-3: Register lua type cost time: 0.009341955
+10/29/2016 01:56:51	Can't add component 'AudioListener' to QApp because such a component is already added to the game object!
+10/29/2016 01:56:51	1:56:51.927-3: LuaState start
+10/29/2016 01:56:51	Already exist: GrayRun
+---------------------------------------------------------------------------------------------------------------------
+10/29/2016 01:56:51	LuaException: cannot open GrayRun: No such file or directory
+	no file './GrayRun.lua'
+	no file '/usr/local/share/lua/5.1/GrayRun.lua'
+	no file '/usr/local/share/lua/5.1/GrayRun/init.lua'
+	no file '/usr/local/lib/lua/5.1/GrayRun.lua'
+	no file '/usr/local/lib/lua/5.1/GrayRun/init.lua'
+	no file '/Users/admin/AmusePark/Client/Assets/ToLua/Lua/GrayRun.lua'
+	no file '/Users/admin/AmusePark/Client/Assets/QArt/QAB/Lua/GrayRun.lua'
+	no file '/Users/admin/AmusePark/Client/qart/qab/lua/GrayRun.lua'
+
+LuaInterface.LuaState:DoFile(String) (at Assets/ToLua/Core/LuaState.cs:577)
+QFramework.QLuaMgr:StartMain() (at Assets/QFramework/Script/Manager/QLuaMgr.cs:223)
+QFramework.QLuaMgr:InitStart() (at Assets/QFramework/Script/Manager/QLuaMgr.cs:203)
+QFramework.GameManager:OnInitialize() (at Assets/_Script/GameManager.cs:184)
+QFramework.GameManager:OnResourceInited() (at Assets/_Script/GameManager.cs:179)
+QFramework.GameManager:CheckExtractResource() (at Assets/_Script/GameManager.cs:61)
+QFramework.<Init>c__Iterator21:MoveNext() (at Assets/_Script/GameManager.cs:44)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+QFramework.GameManager:Awake() (at Assets/_Script/GameManager.cs:35)
+UnityEngine.GameObject:AddComponent()
+QFramework.Instance:AddMgr() (at Assets/QFramework/QFramework.cs:76)
+QFramework.<Init>c__Iterator3:MoveNext() (at Assets/QFramework/QFramework.cs:41)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+QFramework.GameManager:Awake() (at Assets/_Script/GameManager.cs:35)
+UnityEngine.GameObject:AddComponent()
+QFramework.Instance:AddMgr() (at Assets/QFramework/QFramework.cs:76)
+QFramework.<Init>c__Iterator3:MoveNext() (at Assets/QFramework/QFramework.cs:41)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
+10/29/2016 01:56:51	NullReferenceException: Object reference not set to an instance of an object
+
+QFramework.QApp+<Start>c__Iterator18.MoveNext () (at Assets/QFramework/Script/QApp.cs:53)
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) (at /Users/builduser/buildslave/unity/build/Runtime/Export/Coroutines.cs:17)
+
+---------------------------------------------------------------------------------------------------------------------
