@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2526102390
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec0f0adb428fc6f315ce8215c62db2a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/temp/Lua/GrayRun/InputCtrl.lua.bytes
+- Assets/temp/Lua/GrayRun/GrayRun.lua.bytes
+- Assets/temp/Lua/GrayRun/GrayRunCtrl.lua.bytes
+Dependencies: []

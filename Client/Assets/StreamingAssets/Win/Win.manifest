@@ -1,0 +1,88 @@
+ManifestFileVersion: 0
+CRC: 3173969705
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: grayrun/prefab
+      Dependencies: {}
+    Info_1:
+      Name: lua_misc.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: lua_protobuf.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: lua_grayrun_plot.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: lua_unityengine.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: lua_cc.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: lua.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: lua_klotski.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: lua_grayrun_objects.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: lua_logic.unity3d
+      Dependencies: {}
+    Info_10:
+      Name: lua_socket.unity3d
+      Dependencies: {}
+    Info_11:
+      Name: lua_cjson.unity3d
+      Dependencies: {}
+    Info_12:
+      Name: lua_system.unity3d
+      Dependencies: {}
+    Info_13:
+      Name: lua_mappage.unity3d
+      Dependencies: {}
+    Info_14:
+      Name: lua_grayrun_global.unity3d
+      Dependencies: {}
+    Info_15:
+      Name: lua_grayrun_map.unity3d
+      Dependencies: {}
+    Info_16:
+      Name: lua_lpeg.unity3d
+      Dependencies: {}
+    Info_17:
+      Name: lua_grayrun_home.unity3d
+      Dependencies: {}
+    Info_18:
+      Name: lua_system_reflection.unity3d
+      Dependencies: {}
+    Info_19:
+      Name: lua_grayrun.unity3d
+      Dependencies: {}
+    Info_20:
+      Name: lua_grayrun_logo.unity3d
+      Dependencies: {}
+    Info_21:
+      Name: lua_grayrun_game.unity3d
+      Dependencies: {}
+    Info_22:
+      Name: lua_framework.unity3d
+      Dependencies: {}
+    Info_23:
+      Name: lua_playground.unity3d
+      Dependencies: {}
+    Info_24:
+      Name: lua_grayrun_info.unity3d
+      Dependencies: {}
+    Info_25:
+      Name: lua_grayrun_manager.unity3d
+      Dependencies: {}
+    Info_26:
+      Name: lua_klotski_data.unity3d
+      Dependencies: {}
+    Info_27:
+      Name: lua_klotski_manager.unity3d
+      Dependencies: {}

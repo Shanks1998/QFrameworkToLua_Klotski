@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1240938065
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8928b880b192963a7cd2ce29a712d6ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/temp/Lua/GrayRun/Map/MapLayer.lua.bytes
+- Assets/temp/Lua/GrayRun/Map/MapButton.lua.bytes
+- Assets/temp/Lua/GrayRun/Map/MapPage.lua.bytes
+Dependencies: []
